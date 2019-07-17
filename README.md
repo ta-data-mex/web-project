@@ -38,13 +38,14 @@ The following deliverables should be pushed to your Github repo for this chapter
 * **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
 * **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
 
-## Useful Resources
+## Useful Resources API and Web Data Scraping
 
 * [Requests Library Documentation: Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
 * [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Stack Overflow Python Requests Questions](https://stackoverflow.com/questions/tagged/python-requests)
 * [StackOverflow BeautifulSoup Questions](https://stackoverflow.com/questions/tagged/beautifulsoup)
 
+## Useful Resources Web Data Pipeline
 
 * [Python Functional Programming How To Documentation](https://docs.python.org/3.7/howto/functional.html)
 * [Python List Comprehensions Documentation](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
