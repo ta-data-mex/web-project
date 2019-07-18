@@ -1,6 +1,7 @@
 import requests
-import BeautifulSoup
+from bs4 import BeautifulSoup
 import re
+import pandas as pd
 
 '''
 El código de esta página hará lo siguiente:
