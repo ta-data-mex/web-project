@@ -5,7 +5,7 @@
 ### The idea
 The idea that I came up was to do an analysis of the forest fires in the last year of the "Bosque de la primavera" in Jalisco, near Guadalajara. (Sad news: This is a recurring event yearly).
 
-![Bosque de la primavera](primavera.png)
+![Bosque de la primavera](https://geology.com/world-cities/guadalajara-mexico.jpg)
 
 
 #### Some information:
