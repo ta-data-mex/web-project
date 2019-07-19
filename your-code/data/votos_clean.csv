@@ -1,0 +1,2777 @@
+ID Votacao,Nome,Partido,Voto,Sim,Não,Obstrução
+21775,Bia Kicis         ,PSL-DF,Sim,1,0,0
+21775,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+21775,Delegado Marcelo  ,PSL-MG,Sim,1,0,0
+21775,Delegado Waldir   ,PSL-GO,Sim,1,0,0
+21775,FelipeFrancischini,PSL-PR,Sim,1,0,0
+21775,Nicoletti         ,PSL-RR,Sim,1,0,0
+21775,Coronel Tadeu     ,PSL-SP,Sim,1,0,0
+21775,Hiran Gonçalves   ,PP-RR,Sim,1,0,0
+21775,Marcelo Aro       ,PP-MG,Sim,1,0,0
+21775,Margarete Coelho  ,PP-PI,Sim,1,0,0
+21775,Cacá Leão         ,PP-BA,Sim,1,0,0
+21775,Pedro Westphalen  ,PP-RS,Sim,1,0,0
+21775,Darci de Matos    ,PSD-SC,Sim,1,0,0
+21775,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+21775,Edilazio Junior   ,PSD-MA,Sim,1,0,0
+21775,Fábio Trad        ,PSD-MS,Sim,1,0,0
+21775,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+21775,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+21775,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+21775,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+21775,David Soares      ,DEM-SP,Sim,1,0,0
+21775,Alceu Moreira     ,MDB-RS,Sim,1,0,0
+21775,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+21775,Márcio Biolchi    ,MDB-RS,Sim,1,0,0
+21775,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+21775,Giovani Cherini   ,PR-RS,Sim,1,0,0
+21775,Marcelo Ramos     ,PR-AM,Sim,1,0,0
+21775,Sergio Toledo     ,PR-AL,Sim,1,0,0
+21775,Vicentinho Júnior ,PR-TO,Sim,1,0,0
+21775,João Campos       ,PRB-GO,Sim,1,0,0
+21775,João Roma         ,PRB-BA,Sim,1,0,0
+21775,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+21775,Luizão Goulart    ,PRB-PR,Sim,1,0,0
+21775,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+21775,Paulo Abi-Ackel   ,PSDB-MG,Sim,1,0,0
+21775,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+21775,Shéridan          ,PSDB-RR,Sim,1,0,0
+21775,Paulo Martins     ,PSC-PR,Sim,1,0,0
+21775,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21775,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21775,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21775,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21775,Pompeo de Mattos  ,PDT-RS,Obstrução,0,0,1
+21775,José Medeiros     ,PODE-MT,Sim,1,0,0
+21775,Genecias Noronha  ,SOLIDARIEDADE-CE,Sim,1,0,0
+21775,Paulo Pereira     ,SOLIDARIEDADE-SP,Sim,1,0,0
+21775,Rubens Bueno      ,CIDADANIA-PR,Sim,1,0,0
+21775,Pastor Eurico     ,PATRI-PE,Sim,1,0,0
+21775,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21775,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21775,Enrico Misasi     ,PV-SP,Sim,1,0,0
+21775,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21775,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21775,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21775,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21775,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21775,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21775,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21775,Danilo Cabral     ,PSB-PE,Obstrução,0,0,1
+21775,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21775,Júlio Delgado     ,PSB-MG,Não,0,1,0
+21775,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21775,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21775,Gilson Marques    ,NOVO-SC,Sim,1,0,0
+21776,Bia Kicis         ,PSL-DF,Não,0,1,0
+21776,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21776,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21776,FelipeFrancischini,PSL-PR,Não,0,1,0
+21776,Nicoletti         ,PSL-RR,Não,0,1,0
+21776,Coronel Tadeu     ,PSL-SP,Não,0,1,0
+21776,Chris Tonietto    ,PSL-RJ,Não,0,1,0
+21776,Hiran Gonçalves   ,PP-RR,Não,0,1,0
+21776,Margarete Coelho  ,PP-PI,Não,0,1,0
+21776,Pedro Westphalen  ,PP-RS,Não,0,1,0
+21776,Darci de Matos    ,PSD-SC,Não,0,1,0
+21776,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21776,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21776,Fábio Trad        ,PSD-MS,Não,0,1,0
+21776,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21776,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21776,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21776,Olival Marques    ,DEM-PA,Não,0,1,0
+21776,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21776,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+21776,Giovani Cherini   ,PR-RS,Não,0,1,0
+21776,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21776,Sergio Toledo     ,PR-AL,Não,0,1,0
+21776,Vicentinho Júnior ,PR-TO,Não,0,1,0
+21776,João Campos       ,PRB-GO,Não,0,1,0
+21776,João Roma         ,PRB-BA,Não,0,1,0
+21776,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21776,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21776,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21776,Paulo Abi-Ackel   ,PSDB-MG,Não,0,1,0
+21776,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21776,Shéridan          ,PSDB-RR,Não,0,1,0
+21776,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21776,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21776,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21776,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21776,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21776,José Medeiros     ,PODE-MT,Não,0,1,0
+21776,Pr Marco Feliciano,PODE-SP,Não,0,1,0
+21776,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21776,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21776,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21776,Enrico Misasi     ,PV-SP,Não,0,1,0
+21776,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21776,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21776,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21776,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21776,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21776,Rui Falcão        ,PT-SP,Obstrução,0,0,1
+21776,Odair Cunha       ,PT-MG,Obstrução,0,0,1
+21776,Danilo Cabral     ,PSB-PE,Obstrução,0,0,1
+21776,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21776,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21776,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21776,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21776,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21777,Bia Kicis         ,PSL-DF,Não,0,1,0
+21777,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21777,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21777,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21777,FelipeFrancischini,PSL-PR,Não,0,1,0
+21777,Nicoletti         ,PSL-RR,Não,0,1,0
+21777,Chris Tonietto    ,PSL-RJ,Não,0,1,0
+21777,Aguinaldo Ribeiro ,PP-PB,Não,0,1,0
+21777,Hiran Gonçalves   ,PP-RR,Não,0,1,0
+21777,Margarete Coelho  ,PP-PI,Não,0,1,0
+21777,Cacá Leão         ,PP-BA,Não,0,1,0
+21777,Darci de Matos    ,PSD-SC,Não,0,1,0
+21777,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21777,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21777,Fábio Trad        ,PSD-MS,Não,0,1,0
+21777,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21777,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21777,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21777,Paulo Azi         ,DEM-BA,Não,0,1,0
+21777,Alceu Moreira     ,MDB-RS,Não,0,1,0
+21777,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21777,Herculano Passos  ,MDB-SP,Não,0,1,0
+21777,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21777,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21777,Giovani Cherini   ,PR-RS,Não,0,1,0
+21777,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21777,Sergio Toledo     ,PR-AL,Não,0,1,0
+21777,João Campos       ,PRB-GO,Não,0,1,0
+21777,João Roma         ,PRB-BA,Não,0,1,0
+21777,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21777,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21777,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21777,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21777,Shéridan          ,PSDB-RR,Não,0,1,0
+21777,Paulo Martins     ,PSC-PR,Não,0,1,0
+21777,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21777,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21777,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21777,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21777,Dagoberto Nogueira,PDT-MS,Sim,1,0,0
+21777,Léo Moraes        ,PODE-RO,Não,0,1,0
+21777,José Medeiros     ,PODE-MT,Não,0,1,0
+21777,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21777,Augusto Coutinho  ,SOLIDARIEDADE-PE,Não,0,1,0
+21777,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21777,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21777,Clarissa Garotinho,PROS-RJ,Sim,1,0,0
+21777,Enrico Misasi     ,PV-SP,Não,0,1,0
+21777,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+21777,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21777,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21777,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21777,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21777,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21777,Erika Kokay       ,PT-DF,Obstrução,0,0,1
+21777,João H. Campos    ,PSB-PE,Sim,1,0,0
+21777,Júlio Delgado     ,PSB-MG,Sim,1,0,0
+21777,Tadeu Alencar     ,PSB-PE,Sim,1,0,0
+21777,Talíria Petrone   ,PSOL-RJ,Sim,1,0,0
+21777,Adriana Ventura   ,NOVO-SP,Não,0,1,0
+21778,Bia Kicis         ,PSL-DF,Não,0,1,0
+21778,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21778,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21778,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21778,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21778,FelipeFrancischini,PSL-PR,Não,0,1,0
+21778,Nicoletti         ,PSL-RR,Não,0,1,0
+21778,Beto Rosado       ,PP-RN,Não,0,1,0
+21778,Marcelo Aro       ,PP-MG,Não,0,1,0
+21778,Cacá Leão         ,PP-BA,Não,0,1,0
+21778,Pedro Westphalen  ,PP-RS,Não,0,1,0
+21778,Darci de Matos    ,PSD-SC,Não,0,1,0
+21778,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21778,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21778,Fábio Trad        ,PSD-MS,Não,0,1,0
+21778,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21778,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+21778,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21778,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21778,Paulo Azi         ,DEM-BA,Não,0,1,0
+21778,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21778,Herculano Passos  ,MDB-SP,Não,0,1,0
+21778,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21778,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21778,Sergio Toledo     ,PR-AL,Não,0,1,0
+21778,João Campos       ,PRB-GO,Não,0,1,0
+21778,João Roma         ,PRB-BA,Não,0,1,0
+21778,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21778,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21778,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21778,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21778,Paulo Martins     ,PSC-PR,Não,0,1,0
+21778,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21778,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21778,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21778,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21778,Pompeo de Mattos  ,PDT-RS,Obstrução,0,0,1
+21778,José Medeiros     ,PODE-MT,Não,0,1,0
+21778,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21778,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21778,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21778,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21778,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21778,Enrico Misasi     ,PV-SP,Não,0,1,0
+21778,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21778,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21778,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21778,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21778,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21778,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21778,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21778,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21778,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21778,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21778,Tadeu Alencar     ,PSB-PE,Obstrução,0,0,1
+21778,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21778,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21779,Bia Kicis         ,PSL-DF,Não,0,1,0
+21779,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21779,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21779,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21779,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21779,FelipeFrancischini,PSL-PR,Não,0,1,0
+21779,Nicoletti         ,PSL-RR,Não,0,1,0
+21779,Beto Rosado       ,PP-RN,Não,0,1,0
+21779,Marcelo Aro       ,PP-MG,Não,0,1,0
+21779,Margarete Coelho  ,PP-PI,Não,0,1,0
+21779,Cacá Leão         ,PP-BA,Não,0,1,0
+21779,Darci de Matos    ,PSD-SC,Não,0,1,0
+21779,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21779,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21779,Fábio Trad        ,PSD-MS,Não,0,1,0
+21779,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21779,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+21779,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21779,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21779,Paulo Azi         ,DEM-BA,Não,0,1,0
+21779,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21779,Herculano Passos  ,MDB-SP,Não,0,1,0
+21779,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21779,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+21779,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21779,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21779,Sergio Toledo     ,PR-AL,Não,0,1,0
+21779,João Campos       ,PRB-GO,Não,0,1,0
+21779,João Roma         ,PRB-BA,Não,0,1,0
+21779,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21779,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21779,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21779,Paulo Abi-Ackel   ,PSDB-MG,Não,0,1,0
+21779,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21779,Paulo Martins     ,PSC-PR,Não,0,1,0
+21779,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21779,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21779,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21779,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21779,Sergio Vidigal    ,PDT-ES,Obstrução,0,0,1
+21779,Diego Garcia      ,PODE-PR,Não,0,1,0
+21779,José Medeiros     ,PODE-MT,Não,0,1,0
+21779,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21779,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21779,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21779,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21779,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21779,Enrico Misasi     ,PV-SP,Não,0,1,0
+21779,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21779,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21779,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21779,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21779,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21779,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21779,Rui Falcão        ,PT-SP,Obstrução,0,0,1
+21779,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21779,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21779,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21779,Tadeu Alencar     ,PSB-PE,Obstrução,0,0,1
+21779,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21779,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21782,Bia Kicis         ,PSL-DF,Sim,1,0,0
+21782,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+21782,Daniel Freitas    ,PSL-SC,Sim,1,0,0
+21782,Delegado Marcelo  ,PSL-MG,Sim,1,0,0
+21782,Delegado Waldir   ,PSL-GO,Sim,1,0,0
+21782,FelipeFrancischini,PSL-PR,Sim,1,0,0
+21782,Nicoletti         ,PSL-RR,Sim,1,0,0
+21782,Aguinaldo Ribeiro ,PP-PB,Sim,1,0,0
+21782,Beto Rosado       ,PP-RN,Sim,1,0,0
+21782,Hiran Gonçalves   ,PP-RR,Sim,1,0,0
+21782,Marcelo Aro       ,PP-MG,Sim,1,0,0
+21782,Margarete Coelho  ,PP-PI,Sim,1,0,0
+21782,Darci de Matos    ,PSD-SC,Sim,1,0,0
+21782,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+21782,Edilazio Junior   ,PSD-MA,Sim,1,0,0
+21782,Fábio Trad        ,PSD-MS,Sim,1,0,0
+21782,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+21782,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+21782,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+21782,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+21782,Paulo Azi         ,DEM-BA,Sim,1,0,0
+21782,Alceu Moreira     ,MDB-RS,Sim,1,0,0
+21782,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+21782,Herculano Passos  ,MDB-SP,Sim,1,0,0
+21782,Márcio Biolchi    ,MDB-RS,Sim,1,0,0
+21782,Gelson Azevedo    ,PR-RJ,Sim,1,0,0
+21782,Giovani Cherini   ,PR-RS,Sim,1,0,0
+21782,Marcelo Ramos     ,PR-AM,Sim,1,0,0
+21782,Sergio Toledo     ,PR-AL,Sim,1,0,0
+21782,João Campos       ,PRB-GO,Sim,1,0,0
+21782,João Roma         ,PRB-BA,Sim,1,0,0
+21782,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+21782,Luizão Goulart    ,PRB-PR,Sim,1,0,0
+21782,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+21782,Paulo Abi-Ackel   ,PSDB-MG,Sim,1,0,0
+21782,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+21782,Shéridan          ,PSDB-RR,Sim,1,0,0
+21782,Paulo Martins     ,PSC-PR,Sim,1,0,0
+21782,Maurício Dziedrick,PTB-RS,Sim,1,0,0
+21782,Afonso Motta      ,PDT-RS,Não,0,1,0
+21782,Eduardo Bismarck  ,PDT-CE,Não,0,1,0
+21782,Gil Cutrim        ,PDT-MA,Não,0,1,0
+21782,SubtenenteGonzaga ,PDT-MG,Não,0,1,0
+21782,Diego Garcia      ,PODE-PR,Sim,1,0,0
+21782,Léo Moraes        ,PODE-RO,Sim,1,0,0
+21782,Genecias Noronha  ,SOLIDARIEDADE-CE,Sim,1,0,0
+21782,Augusto Coutinho  ,SOLIDARIEDADE-PE,Sim,1,0,0
+21782,Luis Tibé         ,AVANTE-MG,Sim,1,0,0
+21782,Rubens Bueno      ,CIDADANIA-PR,Sim,1,0,0
+21782,Pastor Eurico     ,PATRI-PE,Sim,1,0,0
+21782,Renildo Calheiros ,PCdoB-PE,Não,0,1,0
+21782,Clarissa Garotinho,PROS-RJ,Não,0,1,0
+21782,Enrico Misasi     ,PV-SP,Sim,1,0,0
+21782,Alencar S. Braga  ,PT-SP,Não,0,1,0
+21782,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+21782,José Guimarães    ,PT-CE,Não,0,1,0
+21782,Maria do Rosário  ,PT-RS,Não,0,1,0
+21782,Nelson Pellegrino ,PT-BA,Não,0,1,0
+21782,Patrus Ananias    ,PT-MG,Não,0,1,0
+21782,Paulo Teixeira    ,PT-SP,Não,0,1,0
+21782,Danilo Cabral     ,PSB-PE,Não,0,1,0
+21782,João H. Campos    ,PSB-PE,Não,0,1,0
+21782,Júlio Delgado     ,PSB-MG,Não,0,1,0
+21782,Luiz Flávio Gomes ,PSB-SP,Não,0,1,0
+21782,Talíria Petrone   ,PSOL-RJ,Não,0,1,0
+21782,Gilson Marques    ,NOVO-SC,Sim,1,0,0
+27388,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+27388,Filipe Barros     ,PSL-PR,Sim,1,0,0
+27388,Joice Hasselmann  ,PSL-SP,Sim,1,0,0
+27388,Major Vitor Hugo  ,PSL-GO,Sim,1,0,0
+27388,Luis Miranda      ,DEM-DF,Sim,1,0,0
+27388,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+27388,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+27388,Baleia Rossi      ,MDB-SP,Sim,1,0,0
+27388,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+27388,Gutemberg Reis    ,MDB-RJ,Sim,1,0,0
+27388,FernandoRodolfo   ,PL-PE,Sim,1,0,0
+27388,Giovani Cherini   ,PL-RS,Sim,1,0,0
+27388,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+27388,Cacá Leão         ,PP-BA,Sim,1,0,0
+27388,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+27388,Evair de Melo     ,PP-ES,Sim,1,0,0
+27388,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+27388,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+27388,João Roma         ,PRB-BA,Sim,1,0,0
+27388,Darci de Matos    ,PSD-SC,Sim,1,0,0
+27388,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+27388,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+27388,Daniel Trzeciak   ,PSDB-RS,Sim,1,0,0
+27388,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+27388,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+27388,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+27388,Paulo Martins     ,PSC-PR,Sim,1,0,0
+27388,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+27388,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+27388,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+27388,Arnaldo Jardim    ,CIDADANIA-SP,Sim,1,0,0
+27388,Alcides Rodrigues ,PATRIOTA-GO,Sim,1,0,0
+27388,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+27388,Diego Garcia      ,PODE-PR,Sim,1,0,0
+27388,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+27388,Israel Batista    ,PV-DF,Não,0,1,0
+27388,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+27388,Carlos Veras      ,PT-PE,Não,0,1,0
+27388,Henrique Fontana  ,PT-RS,Não,0,1,0
+27388,Pedro Uczai       ,PT-SC,Não,0,1,0
+27388,Rubens Otoni      ,PT-GO,Não,0,1,0
+27388,Aliel Machado     ,PSB-PR,Não,0,1,0
+27388,Lídice da Mata    ,PSB-BA,Não,0,1,0
+27388,Bira do Pindaré   ,PSB-MA,Não,0,1,0
+27388,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+27388,Luiza Erundina    ,PSOL-SP,Não,0,1,0
+27388,Tiago Mitraud     ,NOVO-MG,Sim,1,0,0
+21722,Coronel Armando   ,PSL-SC,Sim,1,0,0
+21722,Daniel Freitas    ,PSL-SC,Sim,1,0,0
+21722,Delegado Marcelo  ,PSL-MG,Sim,1,0,0
+21722,FelipeFrancischini,PSL-PR,Sim,1,0,0
+21722,Nicoletti         ,PSL-RR,Sim,1,0,0
+21722,Delegado Pablo    ,PSL-AM,Sim,1,0,0
+21722,Cabo Junio Amaral ,PSL-MG,Sim,1,0,0
+21722,Aguinaldo Ribeiro ,PP-PB,Sim,1,0,0
+21722,Hiran Gonçalves   ,PP-RR,Sim,1,0,0
+21722,Guilherme Derrite ,PP-SP,Sim,1,0,0
+21722,Angela Amin       ,PP-SC,Sim,1,0,0
+21722,Pedro Westphalen  ,PP-RS,Sim,1,0,0
+21722,Edilazio Junior   ,PSD-MA,Sim,1,0,0
+21722,Expedito Netto    ,PSD-RO,Não,0,1,0
+21722,Fábio Trad        ,PSD-MS,Sim,1,0,0
+21722,Evandro Roman     ,PSD-PR,Sim,1,0,0
+21722,Francisco Jr.     ,PSD-GO,Sim,1,0,0
+21722,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+21722,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+21722,Paulo Azi         ,DEM-BA,Sim,1,0,0
+21722,Kim Kataguiri     ,DEM-SP,Sim,1,0,0
+21722,Alceu Moreira     ,MDB-RS,Sim,1,0,0
+21722,Márcio Biolchi    ,MDB-RS,Sim,1,0,0
+21722,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+21722,JosimarMaranhãozi ,PR-MA,Não,0,1,0
+21722,Júnior Mano       ,PR-CE,Sim,1,0,0
+21722,Marcelo Ramos     ,PR-AM,Sim,1,0,0
+21722,Sergio Toledo     ,PR-AL,Sim,1,0,0
+21722,João Roma         ,PRB-BA,Sim,1,0,0
+21722,Luizão Goulart    ,PRB-PR,Sim,1,0,0
+21722,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+21722,Paulo Abi-Ackel   ,PSDB-MG,Sim,1,0,0
+21722,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+21722,Shéridan          ,PSDB-RR,Sim,1,0,0
+21722,Paulo Martins     ,PSC-PR,Sim,1,0,0
+21722,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21722,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21722,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21722,Pompeo de Mattos  ,PDT-RS,Obstrução,0,0,1
+21722,Genecias Noronha  ,SOLIDARIEDADE-CE,Sim,1,0,0
+21722,Aureo Ribeiro     ,SOLIDARIEDADE-RJ,Não,0,1,0
+21722,Dr. Frederico     ,PATRI-MG,Sim,1,0,0
+21722,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21722,Rubens Bueno      ,CIDADANIA-PR,Sim,1,0,0
+21722,Capitão Wagner    ,PROS-CE,Sim,1,0,0
+21722,Gurgel            ,PSL-RJ,Sim,1,0,0
+21722,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21722,Erika Kokay       ,PT-DF,Obstrução,0,0,1
+21722,Reginaldo Lopes   ,PT-MG,Obstrução,0,0,1
+21722,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21722,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21722,Gervásio Maia     ,PSB-PB,Obstrução,0,0,1
+21722,Cássio Andrade    ,PSB-PA,Obstrução,0,0,1
+21722,Sâmia Bomfim      ,PSOL-SP,Obstrução,0,0,1
+21722,Gilson Marques    ,NOVO-SC,Sim,1,0,0
+21728,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21728,Coronel Armando   ,PSL-SC,Não,0,1,0
+21728,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21728,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21728,FelipeFrancischini,PSL-PR,Não,0,1,0
+21728,Nicoletti         ,PSL-RR,Não,0,1,0
+21728,Coronel Tadeu     ,PSL-SP,Não,0,1,0
+21728,Beto Rosado       ,PP-RN,Não,0,1,0
+21728,Margarete Coelho  ,PP-PI,Não,0,1,0
+21728,Angela Amin       ,PP-SC,Não,0,1,0
+21728,Cacá Leão         ,PP-BA,Não,0,1,0
+21728,Darci de Matos    ,PSD-SC,Não,0,1,0
+21728,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21728,Expedito Netto    ,PSD-RO,Sim,1,0,0
+21728,Fábio Trad        ,PSD-MS,Não,0,1,0
+21728,Francisco Jr.     ,PSD-GO,Não,0,1,0
+21728,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+21728,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21728,Alceu Moreira     ,MDB-RS,Não,0,1,0
+21728,Herculano Passos  ,MDB-SP,Não,0,1,0
+21728,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21728,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+21728,JosimarMaranhãozi ,PR-MA,Não,0,1,0
+21728,Júnior Mano       ,PR-CE,Não,0,1,0
+21728,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21728,Sergio Toledo     ,PR-AL,Não,0,1,0
+21728,João Campos       ,PRB-GO,Não,0,1,0
+21728,João Roma         ,PRB-BA,Não,0,1,0
+21728,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21728,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21728,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21728,Paulo Abi-Ackel   ,PSDB-MG,Não,0,1,0
+21728,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21728,Shéridan          ,PSDB-RR,Não,0,1,0
+21728,Paulo Martins     ,PSC-PR,Não,0,1,0
+21728,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21728,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21728,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21728,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21728,Diego Garcia      ,PODE-PR,Sim,1,0,0
+21728,Léo Moraes        ,PODE-RO,Não,0,1,0
+21728,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21728,Paulo Pereira     ,SOLIDARIEDADE-SP,Sim,1,0,0
+21728,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21728,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21728,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21728,Capitão Wagner    ,PROS-CE,Não,0,1,0
+21728,Gleisi Hoffmann   ,PT-PR,Obstrução,0,0,1
+21728,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21728,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21728,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21728,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21728,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21728,Erika Kokay       ,PT-DF,Obstrução,0,0,1
+21728,Danilo Cabral     ,PSB-PE,Sim,1,0,0
+21728,Júlio Delgado     ,PSB-MG,Sim,1,0,0
+21728,Gervásio Maia     ,PSB-PB,Sim,1,0,0
+21728,Cássio Andrade    ,PSB-PA,Sim,1,0,0
+21728,Sâmia Bomfim      ,PSOL-SP,Obstrução,0,0,1
+21728,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21775,Bia Kicis         ,PSL-DF,Sim,1,0,0
+21775,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+21775,Delegado Marcelo  ,PSL-MG,Sim,1,0,0
+21775,Delegado Waldir   ,PSL-GO,Sim,1,0,0
+21775,FelipeFrancischini,PSL-PR,Sim,1,0,0
+21775,Nicoletti         ,PSL-RR,Sim,1,0,0
+21775,Coronel Tadeu     ,PSL-SP,Sim,1,0,0
+21775,Hiran Gonçalves   ,PP-RR,Sim,1,0,0
+21775,Marcelo Aro       ,PP-MG,Sim,1,0,0
+21775,Margarete Coelho  ,PP-PI,Sim,1,0,0
+21775,Cacá Leão         ,PP-BA,Sim,1,0,0
+21775,Pedro Westphalen  ,PP-RS,Sim,1,0,0
+21775,Darci de Matos    ,PSD-SC,Sim,1,0,0
+21775,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+21775,Edilazio Junior   ,PSD-MA,Sim,1,0,0
+21775,Fábio Trad        ,PSD-MS,Sim,1,0,0
+21775,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+21775,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+21775,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+21775,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+21775,David Soares      ,DEM-SP,Sim,1,0,0
+21775,Alceu Moreira     ,MDB-RS,Sim,1,0,0
+21775,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+21775,Márcio Biolchi    ,MDB-RS,Sim,1,0,0
+21775,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+21775,Giovani Cherini   ,PR-RS,Sim,1,0,0
+21775,Marcelo Ramos     ,PR-AM,Sim,1,0,0
+21775,Sergio Toledo     ,PR-AL,Sim,1,0,0
+21775,Vicentinho Júnior ,PR-TO,Sim,1,0,0
+21775,João Campos       ,PRB-GO,Sim,1,0,0
+21775,João Roma         ,PRB-BA,Sim,1,0,0
+21775,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+21775,Luizão Goulart    ,PRB-PR,Sim,1,0,0
+21775,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+21775,Paulo Abi-Ackel   ,PSDB-MG,Sim,1,0,0
+21775,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+21775,Shéridan          ,PSDB-RR,Sim,1,0,0
+21775,Paulo Martins     ,PSC-PR,Sim,1,0,0
+21775,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21775,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21775,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21775,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21775,Pompeo de Mattos  ,PDT-RS,Obstrução,0,0,1
+21775,José Medeiros     ,PODE-MT,Sim,1,0,0
+21775,Genecias Noronha  ,SOLIDARIEDADE-CE,Sim,1,0,0
+21775,Paulo Pereira     ,SOLIDARIEDADE-SP,Sim,1,0,0
+21775,Rubens Bueno      ,CIDADANIA-PR,Sim,1,0,0
+21775,Pastor Eurico     ,PATRI-PE,Sim,1,0,0
+21775,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21775,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21775,Enrico Misasi     ,PV-SP,Sim,1,0,0
+21775,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21775,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21775,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21775,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21775,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21775,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21775,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21775,Danilo Cabral     ,PSB-PE,Obstrução,0,0,1
+21775,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21775,Júlio Delgado     ,PSB-MG,Não,0,1,0
+21775,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21775,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21775,Gilson Marques    ,NOVO-SC,Sim,1,0,0
+21776,Bia Kicis         ,PSL-DF,Não,0,1,0
+21776,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21776,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21776,FelipeFrancischini,PSL-PR,Não,0,1,0
+21776,Nicoletti         ,PSL-RR,Não,0,1,0
+21776,Coronel Tadeu     ,PSL-SP,Não,0,1,0
+21776,Chris Tonietto    ,PSL-RJ,Não,0,1,0
+21776,Hiran Gonçalves   ,PP-RR,Não,0,1,0
+21776,Margarete Coelho  ,PP-PI,Não,0,1,0
+21776,Pedro Westphalen  ,PP-RS,Não,0,1,0
+21776,Darci de Matos    ,PSD-SC,Não,0,1,0
+21776,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21776,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21776,Fábio Trad        ,PSD-MS,Não,0,1,0
+21776,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21776,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21776,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21776,Olival Marques    ,DEM-PA,Não,0,1,0
+21776,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21776,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+21776,Giovani Cherini   ,PR-RS,Não,0,1,0
+21776,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21776,Sergio Toledo     ,PR-AL,Não,0,1,0
+21776,Vicentinho Júnior ,PR-TO,Não,0,1,0
+21776,João Campos       ,PRB-GO,Não,0,1,0
+21776,João Roma         ,PRB-BA,Não,0,1,0
+21776,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21776,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21776,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21776,Paulo Abi-Ackel   ,PSDB-MG,Não,0,1,0
+21776,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21776,Shéridan          ,PSDB-RR,Não,0,1,0
+21776,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21776,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21776,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21776,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21776,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21776,José Medeiros     ,PODE-MT,Não,0,1,0
+21776,Pr Marco Feliciano,PODE-SP,Não,0,1,0
+21776,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21776,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21776,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21776,Enrico Misasi     ,PV-SP,Não,0,1,0
+21776,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21776,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21776,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21776,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21776,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21776,Rui Falcão        ,PT-SP,Obstrução,0,0,1
+21776,Odair Cunha       ,PT-MG,Obstrução,0,0,1
+21776,Danilo Cabral     ,PSB-PE,Obstrução,0,0,1
+21776,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21776,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21776,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21776,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21776,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21777,Bia Kicis         ,PSL-DF,Não,0,1,0
+21777,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21777,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21777,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21777,FelipeFrancischini,PSL-PR,Não,0,1,0
+21777,Nicoletti         ,PSL-RR,Não,0,1,0
+21777,Chris Tonietto    ,PSL-RJ,Não,0,1,0
+21777,Aguinaldo Ribeiro ,PP-PB,Não,0,1,0
+21777,Hiran Gonçalves   ,PP-RR,Não,0,1,0
+21777,Margarete Coelho  ,PP-PI,Não,0,1,0
+21777,Cacá Leão         ,PP-BA,Não,0,1,0
+21777,Darci de Matos    ,PSD-SC,Não,0,1,0
+21777,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21777,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21777,Fábio Trad        ,PSD-MS,Não,0,1,0
+21777,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21777,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21777,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21777,Paulo Azi         ,DEM-BA,Não,0,1,0
+21777,Alceu Moreira     ,MDB-RS,Não,0,1,0
+21777,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21777,Herculano Passos  ,MDB-SP,Não,0,1,0
+21777,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21777,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21777,Giovani Cherini   ,PR-RS,Não,0,1,0
+21777,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21777,Sergio Toledo     ,PR-AL,Não,0,1,0
+21777,João Campos       ,PRB-GO,Não,0,1,0
+21777,João Roma         ,PRB-BA,Não,0,1,0
+21777,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21777,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21777,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21777,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21777,Shéridan          ,PSDB-RR,Não,0,1,0
+21777,Paulo Martins     ,PSC-PR,Não,0,1,0
+21777,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21777,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21777,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21777,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21777,Dagoberto Nogueira,PDT-MS,Sim,1,0,0
+21777,Léo Moraes        ,PODE-RO,Não,0,1,0
+21777,José Medeiros     ,PODE-MT,Não,0,1,0
+21777,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21777,Augusto Coutinho  ,SOLIDARIEDADE-PE,Não,0,1,0
+21777,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21777,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21777,Clarissa Garotinho,PROS-RJ,Sim,1,0,0
+21777,Enrico Misasi     ,PV-SP,Não,0,1,0
+21777,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+21777,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21777,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21777,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21777,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21777,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21777,Erika Kokay       ,PT-DF,Obstrução,0,0,1
+21777,João H. Campos    ,PSB-PE,Sim,1,0,0
+21777,Júlio Delgado     ,PSB-MG,Sim,1,0,0
+21777,Tadeu Alencar     ,PSB-PE,Sim,1,0,0
+21777,Talíria Petrone   ,PSOL-RJ,Sim,1,0,0
+21777,Adriana Ventura   ,NOVO-SP,Não,0,1,0
+21778,Bia Kicis         ,PSL-DF,Não,0,1,0
+21778,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21778,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21778,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21778,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21778,FelipeFrancischini,PSL-PR,Não,0,1,0
+21778,Nicoletti         ,PSL-RR,Não,0,1,0
+21778,Beto Rosado       ,PP-RN,Não,0,1,0
+21778,Marcelo Aro       ,PP-MG,Não,0,1,0
+21778,Cacá Leão         ,PP-BA,Não,0,1,0
+21778,Pedro Westphalen  ,PP-RS,Não,0,1,0
+21778,Darci de Matos    ,PSD-SC,Não,0,1,0
+21778,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21778,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21778,Fábio Trad        ,PSD-MS,Não,0,1,0
+21778,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21778,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+21778,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21778,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21778,Paulo Azi         ,DEM-BA,Não,0,1,0
+21778,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21778,Herculano Passos  ,MDB-SP,Não,0,1,0
+21778,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21778,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21778,Sergio Toledo     ,PR-AL,Não,0,1,0
+21778,João Campos       ,PRB-GO,Não,0,1,0
+21778,João Roma         ,PRB-BA,Não,0,1,0
+21778,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21778,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21778,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21778,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21778,Paulo Martins     ,PSC-PR,Não,0,1,0
+21778,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21778,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21778,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21778,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21778,Pompeo de Mattos  ,PDT-RS,Obstrução,0,0,1
+21778,José Medeiros     ,PODE-MT,Não,0,1,0
+21778,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21778,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21778,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21778,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21778,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21778,Enrico Misasi     ,PV-SP,Não,0,1,0
+21778,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21778,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21778,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21778,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21778,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21778,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21778,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21778,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21778,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21778,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21778,Tadeu Alencar     ,PSB-PE,Obstrução,0,0,1
+21778,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21778,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21779,Bia Kicis         ,PSL-DF,Não,0,1,0
+21779,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21779,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21779,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21779,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21779,FelipeFrancischini,PSL-PR,Não,0,1,0
+21779,Nicoletti         ,PSL-RR,Não,0,1,0
+21779,Beto Rosado       ,PP-RN,Não,0,1,0
+21779,Marcelo Aro       ,PP-MG,Não,0,1,0
+21779,Margarete Coelho  ,PP-PI,Não,0,1,0
+21779,Cacá Leão         ,PP-BA,Não,0,1,0
+21779,Darci de Matos    ,PSD-SC,Não,0,1,0
+21779,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21779,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21779,Fábio Trad        ,PSD-MS,Não,0,1,0
+21779,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21779,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+21779,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21779,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21779,Paulo Azi         ,DEM-BA,Não,0,1,0
+21779,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21779,Herculano Passos  ,MDB-SP,Não,0,1,0
+21779,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21779,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+21779,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21779,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21779,Sergio Toledo     ,PR-AL,Não,0,1,0
+21779,João Campos       ,PRB-GO,Não,0,1,0
+21779,João Roma         ,PRB-BA,Não,0,1,0
+21779,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21779,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21779,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21779,Paulo Abi-Ackel   ,PSDB-MG,Não,0,1,0
+21779,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21779,Paulo Martins     ,PSC-PR,Não,0,1,0
+21779,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21779,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21779,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21779,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21779,Sergio Vidigal    ,PDT-ES,Obstrução,0,0,1
+21779,Diego Garcia      ,PODE-PR,Não,0,1,0
+21779,José Medeiros     ,PODE-MT,Não,0,1,0
+21779,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21779,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21779,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21779,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21779,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21779,Enrico Misasi     ,PV-SP,Não,0,1,0
+21779,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21779,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21779,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21779,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21779,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21779,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21779,Rui Falcão        ,PT-SP,Obstrução,0,0,1
+21779,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21779,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21779,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21779,Tadeu Alencar     ,PSB-PE,Obstrução,0,0,1
+21779,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21779,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21782,Bia Kicis         ,PSL-DF,Sim,1,0,0
+21782,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+21782,Daniel Freitas    ,PSL-SC,Sim,1,0,0
+21782,Delegado Marcelo  ,PSL-MG,Sim,1,0,0
+21782,Delegado Waldir   ,PSL-GO,Sim,1,0,0
+21782,FelipeFrancischini,PSL-PR,Sim,1,0,0
+21782,Nicoletti         ,PSL-RR,Sim,1,0,0
+21782,Aguinaldo Ribeiro ,PP-PB,Sim,1,0,0
+21782,Beto Rosado       ,PP-RN,Sim,1,0,0
+21782,Hiran Gonçalves   ,PP-RR,Sim,1,0,0
+21782,Marcelo Aro       ,PP-MG,Sim,1,0,0
+21782,Margarete Coelho  ,PP-PI,Sim,1,0,0
+21782,Darci de Matos    ,PSD-SC,Sim,1,0,0
+21782,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+21782,Edilazio Junior   ,PSD-MA,Sim,1,0,0
+21782,Fábio Trad        ,PSD-MS,Sim,1,0,0
+21782,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+21782,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+21782,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+21782,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+21782,Paulo Azi         ,DEM-BA,Sim,1,0,0
+21782,Alceu Moreira     ,MDB-RS,Sim,1,0,0
+21782,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+21782,Herculano Passos  ,MDB-SP,Sim,1,0,0
+21782,Márcio Biolchi    ,MDB-RS,Sim,1,0,0
+21782,Gelson Azevedo    ,PR-RJ,Sim,1,0,0
+21782,Giovani Cherini   ,PR-RS,Sim,1,0,0
+21782,Marcelo Ramos     ,PR-AM,Sim,1,0,0
+21782,Sergio Toledo     ,PR-AL,Sim,1,0,0
+21782,João Campos       ,PRB-GO,Sim,1,0,0
+21782,João Roma         ,PRB-BA,Sim,1,0,0
+21782,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+21782,Luizão Goulart    ,PRB-PR,Sim,1,0,0
+21782,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+21782,Paulo Abi-Ackel   ,PSDB-MG,Sim,1,0,0
+21782,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+21782,Shéridan          ,PSDB-RR,Sim,1,0,0
+21782,Paulo Martins     ,PSC-PR,Sim,1,0,0
+21782,Maurício Dziedrick,PTB-RS,Sim,1,0,0
+21782,Afonso Motta      ,PDT-RS,Não,0,1,0
+21782,Eduardo Bismarck  ,PDT-CE,Não,0,1,0
+21782,Gil Cutrim        ,PDT-MA,Não,0,1,0
+21782,SubtenenteGonzaga ,PDT-MG,Não,0,1,0
+21782,Diego Garcia      ,PODE-PR,Sim,1,0,0
+21782,Léo Moraes        ,PODE-RO,Sim,1,0,0
+21782,Genecias Noronha  ,SOLIDARIEDADE-CE,Sim,1,0,0
+21782,Augusto Coutinho  ,SOLIDARIEDADE-PE,Sim,1,0,0
+21782,Luis Tibé         ,AVANTE-MG,Sim,1,0,0
+21782,Rubens Bueno      ,CIDADANIA-PR,Sim,1,0,0
+21782,Pastor Eurico     ,PATRI-PE,Sim,1,0,0
+21782,Renildo Calheiros ,PCdoB-PE,Não,0,1,0
+21782,Clarissa Garotinho,PROS-RJ,Não,0,1,0
+21782,Enrico Misasi     ,PV-SP,Sim,1,0,0
+21782,Alencar S. Braga  ,PT-SP,Não,0,1,0
+21782,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+21782,José Guimarães    ,PT-CE,Não,0,1,0
+21782,Maria do Rosário  ,PT-RS,Não,0,1,0
+21782,Nelson Pellegrino ,PT-BA,Não,0,1,0
+21782,Patrus Ananias    ,PT-MG,Não,0,1,0
+21782,Paulo Teixeira    ,PT-SP,Não,0,1,0
+21782,Danilo Cabral     ,PSB-PE,Não,0,1,0
+21782,João H. Campos    ,PSB-PE,Não,0,1,0
+21782,Júlio Delgado     ,PSB-MG,Não,0,1,0
+21782,Luiz Flávio Gomes ,PSB-SP,Não,0,1,0
+21782,Talíria Petrone   ,PSOL-RJ,Não,0,1,0
+21782,Gilson Marques    ,NOVO-SC,Sim,1,0,0
+21775,Bia Kicis         ,PSL-DF,Sim,1,0,0
+21775,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+21775,Delegado Marcelo  ,PSL-MG,Sim,1,0,0
+21775,Delegado Waldir   ,PSL-GO,Sim,1,0,0
+21775,FelipeFrancischini,PSL-PR,Sim,1,0,0
+21775,Nicoletti         ,PSL-RR,Sim,1,0,0
+21775,Coronel Tadeu     ,PSL-SP,Sim,1,0,0
+21775,Hiran Gonçalves   ,PP-RR,Sim,1,0,0
+21775,Marcelo Aro       ,PP-MG,Sim,1,0,0
+21775,Margarete Coelho  ,PP-PI,Sim,1,0,0
+21775,Cacá Leão         ,PP-BA,Sim,1,0,0
+21775,Pedro Westphalen  ,PP-RS,Sim,1,0,0
+21775,Darci de Matos    ,PSD-SC,Sim,1,0,0
+21775,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+21775,Edilazio Junior   ,PSD-MA,Sim,1,0,0
+21775,Fábio Trad        ,PSD-MS,Sim,1,0,0
+21775,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+21775,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+21775,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+21775,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+21775,David Soares      ,DEM-SP,Sim,1,0,0
+21775,Alceu Moreira     ,MDB-RS,Sim,1,0,0
+21775,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+21775,Márcio Biolchi    ,MDB-RS,Sim,1,0,0
+21775,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+21775,Giovani Cherini   ,PR-RS,Sim,1,0,0
+21775,Marcelo Ramos     ,PR-AM,Sim,1,0,0
+21775,Sergio Toledo     ,PR-AL,Sim,1,0,0
+21775,Vicentinho Júnior ,PR-TO,Sim,1,0,0
+21775,João Campos       ,PRB-GO,Sim,1,0,0
+21775,João Roma         ,PRB-BA,Sim,1,0,0
+21775,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+21775,Luizão Goulart    ,PRB-PR,Sim,1,0,0
+21775,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+21775,Paulo Abi-Ackel   ,PSDB-MG,Sim,1,0,0
+21775,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+21775,Shéridan          ,PSDB-RR,Sim,1,0,0
+21775,Paulo Martins     ,PSC-PR,Sim,1,0,0
+21775,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21775,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21775,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21775,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21775,Pompeo de Mattos  ,PDT-RS,Obstrução,0,0,1
+21775,José Medeiros     ,PODE-MT,Sim,1,0,0
+21775,Genecias Noronha  ,SOLIDARIEDADE-CE,Sim,1,0,0
+21775,Paulo Pereira     ,SOLIDARIEDADE-SP,Sim,1,0,0
+21775,Rubens Bueno      ,CIDADANIA-PR,Sim,1,0,0
+21775,Pastor Eurico     ,PATRI-PE,Sim,1,0,0
+21775,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21775,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21775,Enrico Misasi     ,PV-SP,Sim,1,0,0
+21775,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21775,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21775,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21775,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21775,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21775,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21775,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21775,Danilo Cabral     ,PSB-PE,Obstrução,0,0,1
+21775,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21775,Júlio Delgado     ,PSB-MG,Não,0,1,0
+21775,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21775,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21775,Gilson Marques    ,NOVO-SC,Sim,1,0,0
+21776,Bia Kicis         ,PSL-DF,Não,0,1,0
+21776,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21776,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21776,FelipeFrancischini,PSL-PR,Não,0,1,0
+21776,Nicoletti         ,PSL-RR,Não,0,1,0
+21776,Coronel Tadeu     ,PSL-SP,Não,0,1,0
+21776,Chris Tonietto    ,PSL-RJ,Não,0,1,0
+21776,Hiran Gonçalves   ,PP-RR,Não,0,1,0
+21776,Margarete Coelho  ,PP-PI,Não,0,1,0
+21776,Pedro Westphalen  ,PP-RS,Não,0,1,0
+21776,Darci de Matos    ,PSD-SC,Não,0,1,0
+21776,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21776,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21776,Fábio Trad        ,PSD-MS,Não,0,1,0
+21776,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21776,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21776,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21776,Olival Marques    ,DEM-PA,Não,0,1,0
+21776,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21776,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+21776,Giovani Cherini   ,PR-RS,Não,0,1,0
+21776,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21776,Sergio Toledo     ,PR-AL,Não,0,1,0
+21776,Vicentinho Júnior ,PR-TO,Não,0,1,0
+21776,João Campos       ,PRB-GO,Não,0,1,0
+21776,João Roma         ,PRB-BA,Não,0,1,0
+21776,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21776,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21776,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21776,Paulo Abi-Ackel   ,PSDB-MG,Não,0,1,0
+21776,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21776,Shéridan          ,PSDB-RR,Não,0,1,0
+21776,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21776,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21776,Eduardo Bismarck  ,PDT-CE,Obstrução,0,0,1
+21776,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21776,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21776,José Medeiros     ,PODE-MT,Não,0,1,0
+21776,Pr Marco Feliciano,PODE-SP,Não,0,1,0
+21776,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21776,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21776,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21776,Enrico Misasi     ,PV-SP,Não,0,1,0
+21776,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21776,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21776,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21776,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21776,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21776,Rui Falcão        ,PT-SP,Obstrução,0,0,1
+21776,Odair Cunha       ,PT-MG,Obstrução,0,0,1
+21776,Danilo Cabral     ,PSB-PE,Obstrução,0,0,1
+21776,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21776,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21776,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21776,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21776,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21777,Bia Kicis         ,PSL-DF,Não,0,1,0
+21777,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21777,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21777,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21777,FelipeFrancischini,PSL-PR,Não,0,1,0
+21777,Nicoletti         ,PSL-RR,Não,0,1,0
+21777,Chris Tonietto    ,PSL-RJ,Não,0,1,0
+21777,Aguinaldo Ribeiro ,PP-PB,Não,0,1,0
+21777,Hiran Gonçalves   ,PP-RR,Não,0,1,0
+21777,Margarete Coelho  ,PP-PI,Não,0,1,0
+21777,Cacá Leão         ,PP-BA,Não,0,1,0
+21777,Darci de Matos    ,PSD-SC,Não,0,1,0
+21777,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21777,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21777,Fábio Trad        ,PSD-MS,Não,0,1,0
+21777,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21777,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21777,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21777,Paulo Azi         ,DEM-BA,Não,0,1,0
+21777,Alceu Moreira     ,MDB-RS,Não,0,1,0
+21777,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21777,Herculano Passos  ,MDB-SP,Não,0,1,0
+21777,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21777,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21777,Giovani Cherini   ,PR-RS,Não,0,1,0
+21777,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21777,Sergio Toledo     ,PR-AL,Não,0,1,0
+21777,João Campos       ,PRB-GO,Não,0,1,0
+21777,João Roma         ,PRB-BA,Não,0,1,0
+21777,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21777,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21777,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21777,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21777,Shéridan          ,PSDB-RR,Não,0,1,0
+21777,Paulo Martins     ,PSC-PR,Não,0,1,0
+21777,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21777,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21777,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21777,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21777,Dagoberto Nogueira,PDT-MS,Sim,1,0,0
+21777,Léo Moraes        ,PODE-RO,Não,0,1,0
+21777,José Medeiros     ,PODE-MT,Não,0,1,0
+21777,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21777,Augusto Coutinho  ,SOLIDARIEDADE-PE,Não,0,1,0
+21777,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21777,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21777,Clarissa Garotinho,PROS-RJ,Sim,1,0,0
+21777,Enrico Misasi     ,PV-SP,Não,0,1,0
+21777,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+21777,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21777,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21777,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21777,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21777,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21777,Erika Kokay       ,PT-DF,Obstrução,0,0,1
+21777,João H. Campos    ,PSB-PE,Sim,1,0,0
+21777,Júlio Delgado     ,PSB-MG,Sim,1,0,0
+21777,Tadeu Alencar     ,PSB-PE,Sim,1,0,0
+21777,Talíria Petrone   ,PSOL-RJ,Sim,1,0,0
+21777,Adriana Ventura   ,NOVO-SP,Não,0,1,0
+21778,Bia Kicis         ,PSL-DF,Não,0,1,0
+21778,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21778,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21778,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21778,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21778,FelipeFrancischini,PSL-PR,Não,0,1,0
+21778,Nicoletti         ,PSL-RR,Não,0,1,0
+21778,Beto Rosado       ,PP-RN,Não,0,1,0
+21778,Marcelo Aro       ,PP-MG,Não,0,1,0
+21778,Cacá Leão         ,PP-BA,Não,0,1,0
+21778,Pedro Westphalen  ,PP-RS,Não,0,1,0
+21778,Darci de Matos    ,PSD-SC,Não,0,1,0
+21778,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21778,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21778,Fábio Trad        ,PSD-MS,Não,0,1,0
+21778,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21778,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+21778,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21778,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21778,Paulo Azi         ,DEM-BA,Não,0,1,0
+21778,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21778,Herculano Passos  ,MDB-SP,Não,0,1,0
+21778,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21778,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21778,Sergio Toledo     ,PR-AL,Não,0,1,0
+21778,João Campos       ,PRB-GO,Não,0,1,0
+21778,João Roma         ,PRB-BA,Não,0,1,0
+21778,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21778,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21778,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21778,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21778,Paulo Martins     ,PSC-PR,Não,0,1,0
+21778,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21778,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21778,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21778,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21778,Pompeo de Mattos  ,PDT-RS,Obstrução,0,0,1
+21778,José Medeiros     ,PODE-MT,Não,0,1,0
+21778,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21778,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21778,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21778,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21778,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21778,Enrico Misasi     ,PV-SP,Não,0,1,0
+21778,Alencar S. Braga  ,PT-SP,Obstrução,0,0,1
+21778,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21778,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21778,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21778,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21778,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21778,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21778,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21778,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21778,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21778,Tadeu Alencar     ,PSB-PE,Obstrução,0,0,1
+21778,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21778,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21779,Bia Kicis         ,PSL-DF,Não,0,1,0
+21779,Caroline de Toni  ,PSL-SC,Não,0,1,0
+21779,Daniel Freitas    ,PSL-SC,Não,0,1,0
+21779,Delegado Marcelo  ,PSL-MG,Não,0,1,0
+21779,Delegado Waldir   ,PSL-GO,Não,0,1,0
+21779,FelipeFrancischini,PSL-PR,Não,0,1,0
+21779,Nicoletti         ,PSL-RR,Não,0,1,0
+21779,Beto Rosado       ,PP-RN,Não,0,1,0
+21779,Marcelo Aro       ,PP-MG,Não,0,1,0
+21779,Margarete Coelho  ,PP-PI,Não,0,1,0
+21779,Cacá Leão         ,PP-BA,Não,0,1,0
+21779,Darci de Matos    ,PSD-SC,Não,0,1,0
+21779,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+21779,Edilazio Junior   ,PSD-MA,Não,0,1,0
+21779,Fábio Trad        ,PSD-MS,Não,0,1,0
+21779,Stephanes Junior  ,PSD-PR,Não,0,1,0
+21779,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+21779,Bilac Pinto       ,DEM-MG,Não,0,1,0
+21779,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+21779,Paulo Azi         ,DEM-BA,Não,0,1,0
+21779,Celso Maldaner    ,MDB-SC,Não,0,1,0
+21779,Herculano Passos  ,MDB-SP,Não,0,1,0
+21779,Márcio Biolchi    ,MDB-RS,Não,0,1,0
+21779,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+21779,Gelson Azevedo    ,PR-RJ,Não,0,1,0
+21779,Marcelo Ramos     ,PR-AM,Não,0,1,0
+21779,Sergio Toledo     ,PR-AL,Não,0,1,0
+21779,João Campos       ,PRB-GO,Não,0,1,0
+21779,João Roma         ,PRB-BA,Não,0,1,0
+21779,Lafayette Andrada ,PRB-MG,Não,0,1,0
+21779,Luizão Goulart    ,PRB-PR,Não,0,1,0
+21779,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+21779,Paulo Abi-Ackel   ,PSDB-MG,Não,0,1,0
+21779,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+21779,Paulo Martins     ,PSC-PR,Não,0,1,0
+21779,Maurício Dziedrick,PTB-RS,Não,0,1,0
+21779,Afonso Motta      ,PDT-RS,Obstrução,0,0,1
+21779,Gil Cutrim        ,PDT-MA,Obstrução,0,0,1
+21779,SubtenenteGonzaga ,PDT-MG,Obstrução,0,0,1
+21779,Sergio Vidigal    ,PDT-ES,Obstrução,0,0,1
+21779,Diego Garcia      ,PODE-PR,Não,0,1,0
+21779,José Medeiros     ,PODE-MT,Não,0,1,0
+21779,Genecias Noronha  ,SOLIDARIEDADE-CE,Não,0,1,0
+21779,Rubens Bueno      ,CIDADANIA-PR,Não,0,1,0
+21779,Pastor Eurico     ,PATRI-PE,Não,0,1,0
+21779,Renildo Calheiros ,PCdoB-PE,Obstrução,0,0,1
+21779,Clarissa Garotinho,PROS-RJ,Obstrução,0,0,1
+21779,Enrico Misasi     ,PV-SP,Não,0,1,0
+21779,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+21779,José Guimarães    ,PT-CE,Obstrução,0,0,1
+21779,Maria do Rosário  ,PT-RS,Obstrução,0,0,1
+21779,Nelson Pellegrino ,PT-BA,Obstrução,0,0,1
+21779,Patrus Ananias    ,PT-MG,Obstrução,0,0,1
+21779,Paulo Teixeira    ,PT-SP,Obstrução,0,0,1
+21779,Rui Falcão        ,PT-SP,Obstrução,0,0,1
+21779,João H. Campos    ,PSB-PE,Obstrução,0,0,1
+21779,Júlio Delgado     ,PSB-MG,Obstrução,0,0,1
+21779,Luiz Flávio Gomes ,PSB-SP,Obstrução,0,0,1
+21779,Tadeu Alencar     ,PSB-PE,Obstrução,0,0,1
+21779,Talíria Petrone   ,PSOL-RJ,Obstrução,0,0,1
+21779,Gilson Marques    ,NOVO-SC,Não,0,1,0
+21782,Bia Kicis         ,PSL-DF,Sim,1,0,0
+21782,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+21782,Daniel Freitas    ,PSL-SC,Sim,1,0,0
+21782,Delegado Marcelo  ,PSL-MG,Sim,1,0,0
+21782,Delegado Waldir   ,PSL-GO,Sim,1,0,0
+21782,FelipeFrancischini,PSL-PR,Sim,1,0,0
+21782,Nicoletti         ,PSL-RR,Sim,1,0,0
+21782,Aguinaldo Ribeiro ,PP-PB,Sim,1,0,0
+21782,Beto Rosado       ,PP-RN,Sim,1,0,0
+21782,Hiran Gonçalves   ,PP-RR,Sim,1,0,0
+21782,Marcelo Aro       ,PP-MG,Sim,1,0,0
+21782,Margarete Coelho  ,PP-PI,Sim,1,0,0
+21782,Darci de Matos    ,PSD-SC,Sim,1,0,0
+21782,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+21782,Edilazio Junior   ,PSD-MA,Sim,1,0,0
+21782,Fábio Trad        ,PSD-MS,Sim,1,0,0
+21782,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+21782,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+21782,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+21782,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+21782,Paulo Azi         ,DEM-BA,Sim,1,0,0
+21782,Alceu Moreira     ,MDB-RS,Sim,1,0,0
+21782,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+21782,Herculano Passos  ,MDB-SP,Sim,1,0,0
+21782,Márcio Biolchi    ,MDB-RS,Sim,1,0,0
+21782,Gelson Azevedo    ,PR-RJ,Sim,1,0,0
+21782,Giovani Cherini   ,PR-RS,Sim,1,0,0
+21782,Marcelo Ramos     ,PR-AM,Sim,1,0,0
+21782,Sergio Toledo     ,PR-AL,Sim,1,0,0
+21782,João Campos       ,PRB-GO,Sim,1,0,0
+21782,João Roma         ,PRB-BA,Sim,1,0,0
+21782,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+21782,Luizão Goulart    ,PRB-PR,Sim,1,0,0
+21782,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+21782,Paulo Abi-Ackel   ,PSDB-MG,Sim,1,0,0
+21782,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+21782,Shéridan          ,PSDB-RR,Sim,1,0,0
+21782,Paulo Martins     ,PSC-PR,Sim,1,0,0
+21782,Maurício Dziedrick,PTB-RS,Sim,1,0,0
+21782,Afonso Motta      ,PDT-RS,Não,0,1,0
+21782,Eduardo Bismarck  ,PDT-CE,Não,0,1,0
+21782,Gil Cutrim        ,PDT-MA,Não,0,1,0
+21782,SubtenenteGonzaga ,PDT-MG,Não,0,1,0
+21782,Diego Garcia      ,PODE-PR,Sim,1,0,0
+21782,Léo Moraes        ,PODE-RO,Sim,1,0,0
+21782,Genecias Noronha  ,SOLIDARIEDADE-CE,Sim,1,0,0
+21782,Augusto Coutinho  ,SOLIDARIEDADE-PE,Sim,1,0,0
+21782,Luis Tibé         ,AVANTE-MG,Sim,1,0,0
+21782,Rubens Bueno      ,CIDADANIA-PR,Sim,1,0,0
+21782,Pastor Eurico     ,PATRI-PE,Sim,1,0,0
+21782,Renildo Calheiros ,PCdoB-PE,Não,0,1,0
+21782,Clarissa Garotinho,PROS-RJ,Não,0,1,0
+21782,Enrico Misasi     ,PV-SP,Sim,1,0,0
+21782,Alencar S. Braga  ,PT-SP,Não,0,1,0
+21782,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+21782,José Guimarães    ,PT-CE,Não,0,1,0
+21782,Maria do Rosário  ,PT-RS,Não,0,1,0
+21782,Nelson Pellegrino ,PT-BA,Não,0,1,0
+21782,Patrus Ananias    ,PT-MG,Não,0,1,0
+21782,Paulo Teixeira    ,PT-SP,Não,0,1,0
+21782,Danilo Cabral     ,PSB-PE,Não,0,1,0
+21782,João H. Campos    ,PSB-PE,Não,0,1,0
+21782,Júlio Delgado     ,PSB-MG,Não,0,1,0
+21782,Luiz Flávio Gomes ,PSB-SP,Não,0,1,0
+21782,Talíria Petrone   ,PSOL-RJ,Não,0,1,0
+21782,Gilson Marques    ,NOVO-SC,Sim,1,0,0
+23730,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23730,Filipe Barros     ,PSL-PR,Não,0,1,0
+23730,Heitor Freire     ,PSL-CE,Não,0,1,0
+23730,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23730,Márcio Labre      ,PSL-RJ,Não,0,1,0
+23730,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23730,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23730,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23730,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23730,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23730,Giovani Cherini   ,PL-RS,Não,0,1,0
+23730,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23730,Jerônimo Goergen  ,PP-RS,Não,0,1,0
+23730,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23730,Evair de Melo     ,PP-ES,Não,0,1,0
+23730,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23730,Cleber Verde      ,PRB-MA,Não,0,1,0
+23730,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23730,Darci de Matos    ,PSD-SC,Não,0,1,0
+23730,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23730,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23730,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23730,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23730,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23730,Paulo Martins     ,PSC-PR,Não,0,1,0
+23730,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23730,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23730,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23730,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23730,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23730,Perpétua Almeida  ,PCdoB-AC,Obstrução,0,0,1
+23730,Diego Garcia      ,PODE-PR,Não,0,1,0
+23730,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23730,Israel Batista    ,PV-DF,Obstrução,0,0,1
+23730,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23730,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23730,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23730,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23730,Rubens Otoni      ,PT-GO,Obstrução,0,0,1
+23730,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23730,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23730,Bira do Pindaré   ,PSB-MA,Obstrução,0,0,1
+23730,Sâmia Bomfim      ,PSOL-SP,Obstrução,0,0,1
+23730,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23730,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23752,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23752,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23752,FelipeFrancischini,PSL-PR,Não,0,1,0
+23752,Filipe Barros     ,PSL-PR,Não,0,1,0
+23752,Heitor Freire     ,PSL-CE,Não,0,1,0
+23752,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23752,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23752,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23752,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23752,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23752,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23752,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23752,Giovani Cherini   ,PL-RS,Não,0,1,0
+23752,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23752,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23752,Evair de Melo     ,PP-ES,Não,0,1,0
+23752,Guilherme Derrite ,PP-SP,Não,0,1,0
+23752,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23752,Cleber Verde      ,PRB-MA,Não,0,1,0
+23752,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23752,Darci de Matos    ,PSD-SC,Não,0,1,0
+23752,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23752,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23752,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23752,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23752,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23752,Paulo Martins     ,PSC-PR,Não,0,1,0
+23752,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23752,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23752,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23752,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23752,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23752,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23752,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23752,Diego Garcia      ,PODE-PR,Não,0,1,0
+23752,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23752,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23752,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23752,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23752,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23752,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23752,Aliel Machado     ,PSB-PR,Não,0,1,0
+23752,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23752,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23752,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23752,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23752,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23753,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23753,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23753,Filipe Barros     ,PSL-PR,Não,0,1,0
+23753,Heitor Freire     ,PSL-CE,Não,0,1,0
+23753,Nicoletti         ,PSL-RR,Não,0,1,0
+23753,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23753,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23753,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23753,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23753,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23753,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23753,Giovani Cherini   ,PL-RS,Não,0,1,0
+23753,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23753,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23753,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23753,Evair de Melo     ,PP-ES,Não,0,1,0
+23753,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23753,Cleber Verde      ,PRB-MA,Não,0,1,0
+23753,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23753,Darci de Matos    ,PSD-SC,Não,0,1,0
+23753,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23753,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23753,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23753,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23753,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23753,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23753,Paulo Martins     ,PSC-PR,Não,0,1,0
+23753,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23753,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23753,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23753,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23753,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23753,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23753,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23753,Diego Garcia      ,PODE-PR,Não,0,1,0
+23753,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23753,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23753,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23753,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23753,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23753,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23753,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23753,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23753,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23753,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23753,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23753,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23754,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23754,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23754,Filipe Barros     ,PSL-PR,Não,0,1,0
+23754,Heitor Freire     ,PSL-CE,Não,0,1,0
+23754,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23754,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23754,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23754,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23754,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23754,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23754,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23754,Giovani Cherini   ,PL-RS,Não,0,1,0
+23754,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23754,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23754,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23754,Evair de Melo     ,PP-ES,Não,0,1,0
+23754,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23754,Cleber Verde      ,PRB-MA,Não,0,1,0
+23754,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23754,Darci de Matos    ,PSD-SC,Não,0,1,0
+23754,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23754,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23754,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23754,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23754,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23754,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23754,Paulo Martins     ,PSC-PR,Não,0,1,0
+23754,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23754,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23754,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23754,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23754,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23754,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23754,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23754,Léo Moraes        ,PODE-RO,Não,0,1,0
+23754,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23754,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23754,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23754,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23754,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23754,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23754,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23754,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23754,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23754,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23754,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23754,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23757,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23757,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23757,FelipeFrancischini,PSL-PR,Não,0,1,0
+23757,Filipe Barros     ,PSL-PR,Não,0,1,0
+23757,Nicoletti         ,PSL-RR,Não,0,1,0
+23757,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23757,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23757,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23757,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23757,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23757,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23757,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23757,Giovani Cherini   ,PL-RS,Não,0,1,0
+23757,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23757,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23757,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23757,Evair de Melo     ,PP-ES,Não,0,1,0
+23757,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23757,Cleber Verde      ,PRB-MA,Não,0,1,0
+23757,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23757,Darci de Matos    ,PSD-SC,Não,0,1,0
+23757,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23757,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23757,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23757,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23757,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23757,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23757,Paulo Martins     ,PSC-PR,Não,0,1,0
+23757,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23757,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23757,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23757,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23757,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23757,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23757,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23757,Diego Garcia      ,PODE-PR,Não,0,1,0
+23757,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23757,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23757,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23757,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23757,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23757,José Guimarães    ,PT-CE,Obstrução,0,0,1
+23757,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23757,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23757,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23757,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23757,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23757,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23765,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23765,Filipe Barros     ,PSL-PR,Não,0,1,0
+23765,Heitor Freire     ,PSL-CE,Não,0,1,0
+23765,Júnior Bozzella   ,PSL-SP,Não,0,1,0
+23765,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23765,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23765,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23765,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23765,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23765,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23765,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23765,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23765,Giovani Cherini   ,PL-RS,Não,0,1,0
+23765,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23765,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23765,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23765,Evair de Melo     ,PP-ES,Não,0,1,0
+23765,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23765,Cleber Verde      ,PRB-MA,Não,0,1,0
+23765,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23765,Darci de Matos    ,PSD-SC,Não,0,1,0
+23765,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23765,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23765,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23765,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23765,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23765,Paulo Martins     ,PSC-PR,Não,0,1,0
+23765,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23765,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23765,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23765,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23765,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23765,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23765,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23765,Diego Garcia      ,PODE-PR,Não,0,1,0
+23765,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23765,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23765,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23765,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23765,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23765,José Guimarães    ,PT-CE,Obstrução,0,0,1
+23765,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23765,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23765,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23765,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23765,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23765,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23766,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23766,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23766,FelipeFrancischini,PSL-PR,Não,0,1,0
+23766,Filipe Barros     ,PSL-PR,Não,0,1,0
+23766,Heitor Freire     ,PSL-CE,Não,0,1,0
+23766,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23766,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23766,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23766,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23766,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23766,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23766,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23766,Giovani Cherini   ,PL-RS,Não,0,1,0
+23766,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23766,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23766,Evair de Melo     ,PP-ES,Não,0,1,0
+23766,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23766,Cleber Verde      ,PRB-MA,Não,0,1,0
+23766,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23766,Darci de Matos    ,PSD-SC,Não,0,1,0
+23766,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23766,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23766,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23766,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23766,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23766,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23766,Paulo Martins     ,PSC-PR,Não,0,1,0
+23766,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23766,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23766,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23766,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23766,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23766,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23766,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23766,Diego Garcia      ,PODE-PR,Não,0,1,0
+23766,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23766,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23766,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23766,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23766,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23766,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23766,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23766,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23766,Bira do Pindaré   ,PSB-MA,Obstrução,0,0,1
+23766,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23766,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23766,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23752,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23752,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23752,FelipeFrancischini,PSL-PR,Não,0,1,0
+23752,Filipe Barros     ,PSL-PR,Não,0,1,0
+23752,Heitor Freire     ,PSL-CE,Não,0,1,0
+23752,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23752,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23752,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23752,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23752,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23752,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23752,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23752,Giovani Cherini   ,PL-RS,Não,0,1,0
+23752,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23752,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23752,Evair de Melo     ,PP-ES,Não,0,1,0
+23752,Guilherme Derrite ,PP-SP,Não,0,1,0
+23752,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23752,Cleber Verde      ,PRB-MA,Não,0,1,0
+23752,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23752,Darci de Matos    ,PSD-SC,Não,0,1,0
+23752,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23752,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23752,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23752,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23752,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23752,Paulo Martins     ,PSC-PR,Não,0,1,0
+23752,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23752,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23752,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23752,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23752,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23752,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23752,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23752,Diego Garcia      ,PODE-PR,Não,0,1,0
+23752,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23752,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23752,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23752,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23752,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23752,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23752,Aliel Machado     ,PSB-PR,Não,0,1,0
+23752,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23752,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23752,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23752,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23752,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23753,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23753,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23753,Filipe Barros     ,PSL-PR,Não,0,1,0
+23753,Heitor Freire     ,PSL-CE,Não,0,1,0
+23753,Nicoletti         ,PSL-RR,Não,0,1,0
+23753,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23753,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23753,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23753,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23753,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23753,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23753,Giovani Cherini   ,PL-RS,Não,0,1,0
+23753,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23753,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23753,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23753,Evair de Melo     ,PP-ES,Não,0,1,0
+23753,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23753,Cleber Verde      ,PRB-MA,Não,0,1,0
+23753,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23753,Darci de Matos    ,PSD-SC,Não,0,1,0
+23753,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23753,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23753,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23753,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23753,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23753,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23753,Paulo Martins     ,PSC-PR,Não,0,1,0
+23753,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23753,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23753,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23753,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23753,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23753,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23753,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23753,Diego Garcia      ,PODE-PR,Não,0,1,0
+23753,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23753,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23753,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23753,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23753,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23753,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23753,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23753,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23753,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23753,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23753,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23753,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23754,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23754,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23754,Filipe Barros     ,PSL-PR,Não,0,1,0
+23754,Heitor Freire     ,PSL-CE,Não,0,1,0
+23754,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23754,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23754,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23754,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23754,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23754,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23754,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23754,Giovani Cherini   ,PL-RS,Não,0,1,0
+23754,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23754,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23754,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23754,Evair de Melo     ,PP-ES,Não,0,1,0
+23754,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23754,Cleber Verde      ,PRB-MA,Não,0,1,0
+23754,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23754,Darci de Matos    ,PSD-SC,Não,0,1,0
+23754,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23754,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23754,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23754,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23754,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23754,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23754,Paulo Martins     ,PSC-PR,Não,0,1,0
+23754,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23754,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23754,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23754,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23754,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23754,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23754,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23754,Léo Moraes        ,PODE-RO,Não,0,1,0
+23754,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23754,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23754,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23754,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23754,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23754,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23754,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23754,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23754,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23754,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23754,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23754,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23757,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23757,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23757,FelipeFrancischini,PSL-PR,Não,0,1,0
+23757,Filipe Barros     ,PSL-PR,Não,0,1,0
+23757,Nicoletti         ,PSL-RR,Não,0,1,0
+23757,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23757,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23757,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23757,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23757,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23757,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23757,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23757,Giovani Cherini   ,PL-RS,Não,0,1,0
+23757,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23757,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23757,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23757,Evair de Melo     ,PP-ES,Não,0,1,0
+23757,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23757,Cleber Verde      ,PRB-MA,Não,0,1,0
+23757,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23757,Darci de Matos    ,PSD-SC,Não,0,1,0
+23757,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23757,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23757,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23757,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23757,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23757,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23757,Paulo Martins     ,PSC-PR,Não,0,1,0
+23757,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23757,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23757,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23757,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23757,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23757,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23757,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23757,Diego Garcia      ,PODE-PR,Não,0,1,0
+23757,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23757,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23757,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23757,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23757,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23757,José Guimarães    ,PT-CE,Obstrução,0,0,1
+23757,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23757,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23757,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23757,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23757,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23757,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23765,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23765,Filipe Barros     ,PSL-PR,Não,0,1,0
+23765,Heitor Freire     ,PSL-CE,Não,0,1,0
+23765,Júnior Bozzella   ,PSL-SP,Não,0,1,0
+23765,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23765,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23765,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23765,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23765,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23765,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23765,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23765,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23765,Giovani Cherini   ,PL-RS,Não,0,1,0
+23765,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23765,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23765,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23765,Evair de Melo     ,PP-ES,Não,0,1,0
+23765,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23765,Cleber Verde      ,PRB-MA,Não,0,1,0
+23765,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23765,Darci de Matos    ,PSD-SC,Não,0,1,0
+23765,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23765,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23765,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23765,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23765,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23765,Paulo Martins     ,PSC-PR,Não,0,1,0
+23765,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23765,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23765,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23765,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23765,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23765,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23765,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23765,Diego Garcia      ,PODE-PR,Não,0,1,0
+23765,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23765,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23765,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23765,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23765,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23765,José Guimarães    ,PT-CE,Obstrução,0,0,1
+23765,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23765,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23765,Lídice da Mata    ,PSB-BA,Obstrução,0,0,1
+23765,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23765,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23765,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23766,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23766,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23766,FelipeFrancischini,PSL-PR,Não,0,1,0
+23766,Filipe Barros     ,PSL-PR,Não,0,1,0
+23766,Heitor Freire     ,PSL-CE,Não,0,1,0
+23766,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23766,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23766,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23766,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23766,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23766,João Marcelo S.   ,MDB-MA,Não,0,1,0
+23766,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23766,Giovani Cherini   ,PL-RS,Não,0,1,0
+23766,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23766,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23766,Evair de Melo     ,PP-ES,Não,0,1,0
+23766,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23766,Cleber Verde      ,PRB-MA,Não,0,1,0
+23766,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23766,Darci de Matos    ,PSD-SC,Não,0,1,0
+23766,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23766,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23766,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23766,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23766,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23766,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23766,Paulo Martins     ,PSC-PR,Não,0,1,0
+23766,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23766,André Figueiredo  ,PDT-CE,Obstrução,0,0,1
+23766,Paulo Ramos       ,PDT-RJ,Obstrução,0,0,1
+23766,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23766,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23766,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23766,Alice Portugal    ,PCdoB-BA,Obstrução,0,0,1
+23766,Diego Garcia      ,PODE-PR,Não,0,1,0
+23766,Acácio Favacho    ,PROS-AP,Não,0,1,0
+23766,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23766,Carlos Veras      ,PT-PE,Obstrução,0,0,1
+23766,Henrique Fontana  ,PT-RS,Obstrução,0,0,1
+23766,Jorge Solla       ,PT-BA,Obstrução,0,0,1
+23766,Pedro Uczai       ,PT-SC,Obstrução,0,0,1
+23766,Aliel Machado     ,PSB-PR,Obstrução,0,0,1
+23766,Heitor Schuch     ,PSB-RS,Obstrução,0,0,1
+23766,Bira do Pindaré   ,PSB-MA,Obstrução,0,0,1
+23766,Ivan Valente      ,PSOL-SP,Obstrução,0,0,1
+23766,Joenia Wapichana  ,REDE-RR,Obstrução,0,0,1
+23766,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23767,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23767,Daniel Freitas    ,PSL-SC,Sim,1,0,0
+23767,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23767,Heitor Freire     ,PSL-CE,Sim,1,0,0
+23767,Joice Hasselmann  ,PSL-SP,Sim,1,0,0
+23767,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+23767,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+23767,Paulo Azi         ,DEM-BA,Sim,1,0,0
+23767,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23767,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23767,Flaviano Melo     ,MDB-AC,Sim,1,0,0
+23767,FernandoRodolfo   ,PL-PE,Sim,1,0,0
+23767,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23767,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23767,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+23767,Evair de Melo     ,PP-ES,Sim,1,0,0
+23767,Guilherme Derrite ,PP-SP,Sim,1,0,0
+23767,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23767,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23767,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+23767,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23767,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23767,Hugo Leal         ,PSD-RJ,Sim,1,0,0
+23767,Beto Pereira      ,PSDB-MS,Sim,1,0,0
+23767,Daniel Trzeciak   ,PSDB-RS,Sim,1,0,0
+23767,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23767,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23767,Paulo Martins     ,PSC-PR,Sim,1,0,0
+23767,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23767,Fábio Henrique    ,PDT-SE,Não,0,1,0
+23767,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+23767,Alex Manente      ,CIDADANIA-SP,Sim,1,0,0
+23767,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23767,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23767,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23767,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23767,Israel Batista    ,PV-DF,Não,0,1,0
+23767,Carlos Veras      ,PT-PE,Não,0,1,0
+23767,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23767,Henrique Fontana  ,PT-RS,Não,0,1,0
+23767,Jorge Solla       ,PT-BA,Não,0,1,0
+23767,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23767,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23767,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23767,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+23767,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23768,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23768,Daniel Freitas    ,PSL-SC,Sim,1,0,0
+23768,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23768,Heitor Freire     ,PSL-CE,Sim,1,0,0
+23768,Joice Hasselmann  ,PSL-SP,Sim,1,0,0
+23768,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+23768,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+23768,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+23768,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23768,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23768,Flaviano Melo     ,MDB-AC,Sim,1,0,0
+23768,FernandoRodolfo   ,PL-PE,Sim,1,0,0
+23768,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23768,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23768,Guilherme Mussi   ,PP-SP,Sim,1,0,0
+23768,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+23768,Evair de Melo     ,PP-ES,Sim,1,0,0
+23768,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23768,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23768,Lafayette Andrada ,PRB-MG,Sim,1,0,0
+23768,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23768,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23768,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+23768,Beto Pereira      ,PSDB-MS,Sim,1,0,0
+23768,Daniel Trzeciak   ,PSDB-RS,Sim,1,0,0
+23768,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23768,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23768,Paulo Martins     ,PSC-PR,Sim,1,0,0
+23768,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23768,André Figueiredo  ,PDT-CE,Não,0,1,0
+23768,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23768,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+23768,Alex Manente      ,CIDADANIA-SP,Sim,1,0,0
+23768,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23768,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23768,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23768,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23768,Israel Batista    ,PV-DF,Não,0,1,0
+23768,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+23768,Carlos Veras      ,PT-PE,Não,0,1,0
+23768,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23768,Henrique Fontana  ,PT-RS,Não,0,1,0
+23768,Jorge Solla       ,PT-BA,Não,0,1,0
+23768,Aliel Machado     ,PSB-PR,Não,0,1,0
+23768,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23768,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23768,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23768,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+23768,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23769,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23769,Filipe Barros     ,PSL-PR,Não,0,1,0
+23769,Heitor Freire     ,PSL-CE,Não,0,1,0
+23769,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23769,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23769,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23769,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23769,Paulo Azi         ,DEM-BA,Não,0,1,0
+23769,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23769,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23769,Flaviano Melo     ,MDB-AC,Não,0,1,0
+23769,Giovani Cherini   ,PL-RS,Não,0,1,0
+23769,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23769,Cacá Leão         ,PP-BA,Não,0,1,0
+23769,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23769,Evair de Melo     ,PP-ES,Não,0,1,0
+23769,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23769,Lafayette Andrada ,PRB-MG,Não,0,1,0
+23769,Vinicius Carvalho ,PRB-SP,Não,0,1,0
+23769,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23769,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23769,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23769,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23769,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23769,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23769,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23769,Otoni de Paula    ,PSC-RJ,Não,0,1,0
+23769,Nivaldo Albuquerq ,PTB-AL,Não,0,1,0
+23769,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23769,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23769,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23769,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23769,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23769,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23769,Léo Moraes        ,PODE-RO,Sim,1,0,0
+23769,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23769,Israel Batista    ,PV-DF,Sim,1,0,0
+23769,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23769,Carlos Veras      ,PT-PE,Sim,1,0,0
+23769,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23769,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23769,Jorge Solla       ,PT-BA,Sim,1,0,0
+23769,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23769,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23769,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23769,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23769,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23769,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23770,Filipe Barros     ,PSL-PR,Não,0,1,0
+23770,Heitor Freire     ,PSL-CE,Não,0,1,0
+23770,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23770,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23770,Delegado Waldir   ,PSL-GO,Não,0,1,0
+23770,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23770,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23770,Paulo Azi         ,DEM-BA,Não,0,1,0
+23770,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23770,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23770,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23770,FernandoRodolfo   ,PL-PE,Sim,1,0,0
+23770,Giovani Cherini   ,PL-RS,Não,0,1,0
+23770,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23770,Cacá Leão         ,PP-BA,Não,0,1,0
+23770,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23770,Evair de Melo     ,PP-ES,Não,0,1,0
+23770,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23770,Lafayette Andrada ,PRB-MG,Não,0,1,0
+23770,Vinicius Carvalho ,PRB-SP,Não,0,1,0
+23770,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23770,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23770,Marco Bertaiolli  ,PSD-SP,Sim,1,0,0
+23770,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23770,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23770,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23770,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23770,Paulo Martins     ,PSC-PR,Não,0,1,0
+23770,Nivaldo Albuquerq ,PTB-AL,Não,0,1,0
+23770,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23770,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23770,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23770,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23770,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23770,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23770,Léo Moraes        ,PODE-RO,Sim,1,0,0
+23770,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23770,Israel Batista    ,PV-DF,Sim,1,0,0
+23770,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23770,Carlos Veras      ,PT-PE,Sim,1,0,0
+23770,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23770,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23770,Jorge Solla       ,PT-BA,Sim,1,0,0
+23770,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23770,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23770,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23770,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23770,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23770,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23771,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23771,Filipe Barros     ,PSL-PR,Não,0,1,0
+23771,Heitor Freire     ,PSL-CE,Não,0,1,0
+23771,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23771,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23771,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23771,Paulo Azi         ,DEM-BA,Não,0,1,0
+23771,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23771,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23771,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23771,FernandoRodolfo   ,PL-PE,Sim,1,0,0
+23771,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23771,João C. Bacelar   ,PL-BA,Sim,1,0,0
+23771,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23771,Evair de Melo     ,PP-ES,Não,0,1,0
+23771,Guilherme Derrite ,PP-SP,Não,0,1,0
+23771,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23771,Lafayette Andrada ,PRB-MG,Não,0,1,0
+23771,João Roma         ,PRB-BA,Não,0,1,0
+23771,Darci de Matos    ,PSD-SC,Não,0,1,0
+23771,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23771,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23771,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23771,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23771,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+23771,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23771,Paulo Martins     ,PSC-PR,Não,0,1,0
+23771,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23771,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23771,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23771,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23771,Alex Manente      ,CIDADANIA-SP,Sim,1,0,0
+23771,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23771,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23771,Diego Garcia      ,PODE-PR,Não,0,1,0
+23771,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23771,Israel Batista    ,PV-DF,Sim,1,0,0
+23771,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23771,Carlos Veras      ,PT-PE,Sim,1,0,0
+23771,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23771,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23771,Jorge Solla       ,PT-BA,Sim,1,0,0
+23771,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23771,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23771,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23771,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23771,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23771,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23774,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23774,Daniel Freitas    ,PSL-SC,Sim,1,0,0
+23774,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23774,Júnior Bozzella   ,PSL-SP,Sim,1,0,0
+23774,Arthur O. Maia    ,DEM-BA,Sim,1,0,0
+23774,Bilac Pinto       ,DEM-MG,Sim,1,0,0
+23774,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+23774,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23774,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23774,FernandoRodolfo   ,PL-PE,Sim,1,0,0
+23774,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23774,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23774,Evair de Melo     ,PP-ES,Sim,1,0,0
+23774,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23774,Cleber Verde      ,PRB-MA,Sim,1,0,0
+23774,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23774,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23774,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23774,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+23774,Beto Pereira      ,PSDB-MS,Sim,1,0,0
+23774,Daniel Trzeciak   ,PSDB-RS,Sim,1,0,0
+23774,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23774,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23774,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23774,André Figueiredo  ,PDT-CE,Não,0,1,0
+23774,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23774,Alex Manente      ,CIDADANIA-SP,Sim,1,0,0
+23774,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23774,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23774,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23774,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23774,Israel Batista    ,PV-DF,Não,0,1,0
+23774,Carlos Veras      ,PT-PE,Não,0,1,0
+23774,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23774,Henrique Fontana  ,PT-RS,Não,0,1,0
+23774,Jorge Solla       ,PT-BA,Não,0,1,0
+23774,Aliel Machado     ,PSB-PR,Não,0,1,0
+23774,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23774,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23774,Ivan Valente      ,PSOL-SP,Não,0,1,0
+23774,Luiza Erundina    ,PSOL-SP,Não,0,1,0
+23774,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23776,Filipe Barros     ,PSL-PR,Não,0,1,0
+23776,Heitor Freire     ,PSL-CE,Não,0,1,0
+23776,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23776,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23776,Paulo Azi         ,DEM-BA,Não,0,1,0
+23776,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23776,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23776,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23776,Giovani Cherini   ,PL-RS,Não,0,1,0
+23776,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23776,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23776,Evair de Melo     ,PP-ES,Não,0,1,0
+23776,Guilherme Derrite ,PP-SP,Não,0,1,0
+23776,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23776,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23776,João Roma         ,PRB-BA,Não,0,1,0
+23776,Darci de Matos    ,PSD-SC,Não,0,1,0
+23776,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23776,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23776,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+23776,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23776,Paulo Martins     ,PSC-PR,Não,0,1,0
+23776,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23776,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23776,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23776,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23776,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23776,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23776,Diego Garcia      ,PODE-PR,Não,0,1,0
+23776,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23776,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23776,Carlos Veras      ,PT-PE,Sim,1,0,0
+23776,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23776,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23776,Paulo Teixeira    ,PT-SP,Sim,1,0,0
+23776,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23776,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23776,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23776,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23776,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23776,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23778,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23778,Daniel Freitas    ,PSL-SC,Não,0,1,0
+23778,FelipeFrancischini,PSL-PR,Não,0,1,0
+23778,Filipe Barros     ,PSL-PR,Não,0,1,0
+23778,Heitor Freire     ,PSL-CE,Não,0,1,0
+23778,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23778,Bilac Pinto       ,DEM-MG,Não,0,1,0
+23778,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23778,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23778,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23778,Alceu Moreira     ,MDB-RS,Não,0,1,0
+23778,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23778,Giovani Cherini   ,PL-RS,Não,0,1,0
+23778,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23778,Guilherme Mussi   ,PP-SP,Não,0,1,0
+23778,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23778,Evair de Melo     ,PP-ES,Não,0,1,0
+23778,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23778,Cleber Verde      ,PRB-MA,Não,0,1,0
+23778,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23778,Darci de Matos    ,PSD-SC,Não,0,1,0
+23778,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23778,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23778,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23778,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23778,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23778,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23778,Paulo Martins     ,PSC-PR,Não,0,1,0
+23778,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23778,André Figueiredo  ,PDT-CE,Sim,1,0,0
+23778,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23778,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23778,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23778,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23778,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23778,Diego Garcia      ,PODE-PR,Não,0,1,0
+23778,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23778,Israel Batista    ,PV-DF,Sim,1,0,0
+23778,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23778,Carlos Veras      ,PT-PE,Sim,1,0,0
+23778,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23778,Jorge Solla       ,PT-BA,Sim,1,0,0
+23778,Rubens Otoni      ,PT-GO,Sim,1,0,0
+23778,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23778,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23778,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23778,Ivan Valente      ,PSOL-SP,Sim,1,0,0
+23778,Luiza Erundina    ,PSOL-SP,Sim,1,0,0
+23778,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23780,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23780,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23780,Major Vitor Hugo  ,PSL-GO,Sim,1,0,0
+23780,Júnior Bozzella   ,PSL-SP,Sim,1,0,0
+23780,Delegado Waldir   ,PSL-GO,Sim,1,0,0
+23780,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+23780,Paulo Azi         ,DEM-BA,Sim,1,0,0
+23780,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23780,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23780,Isnaldo Bulhões Jr,MDB-AL,Sim,1,0,0
+23780,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23780,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23780,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+23780,Evair de Melo     ,PP-ES,Sim,1,0,0
+23780,Guilherme Derrite ,PP-SP,Sim,1,0,0
+23780,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23780,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23780,João Roma         ,PRB-BA,Sim,1,0,0
+23780,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23780,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23780,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+23780,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23780,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+23780,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+23780,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23780,Paulo Martins     ,PSC-PR,Sim,1,0,0
+23780,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23780,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23780,Fábio Henrique    ,PDT-SE,Não,0,1,0
+23780,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+23780,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23780,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23780,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23780,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23780,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+23780,Carlos Veras      ,PT-PE,Não,0,1,0
+23780,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23780,Henrique Fontana  ,PT-RS,Não,0,1,0
+23780,Jorge Solla       ,PT-BA,Não,0,1,0
+23780,Aliel Machado     ,PSB-PR,Não,0,1,0
+23780,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23780,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23780,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23780,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+23780,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23782,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23782,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23782,Heitor Freire     ,PSL-CE,Sim,1,0,0
+23782,Major Vitor Hugo  ,PSL-GO,Sim,1,0,0
+23782,Júnior Bozzella   ,PSL-SP,Sim,1,0,0
+23782,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+23782,Paulo Azi         ,DEM-BA,Sim,1,0,0
+23782,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+23782,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23782,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23782,Isnaldo Bulhões Jr,MDB-AL,Sim,1,0,0
+23782,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23782,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23782,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+23782,Evair de Melo     ,PP-ES,Sim,1,0,0
+23782,Guilherme Derrite ,PP-SP,Sim,1,0,0
+23782,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23782,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23782,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23782,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23782,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+23782,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23782,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+23782,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+23782,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23782,Paulo Martins     ,PSC-PR,Sim,1,0,0
+23782,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23782,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23782,Fábio Henrique    ,PDT-SE,Não,0,1,0
+23782,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+23782,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23782,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23782,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23782,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23782,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+23782,Carlos Veras      ,PT-PE,Não,0,1,0
+23782,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23782,Henrique Fontana  ,PT-RS,Não,0,1,0
+23782,Jorge Solla       ,PT-BA,Não,0,1,0
+23782,Aliel Machado     ,PSB-PR,Não,0,1,0
+23782,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23782,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23782,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23782,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+23782,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23785,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23785,Filipe Barros     ,PSL-PR,Não,0,1,0
+23785,Heitor Freire     ,PSL-CE,Não,0,1,0
+23785,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23785,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23785,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23785,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+23785,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23785,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23785,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23785,Giovani Cherini   ,PL-RS,Não,0,1,0
+23785,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23785,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23785,Evair de Melo     ,PP-ES,Não,0,1,0
+23785,Guilherme Derrite ,PP-SP,Não,0,1,0
+23785,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23785,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23785,João Roma         ,PRB-BA,Não,0,1,0
+23785,Darci de Matos    ,PSD-SC,Não,0,1,0
+23785,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23785,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23785,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23785,Vitor Lippi       ,PSDB-SP,Não,0,1,0
+23785,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+23785,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23785,Paulo Martins     ,PSC-PR,Não,0,1,0
+23785,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23785,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23785,Fábio Henrique    ,PDT-SE,Não,0,1,0
+23785,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23785,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23785,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23785,Diego Garcia      ,PODE-PR,Não,0,1,0
+23785,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23785,Israel Batista    ,PV-DF,Não,0,1,0
+23785,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23785,Carlos Veras      ,PT-PE,Não,0,1,0
+23785,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23785,Henrique Fontana  ,PT-RS,Não,0,1,0
+23785,Jorge Solla       ,PT-BA,Não,0,1,0
+23785,Aliel Machado     ,PSB-PR,Não,0,1,0
+23785,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23785,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23785,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23785,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+23785,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23786,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23786,Heitor Freire     ,PSL-CE,Não,0,1,0
+23786,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23786,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23786,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23786,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+23786,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23786,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23786,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23786,Giovani Cherini   ,PL-RS,Não,0,1,0
+23786,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23786,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23786,Evair de Melo     ,PP-ES,Não,0,1,0
+23786,Guilherme Derrite ,PP-SP,Não,0,1,0
+23786,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23786,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23786,João Roma         ,PRB-BA,Não,0,1,0
+23786,Darci de Matos    ,PSD-SC,Não,0,1,0
+23786,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23786,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23786,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23786,Vitor Lippi       ,PSDB-SP,Não,0,1,0
+23786,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+23786,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23786,Paulo Martins     ,PSC-PR,Não,0,1,0
+23786,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23786,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23786,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23786,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23786,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23786,Diego Garcia      ,PODE-PR,Não,0,1,0
+23786,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23786,Israel Batista    ,PV-DF,Sim,1,0,0
+23786,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23786,Carlos Veras      ,PT-PE,Sim,1,0,0
+23786,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23786,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23786,Jorge Solla       ,PT-BA,Sim,1,0,0
+23786,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23786,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23786,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23786,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23786,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23786,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23788,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23788,Filipe Barros     ,PSL-PR,Não,0,1,0
+23788,Heitor Freire     ,PSL-CE,Não,0,1,0
+23788,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23788,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23788,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23788,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+23788,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23788,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23788,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23788,Giovani Cherini   ,PL-RS,Não,0,1,0
+23788,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23788,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23788,Evair de Melo     ,PP-ES,Não,0,1,0
+23788,Guilherme Derrite ,PP-SP,Não,0,1,0
+23788,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23788,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23788,João Roma         ,PRB-BA,Não,0,1,0
+23788,Darci de Matos    ,PSD-SC,Não,0,1,0
+23788,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23788,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23788,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23788,Vitor Lippi       ,PSDB-SP,Não,0,1,0
+23788,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+23788,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23788,Paulo Martins     ,PSC-PR,Não,0,1,0
+23788,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23788,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23788,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23788,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23788,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23788,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23788,Diego Garcia      ,PODE-PR,Não,0,1,0
+23788,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23788,Israel Batista    ,PV-DF,Sim,1,0,0
+23788,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23788,Carlos Veras      ,PT-PE,Sim,1,0,0
+23788,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23788,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23788,Jorge Solla       ,PT-BA,Sim,1,0,0
+23788,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23788,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23788,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23788,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23788,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23789,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23789,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23789,Heitor Freire     ,PSL-CE,Sim,1,0,0
+23789,Joice Hasselmann  ,PSL-SP,Sim,1,0,0
+23789,Major Vitor Hugo  ,PSL-GO,Sim,1,0,0
+23789,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+23789,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23789,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23789,Isnaldo Bulhões Jr,MDB-AL,Sim,1,0,0
+23789,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23789,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23789,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+23789,Evair de Melo     ,PP-ES,Sim,1,0,0
+23789,Guilherme Derrite ,PP-SP,Sim,1,0,0
+23789,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23789,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23789,João Roma         ,PRB-BA,Sim,1,0,0
+23789,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23789,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23789,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+23789,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23789,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+23789,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+23789,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23789,Paulo Martins     ,PSC-PR,Sim,1,0,0
+23789,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23789,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23789,Fábio Henrique    ,PDT-SE,Não,0,1,0
+23789,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+23789,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23789,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23789,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23789,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23789,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+23789,Carlos Veras      ,PT-PE,Não,0,1,0
+23789,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23789,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23789,Jorge Solla       ,PT-BA,Não,0,1,0
+23789,Aliel Machado     ,PSB-PR,Não,0,1,0
+23789,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23789,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23789,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23789,Luiza Erundina    ,PSOL-SP,Não,0,1,0
+23789,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23790,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23790,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23790,Heitor Freire     ,PSL-CE,Sim,1,0,0
+23790,Joice Hasselmann  ,PSL-SP,Sim,1,0,0
+23790,Major Vitor Hugo  ,PSL-GO,Sim,1,0,0
+23790,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+23790,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+23790,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23790,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23790,Isnaldo Bulhões Jr,MDB-AL,Sim,1,0,0
+23790,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23790,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23790,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+23790,Evair de Melo     ,PP-ES,Sim,1,0,0
+23790,Guilherme Derrite ,PP-SP,Sim,1,0,0
+23790,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23790,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23790,João Roma         ,PRB-BA,Sim,1,0,0
+23790,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23790,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23790,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+23790,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23790,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+23790,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+23790,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23790,Paulo Martins     ,PSC-PR,Sim,1,0,0
+23790,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23790,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23790,Fábio Henrique    ,PDT-SE,Não,0,1,0
+23790,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+23790,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23790,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23790,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23790,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23790,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+23790,Carlos Veras      ,PT-PE,Não,0,1,0
+23790,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23790,Henrique Fontana  ,PT-RS,Não,0,1,0
+23790,Jorge Solla       ,PT-BA,Não,0,1,0
+23790,Aliel Machado     ,PSB-PR,Não,0,1,0
+23790,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23790,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23790,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23790,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+23790,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23792,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23792,Filipe Barros     ,PSL-PR,Não,0,1,0
+23792,Heitor Freire     ,PSL-CE,Não,0,1,0
+23792,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23792,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23792,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23792,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+23792,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23792,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23792,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23792,Giovani Cherini   ,PL-RS,Não,0,1,0
+23792,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23792,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23792,Evair de Melo     ,PP-ES,Não,0,1,0
+23792,Guilherme Derrite ,PP-SP,Não,0,1,0
+23792,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23792,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23792,João Roma         ,PRB-BA,Não,0,1,0
+23792,Darci de Matos    ,PSD-SC,Não,0,1,0
+23792,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23792,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23792,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23792,Vitor Lippi       ,PSDB-SP,Não,0,1,0
+23792,Eduardo Cury      ,PSDB-SP,Não,0,1,0
+23792,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23792,Paulo Martins     ,PSC-PR,Não,0,1,0
+23792,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23792,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23792,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23792,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23792,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23792,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23792,Diego Garcia      ,PODE-PR,Não,0,1,0
+23792,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23792,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23792,Carlos Veras      ,PT-PE,Sim,1,0,0
+23792,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23792,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23792,Jorge Solla       ,PT-BA,Sim,1,0,0
+23792,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23792,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23792,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23792,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23792,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23792,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+23793,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+23793,Filipe Barros     ,PSL-PR,Sim,1,0,0
+23793,Heitor Freire     ,PSL-CE,Sim,1,0,0
+23793,Joice Hasselmann  ,PSL-SP,Sim,1,0,0
+23793,Major Vitor Hugo  ,PSL-GO,Sim,1,0,0
+23793,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+23793,Geninho Zuliani   ,DEM-SP,Sim,1,0,0
+23793,Celso Maldaner    ,MDB-SC,Sim,1,0,0
+23793,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+23793,Isnaldo Bulhões Jr,MDB-AL,Sim,1,0,0
+23793,Giovani Cherini   ,PL-RS,Sim,1,0,0
+23793,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23793,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+23793,Evair de Melo     ,PP-ES,Sim,1,0,0
+23793,Guilherme Derrite ,PP-SP,Sim,1,0,0
+23793,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23793,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23793,João Roma         ,PRB-BA,Sim,1,0,0
+23793,Darci de Matos    ,PSD-SC,Sim,1,0,0
+23793,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+23793,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+23793,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23793,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+23793,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+23793,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23793,Paulo Martins     ,PSC-PR,Sim,1,0,0
+23793,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+23793,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+23793,Fábio Henrique    ,PDT-SE,Não,0,1,0
+23793,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+23793,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23793,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+23793,Diego Garcia      ,PODE-PR,Sim,1,0,0
+23793,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+23793,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+23793,Carlos Veras      ,PT-PE,Não,0,1,0
+23793,Gleisi Hoffmann   ,PT-PR,Não,0,1,0
+23793,Henrique Fontana  ,PT-RS,Não,0,1,0
+23793,Heitor Schuch     ,PSB-RS,Não,0,1,0
+23793,Lídice da Mata    ,PSB-BA,Não,0,1,0
+23793,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+23793,Joenia Wapichana  ,REDE-RR,Não,0,1,0
+23793,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23794,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23794,Filipe Barros     ,PSL-PR,Não,0,1,0
+23794,Heitor Freire     ,PSL-CE,Não,0,1,0
+23794,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23794,Major Vitor Hugo  ,PSL-GO,Não,0,1,0
+23794,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23794,Geninho Zuliani   ,DEM-SP,Não,0,1,0
+23794,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23794,Isnaldo Bulhões Jr,MDB-AL,Não,0,1,0
+23794,Giovani Cherini   ,PL-RS,Não,0,1,0
+23794,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+23794,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23794,Evair de Melo     ,PP-ES,Não,0,1,0
+23794,Guilherme Derrite ,PP-SP,Não,0,1,0
+23794,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+23794,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+23794,João Roma         ,PRB-BA,Não,0,1,0
+23794,Darci de Matos    ,PSD-SC,Não,0,1,0
+23794,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23794,Stephanes Junior  ,PSD-PR,Não,0,1,0
+23794,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+23794,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+23794,Eduardo Cury      ,PSDB-SP,Sim,1,0,0
+23794,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+23794,Paulo Martins     ,PSC-PR,Não,0,1,0
+23794,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23794,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23794,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23794,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23794,Dr. Frederico     ,PATRIOTA-MG,Sim,1,0,0
+23794,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23794,Diego Garcia      ,PODE-PR,Não,0,1,0
+23794,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23794,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23794,Carlos Veras      ,PT-PE,Sim,1,0,0
+23794,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23794,Henrique Fontana  ,PT-RS,Sim,1,0,0
+23794,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23794,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23794,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23794,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23794,Vinicius Poit     ,NOVO-SP,Sim,1,0,0
+23795,Alexandre Frota   ,PSL-SP,Não,0,1,0
+23795,Filipe Barros     ,PSL-PR,Não,0,1,0
+23795,Heitor Freire     ,PSL-CE,Não,0,1,0
+23795,Joice Hasselmann  ,PSL-SP,Não,0,1,0
+23795,Júnior Bozzella   ,PSL-SP,Não,0,1,0
+23795,Arthur O. Maia    ,DEM-BA,Não,0,1,0
+23795,Pedro Paulo       ,DEM-RJ,Não,0,1,0
+23795,Alan Rick         ,DEM-AC,Não,0,1,0
+23795,Celso Maldaner    ,MDB-SC,Não,0,1,0
+23795,Darcísio Perondi  ,MDB-RS,Não,0,1,0
+23795,FernandoRodolfo   ,PL-PE,Não,0,1,0
+23795,Giovani Cherini   ,PL-RS,Não,0,1,0
+23795,Marcelo Ramos     ,PL-AM,Não,0,1,0
+23795,Cacá Leão         ,PP-BA,Não,0,1,0
+23795,Ronaldo Carletto  ,PP-BA,Não,0,1,0
+23795,Evair de Melo     ,PP-ES,Não,0,1,0
+23795,Cap. Alberto Neto ,PRB-AM,Não,0,1,0
+23795,Silvio Costa Filho,PRB-PE,Não,0,1,0
+23795,Lafayette Andrada ,PRB-MG,Não,0,1,0
+23795,Darci de Matos    ,PSD-SC,Não,0,1,0
+23795,Deleg. Éder Mauro ,PSD-PA,Não,0,1,0
+23795,Hugo Leal         ,PSD-RJ,Não,0,1,0
+23795,Beto Pereira      ,PSDB-MS,Não,0,1,0
+23795,Daniel Trzeciak   ,PSDB-RS,Não,0,1,0
+23795,Samuel Moreira    ,PSDB-SP,Não,0,1,0
+23795,Paulo Ganime      ,NOVO-RJ,Não,0,1,0
+23795,Paulo Martins     ,PSC-PR,Não,0,1,0
+23795,Marcelo Moraes    ,PTB-RS,Não,0,1,0
+23795,Paulo Ramos       ,PDT-RJ,Sim,1,0,0
+23795,Fábio Henrique    ,PDT-SE,Sim,1,0,0
+23795,Greyce Elias      ,AVANTE-MG,Não,0,1,0
+23795,Alex Manente      ,CIDADANIA-SP,Não,0,1,0
+23795,Dr. Frederico     ,PATRIOTA-MG,Não,0,1,0
+23795,Alice Portugal    ,PCdoB-BA,Sim,1,0,0
+23795,Diego Garcia      ,PODE-PR,Não,0,1,0
+23795,ToninhoWandscheer ,PROS-PR,Não,0,1,0
+23795,Israel Batista    ,PV-DF,Sim,1,0,0
+23795,Lucas Vergilio    ,SOLIDARIEDADE-GO,Não,0,1,0
+23795,Carlos Veras      ,PT-PE,Sim,1,0,0
+23795,Gleisi Hoffmann   ,PT-PR,Sim,1,0,0
+23795,Jorge Solla       ,PT-BA,Sim,1,0,0
+23795,José Guimarães    ,PT-CE,Sim,1,0,0
+23795,Aliel Machado     ,PSB-PR,Sim,1,0,0
+23795,Heitor Schuch     ,PSB-RS,Sim,1,0,0
+23795,Lídice da Mata    ,PSB-BA,Sim,1,0,0
+23795,Sâmia Bomfim      ,PSOL-SP,Sim,1,0,0
+23795,Joenia Wapichana  ,REDE-RR,Sim,1,0,0
+23795,Vinicius Poit     ,NOVO-SP,Não,0,1,0
+27388,Alexandre Frota   ,PSL-SP,Sim,1,0,0
+27388,Filipe Barros     ,PSL-PR,Sim,1,0,0
+27388,Joice Hasselmann  ,PSL-SP,Sim,1,0,0
+27388,Major Vitor Hugo  ,PSL-GO,Sim,1,0,0
+27388,Luis Miranda      ,DEM-DF,Sim,1,0,0
+27388,Pedro Paulo       ,DEM-RJ,Sim,1,0,0
+27388,Caroline de Toni  ,PSL-SC,Sim,1,0,0
+27388,Baleia Rossi      ,MDB-SP,Sim,1,0,0
+27388,Darcísio Perondi  ,MDB-RS,Sim,1,0,0
+27388,Gutemberg Reis    ,MDB-RJ,Sim,1,0,0
+27388,FernandoRodolfo   ,PL-PE,Sim,1,0,0
+27388,Giovani Cherini   ,PL-RS,Sim,1,0,0
+27388,Marcelo Ramos     ,PL-AM,Sim,1,0,0
+27388,Cacá Leão         ,PP-BA,Sim,1,0,0
+27388,Ronaldo Carletto  ,PP-BA,Sim,1,0,0
+27388,Evair de Melo     ,PP-ES,Sim,1,0,0
+27388,Cap. Alberto Neto ,PRB-AM,Sim,1,0,0
+27388,Silvio Costa Filho,PRB-PE,Sim,1,0,0
+27388,João Roma         ,PRB-BA,Sim,1,0,0
+27388,Darci de Matos    ,PSD-SC,Sim,1,0,0
+27388,Deleg. Éder Mauro ,PSD-PA,Sim,1,0,0
+27388,Stephanes Junior  ,PSD-PR,Sim,1,0,0
+27388,Daniel Trzeciak   ,PSDB-RS,Sim,1,0,0
+27388,Samuel Moreira    ,PSDB-SP,Sim,1,0,0
+27388,Vitor Lippi       ,PSDB-SP,Sim,1,0,0
+27388,Paulo Ganime      ,NOVO-RJ,Sim,1,0,0
+27388,Paulo Martins     ,PSC-PR,Sim,1,0,0
+27388,Marcelo Moraes    ,PTB-RS,Sim,1,0,0
+27388,Paulo Ramos       ,PDT-RJ,Não,0,1,0
+27388,Greyce Elias      ,AVANTE-MG,Sim,1,0,0
+27388,Arnaldo Jardim    ,CIDADANIA-SP,Sim,1,0,0
+27388,Alcides Rodrigues ,PATRIOTA-GO,Sim,1,0,0
+27388,Alice Portugal    ,PCdoB-BA,Não,0,1,0
+27388,Diego Garcia      ,PODE-PR,Sim,1,0,0
+27388,ToninhoWandscheer ,PROS-PR,Sim,1,0,0
+27388,Israel Batista    ,PV-DF,Não,0,1,0
+27388,Lucas Vergilio    ,SOLIDARIEDADE-GO,Sim,1,0,0
+27388,Carlos Veras      ,PT-PE,Não,0,1,0
+27388,Henrique Fontana  ,PT-RS,Não,0,1,0
+27388,Pedro Uczai       ,PT-SC,Não,0,1,0
+27388,Rubens Otoni      ,PT-GO,Não,0,1,0
+27388,Aliel Machado     ,PSB-PR,Não,0,1,0
+27388,Lídice da Mata    ,PSB-BA,Não,0,1,0
+27388,Bira do Pindaré   ,PSB-MA,Não,0,1,0
+27388,Sâmia Bomfim      ,PSOL-SP,Não,0,1,0
+27388,Luiza Erundina    ,PSOL-SP,Não,0,1,0
+27388,Tiago Mitraud     ,NOVO-MG,Sim,1,0,0
