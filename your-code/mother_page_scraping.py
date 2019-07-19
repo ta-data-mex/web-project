@@ -16,7 +16,7 @@ El código de esta página hará lo siguiente:
 
 url_madre = 'https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2192459'
 PEC6 = requests.get(url_madre).content
-PEC6_soup = BeautifulSoup(PEC6, 'html5lib')
+PEC6_soup = BeautifulSoup(PEC6, 'html')
 
 texto_reunion = [item.text.strip() for item in PEC6_soup.select('tr') if item.find_all('a', {'href':re.compile('evento-legislativo')})]
 link_reunion = [item.find_all('a', {'href':re.compile('evento-legislativo')})[0]['href'] for item in PEC6_soup.find_all('tr') if item.find_all('a', {'href':re.compile('evento-legislativo')})]

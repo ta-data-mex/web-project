@@ -37,4 +37,4 @@ def spider_2columns(lista_url, criterio_txt, criterio_link):
 lista_deliberacoes = spider_2columns(url_patterns, buscar_detalles, buscar_link_votos)
 deliberacoes_df = pd.DataFrame(lista_deliberacoes).transpose()
 deliberacoes_df.columns = ['Tema', 'Links Votacoes']
-deliberacoes_df.to_csv('./data/deliberacoes.csv')
+deliberacoes_df.to_csv('./data/deliberacoes.csv', index=False)

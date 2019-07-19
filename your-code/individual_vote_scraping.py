@@ -30,4 +30,4 @@ for i in ids:
 
 votos = pd.concat(lst_dfs, axis=0, ignore_index=True)
 votos.columns = ['Nome', 'Partido', 'Voto', 'ID Votacao']
-votos.to_csv('./data/votos.csv')
+votos.to_csv('./data/votos.csv', index=False)
