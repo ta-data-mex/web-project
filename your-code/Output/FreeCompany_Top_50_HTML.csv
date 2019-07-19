@@ -1,0 +1,1432 @@
+,0
+0,html
+1,"<html class=""en-us"" lang=""en-us"" xmlns:fb=""http://www.facebook.com/2008/fbml"" xmlns:og=""http://ogp.me/ns#""><head><meta charset=""utf-8""/>
+<title>Dream Members | FINAL FANTASY XIV, The Lodestone</title>
+<meta content=""Member listing for the free company Dream."" name=""description""/>
+<meta content=""FF14,FFXIV,Final Fantasy XIV,Final Fantasy 14,Lodestone,players' site,community site,A Realm Reborn,Heavensward,Stormblood,MMO"" name=""keywords""/>
+<meta content=""SQUARE ENIX Inc."" name=""author""/>
+<meta content=""IE=edge"" http-equiv=""X-UA-Compatible""/>
+<meta content=""telephone=no"" name=""format-detection""/>
+
+<link href=""https://img.finalfantasyxiv.com/lds/pc/global/images/favicon.ico?1490749553"" rel=""shortcut icon"" type=""image/vnd.microsoft.icon""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/0/U2uGfVX4GdZgU1jASO0m9h_xLg.png"" rel=""apple-touch-icon-precomposed""/>
+<meta content=""https://img.finalfantasyxiv.com/lds/h/0/U2uGfVX4GdZgU1jASO0m9h_xLg.png"" name=""msapplication-TileImage""/>
+
+<meta content=""#000000"" name=""msapplication-TileColor""/>
+<link href=""https://jp.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"" hreflang=""ja"" rel=""alternate""/>
+<link href=""https://eu.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"" hreflang=""en-gb"" rel=""alternate""/>
+<link href=""https://fr.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"" hreflang=""fr"" rel=""alternate""/>
+<link href=""https://de.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"" hreflang=""de"" rel=""alternate""/>
+
+
+
+
+
+<!--[if lt IE 9]>
+	<script src=""https://img.finalfantasyxiv.com/lds/h/I/SMlNRnAvuilc1lYKBpzKWpmADs.js""></script>
+
+<![endif]-->
+<!-- ** CSS ** -->
+<link href=""https://img.finalfantasyxiv.com/lds/h/Z/Uyvv7NKUtuZwnXECBmPDjjnZOI.css"" rel=""stylesheet""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/-/tUrZCLFtMgzaHil2OXxbmdw2a0.css"" rel=""stylesheet""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/N/o9U-jwdtLBDvd2J5ML8uj5SuM0.css"" rel=""stylesheet""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/j/JgAulXN0McN_xRNcKLLbnNh4fs.css"" rel=""stylesheet""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/F/wZHqGlYFe-0or10VJJtARsKyko.css"" rel=""stylesheet""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/e/81qXLmE4CxyYv-os2KdvznfxfQ.css"" rel=""stylesheet""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/c/ayPPfTN9DjjFmVfoD44VHT5GKo.css"" rel=""stylesheet""/>
+<link href=""https://img.finalfantasyxiv.com/lds/h/w/YgRYdK0dq3N9UCU6nR-7J5PftA.css"" rel=""stylesheet""/>
+
+<link href=""https://img.finalfantasyxiv.com/lds/h/A/cEjuxNw6AKR-H_rBTApK4A67VM.css"" rel=""stylesheet""/>
+
+<link class=""sys_theme_css"" data-theme_black=""https://img.finalfantasyxiv.com/lds/h/a/440JeYxwQo3dkE2aMP29wPq7dc.css"" data-theme_white=""https://img.finalfantasyxiv.com/lds/h/h/JE7t9ohY0RVjUp8GfgY96dpMJA.css"" href=""https://img.finalfantasyxiv.com/lds/h/h/JE7t9ohY0RVjUp8GfgY96dpMJA.css"" rel=""stylesheet""/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ogp -->
+<meta content=""1400886233468625"" property=""fb:app_id""/>
+<meta content=""website"" property=""og:type""/>
+<meta content=""Member listing for the free company Dream."" property=""og:description""/>
+<meta content=""Dream Members | FINAL FANTASY XIV, The Lodestone"" property=""og:title""/>
+<meta content=""https://na.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"" property=""og:url""/>
+<meta content=""FINAL FANTASY XIV, The Lodestone"" property=""og:site_name""/>
+<meta content=""en_US"" property=""og:locale""/>
+
+	<meta content=""https://img.finalfantasyxiv.com/lds/h/4/vinx-Rf67Sq92hHnRzFBVGpnZM.png"" property=""og:image""/>
+
+
+
+	<meta content=""116214575870"" property=""fb:pages""/>
+
+
+<meta content=""summary_large_image"" name=""twitter:card""/>
+
+	<meta content=""@ff_xiv_en"" name=""twitter:site""/>
+
+
+
+
+<script>
+	var base_domain = 'finalfantasyxiv.com';
+	var strftime_fmt = {
+		'dateHHMM_now': 'Today %H:%M',
+		'dateYMDHMS': '%m/%d/%Y %\u002dI:%M:%S %p',
+		'dateYMDHM': '%m/%d/%Y %\u002dI:%M %p',
+		'dateYMDHM_jp': '%Y/%m/%d %H:%M',
+		'dateHM': '%\u002dI:%M %p',
+		'dateYMDH': '%m/%d/%Y %\u002dI',
+		'dateYMD': '%m/%d/%Y',
+		'dateEternal': '%m.%d.%Y',
+		'dateYMDW': '%m/%d/%Y (%a)',
+		'dateHM': '%\u002dI:%M %p',
+		'week.0': 'Sun.',
+		'week.1': 'Mon.',
+		'week.2': 'Tue.',
+		'week.3': 'Wed.',
+		'week.4': 'Thu.',
+		'week.5': 'Fri.',
+		'week.6': 'Sat.'
+	};
+	var base_uri   = '/lodestone/';
+	var api_uri    = '/lodestone/api/';
+	var static_uri = 'https://img.finalfantasyxiv.com/lds/';
+	var subdomain  = 'na';
+	var csrf_token = '081dfa4800b6e5a47e4810799184e142772932b8';
+	var cis_origin = 'https://secure.square\u002denix.com';
+	var ldst_max_image_size = 31457280;
+	var eorzeadb = {
+		cdn_prefix: 'https://img.finalfantasyxiv.com/lds/',
+		version: '1563267142',
+		version_js_uri:  'https://img.finalfantasyxiv.com/lds/pc/global/js/eorzeadb/version.js',
+		dynamic_tooltip: false
+	};
+	var cookie_suffix = '';
+</script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/A/PknAmzDJUZCNhTGtSGGMIGi5k4.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/R/bK43fUDSheQh717GUPX94CW_1Y.js""></script>
+
+
+	
+
+
+
+	
+
+
+</head>
+<body class=""lang_na"" id=""community"">
+
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  
+    js.src = ""//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3&appId=1400886233468625"";
+  
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div class=""brand""><div class=""brand__section"">
+	<div class=""brand__logo"">
+		<a href=""
+				https://na.square-enix.com/us/home
+			"" target=""_blank""><img alt=""SQUARE ENIX"" height=""14"" src=""https://img.finalfantasyxiv.com/lds/h/L/cxcD5kjeM52JRVwrrzIF4dZNe0.png"" width=""130""/>
+		</a>
+	</div>
+
+	
+		<div class=""brand__search"">
+			<form action=""/lodestone/community/search/"" class=""brand__search__form"">
+				<div class=""brand__search__focus_bg""></div>
+				<div class=""brand__search__base_bg""></div>
+				<input class=""brand__search--text"" id=""txt_search"" name=""q"" placeholder=""Search"" type=""text""/>
+				<input class=""brand__search--btn"" id=""bt_search"" type=""submit"" value=""""/>
+			</form>
+		</div>
+	
+
+	
+		<div class=""brand__theme sys_theme_switcher"">
+			<a href=""javascript:void(0);""><i class=""brand__theme--white sys_theme active js__tooltip"" data-theme=""white"" data-tooltip=""Theme (Black)""></i></a>
+			<a href=""javascript:void(0);""><i class=""brand__theme--black sys_theme js__tooltip"" data-theme=""black"" data-tooltip=""Theme (White)""></i></a>
+		</div>
+	
+
+	<div class=""brand__lang dropdown_trigger_box"">
+		<a class=""brand__lang__btn brand__lang__en-us dropdown_trigger"" href=""javascript:void(0);"">English</a>
+		<ul class=""brand__lang__select dropdown"">
+		
+			<li><a class=""brand__lang__jp"" href=""https://jp.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"">日本語</a></li>
+		
+			<li><a class=""brand__lang__na"" href=""https://na.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"">English</a></li>
+		
+			<li><a class=""brand__lang__eu"" href=""https://eu.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"">English</a></li>
+		
+			<li><a class=""brand__lang__fr"" href=""https://fr.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"">Français</a></li>
+		
+			<li><a class=""brand__lang__de"" href=""https://de.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=1"">Deutsch</a></li>
+		
+		</ul>
+	</div>
+
+
+	
+		<div class=""l__cross_menu na"">
+			<a class=""ffxiv_pr_cross_menu_button_na"" href=""javascript:void(null)""></a>
+			<script>
+				var ffxiv_pr_cross_menu = {
+					uri_js: '/cross_menu/uri.js'
+				};
+			</script>
+			<script src=""https://img.finalfantasyxiv.com/lds/promo/pc/global/menu/loader.js""></script>
+		</div>
+	
+</div></div>
+
+
+	
+		
+<header class=""l__header"">
+	<div class=""l__header__inner l__header__bg_image"" style=""background-image: url(https://img.finalfantasyxiv.com/lds/banner/777/headerImage_5_0_na.png);"">
+		<a class=""l__header__link_top"" href=""/lodestone/""></a>
+
+		
+		<a class=""l__header__link_management"" href=""/lodestone/topics/detail/330f2b280067d69d85b17831c66712a499e97484/?utm_source=lodestone&amp;utm_medium=pc_header&amp;utm_campaign=na_5_0patch""></a>
+
+		
+			<div class=""l__header__login clearfix""><a class=""l__header__login__btn"" href=""/lodestone/account/login/"">
+				<img alt="""" class=""l__header__login__chara_silhouette"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/z/6PLTZ82M99GJ7tKOee1RSwvNrQ.png"" width=""40""/>
+				<div class=""l__header__login__txt"">
+					<p>View Your Character Profile</p>
+					<div>Log In</div>
+				</div>
+			</a></div>
+		
+
+	</div>
+</header>
+
+	
+
+	
+		
+
+
+
+	
+
+<div class=""global-nav"">
+	<nav class=""main-nav na"">
+		<ul class=""main-nav__area main-nav__area__community clearfix"">
+			<li class=""main-nav__news main-nav__item"">
+				<a href=""/lodestone/news/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_news-top');""><span>News</span></a>
+				<nav class=""sub-nav"">
+					<div class=""sub-nav__area"">
+
+						
+						<div class=""sub-nav__list sub-nav__news"">
+							<div class=""sub-nav__list__inner"">
+								<ul class=""sub-nav__news__icon"">
+									<li>
+										<a href=""/lodestone/news/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_top');""><div>
+											<img alt=""News"" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/8/2GwuzUcvqLa-hgQeLUyd8xarI8.png"" width=""32""/>
+											News
+										</div></a>
+									</li>
+									<li>
+										<a href=""/lodestone/topics/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_topics');""><div>
+											<img alt=""Topics"" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/5/67ZyAIzQUaYoWBmyvFwNvGmCnQ.png"" width=""32""/>
+											Topics
+										</div></a>
+									</li>
+									<li>
+										<a href=""/lodestone/news/category/1"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_notices');""><div>
+											<img alt=""Notices"" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/-/Y5JdwnEWYfyO7OlH27eKIm91Ok.png"" width=""32""/>
+											Notices
+										</div></a>
+									</li>
+									<li>
+										<a href=""/lodestone/news/category/2"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_maintenance');""><div>
+											<img alt=""Maintenance"" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/s/-JfULvMAf26L7AaU1OGaGYwanI.png"" width=""32""/>
+											Maintenance
+										</div></a>
+									</li>
+									<li>
+										<a href=""/lodestone/news/category/3"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_updates');""><div>
+											<img alt=""Updates"" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/p/HPudyOQcwdv97RBwj3FQC552ps.png"" width=""32""/>
+											Updates
+										</div></a>
+									</li>
+									<li>
+										<a href=""/lodestone/news/category/4"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_Status');""><div>
+											<img alt=""Status"" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/S/-IC2xIQhTl2ymYW7deE1fOII04.png"" width=""32""/>
+											Status
+										</div></a>
+									</li>
+								</ul>
+								<ul class=""sub-nav__news__text"">
+									<li><a href=""/lodestone/special/patchnote_log/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_patch-notes_special-sites');""><div>
+										Patch Notes and Special Sites
+										<span class=""update"">
+											Updated <span id=""datetime-0.048998907381538"">-</span><script>document.getElementById('datetime-0.048998907381538').innerHTML = ldst_strftime(1563264000, 'YMD');</script>
+										</span>
+									</div></a></li>
+									<li><a href=""/lodestone/special/update_log/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_lodestone-update-notes');""><div>
+										<span class=""sub_text"">Official Community Site</span>
+										The Lodestone Update Notes
+										<span class=""update"">
+											Updated <span id=""datetime-0.663462826681059"">-</span><script>document.getElementById('datetime-0.663462826681059').innerHTML = ldst_strftime(1561708800, 'YMD');</script>
+										</span>
+									</div></a></li>
+									<li><a href=""/lodestone/worldstatus/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_news_server-status');""><div>
+										Server Status
+									</div></a></li>
+								</ul>
+							</div>
+						</div>
+
+
+					</div>
+				</nav>
+
+			</li>
+			<li class=""main-nav__promotion main-nav__item"">
+				<a href=""/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_begin-ff14-top');""><span>Getting Started</span></a>
+				<nav class=""sub-nav"">
+					<div class=""sub-nav__area"">
+
+						
+						<div class=""sub-nav__list sub-nav__promotion"">
+							<div class=""sub-nav__list__inner"">
+								<div class=""sub-nav__promotion__inner"">
+									<div class=""sub-nav__promotion__link"">
+										<div class=""sub-nav__promotion__top"">
+											<a href=""/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_pr');""><img alt=""FINAL FANTASY XIV: A Realm Reborn"" height=""140"" src=""https://img.finalfantasyxiv.com/lds/h/P/ciPXy1S4-ssQuLQJvEF4JWVm5Q.jpg"" width=""632""/></a>
+										</div>
+										<ul class=""sub-nav__promotion__page"">
+											<li><a href=""/benchmark/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_benchmark');"">
+												<img alt=""Benchmark"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/L/wWThbp1qWCstUZa-Rwsmi2fsKY.png"" width=""64""/>
+												<span>Benchmark</span>
+											</a></li>
+											<li><a href=""
+												
+													http://freetrial.finalfantasyxiv.com/na/?utm_source=lodestone&amp;utm_campaign=freetrial-banner&amp;utm_medium=organic&amp;utm_content=menu
+												"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_freetrial');"">
+												<img alt=""Free Trial"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/c/tWvZpXDc_g6yQd5YKK2k5jhuns.png"" width=""64""/>
+												<span>Free Trial</span>
+											</a></li>
+											<li><a href=""/product/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_product');"">
+												<img alt=""Product"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/m/NCNLGrn3U9M85ky-NscraujvN8.png"" width=""64""/>
+												<span>Product</span>
+											</a></li>
+											<li><a href=""/winning/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_awards');"">
+												<img alt=""Awards and Nominations"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/j/udWU20sWmhYoEsQ_FtrAzVwJ3Q.png"" width=""64""/>
+												<span>Awards and Nominations</span>
+											</a></li>
+											<li><a href=""/pr/start_ffxiv/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_start-ff14');"">
+												<img alt=""FINAL FANTASY XIV: A Beginner's Guide"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/r/gHS-21DtfZrTFXYX1OV01KFhXs.png"" width=""64""/>
+												<span>FINAL FANTASY XIV: A Beginner's Guide</span>
+											</a></li>
+										</ul>
+									</div>
+									<div class=""sub-nav__promotion__patch_site"">
+										<a href=""/shadowbringers/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_begin-ff14_latest-expansion');""><span>
+											<img alt=""FINAL FANTASY XIV: Shadowbringers Special Site"" height=""232"" src=""https://img.finalfantasyxiv.com/lds/h/h/RmpJfBvX9FrYY9CwZNxB6Z3c_c.png"" width=""296""/>
+										</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</nav>
+			</li>
+			<li class=""main-nav__playguide main-nav__item"">
+				<a href=""/lodestone/playguide/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_playguide-top');""><span>Play Guide</span></a>
+				<nav class=""sub-nav"">
+					<div class=""sub-nav__area"">
+
+						
+						<div class=""sub-nav__list sub-nav__playguide"">
+							<div class=""sub-nav__list__inner"">
+								<ul class=""sub-nav__playguide__list"">
+									<li><a href=""/lodestone/playguide/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_playguide-top');"">
+										<img alt=""Play Guide&lt;br /&gt;Top"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/P/Lfl3LVb9KMPa5Ye8yxftZkelbc.png"" width=""40""/>
+										<span>Play Guide<br/>Top</span>
+									</a></li>
+									<li><a href=""/lodestone/playguide/#game_playguide"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_game-playguide');"">
+										<img alt=""Gameplay Guide and&lt;br /&gt;Beginners' Guide"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/q/qy4dUGMNkjoyVqPweYMIpOApik.png"" width=""40""/>
+										<span>Gameplay Guide and<br/>Beginners' Guide</span>
+										<span class=""update"">
+											Updated <span id=""datetime-0.264119501031345"">-</span><script>document.getElementById('datetime-0.264119501031345').innerHTML = ldst_strftime(1561708800, 'YMD');</script>
+										</span>
+									</a></li>
+									<li><a href=""/lodestone/playguide/db/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_databese');"">
+										<img alt=""Eorzea Database"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/N/OYPWhQVCkovUbVcMMck0O4HABU.png"" width=""40""/>
+										<span>Eorzea Database</span>
+										<span class=""update"">
+											Updated <span id=""datetime-0.111353993344178"">-</span><script>document.getElementById('datetime-0.111353993344178').innerHTML = ldst_strftime(1563264000, 'YMD');</script>
+										</span>
+									</a></li>
+									<li><a href=""/lodestone/playguide/#content_guide"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_contents-guide');"">
+										<img alt=""Game Features"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/W/wlHP1NMpdQHcPKUG-swlv71fhE.png"" width=""40""/>
+										<span>Game Features</span>
+										<span class=""update"">
+											Updated <span id=""datetime-0.947701679977818"">-</span><script>document.getElementById('datetime-0.947701679977818').innerHTML = ldst_strftime(1561708800, 'YMD');</script>
+										</span>
+									</a></li>
+									<li><a href=""/lodestone/playguide/#side_storyes"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_side-story');"">
+										<img alt=""Side Stories&lt;br /&gt;and More"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/Z/1QWgBsVU7ZboWyMZlRjCQcDRJg.png"" width=""40""/>
+										<span>Side Stories<br/>and More</span>
+										<span class=""update"">
+											Updated <span id=""datetime-0.620173668892935"">-</span><script>document.getElementById('datetime-0.620173668892935').innerHTML = ldst_strftime(1535702400, 'YMD');</script>
+										</span>
+									</a></li>
+									<li><a href=""/lodestone/playguide/#option_service"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_playguide_option-service');"">
+										<img alt=""Additional Services"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/K/4fXwcEoJzDEmFRt-tD7PeeKvjE.png"" width=""40""/>
+										<span>Additional Services</span>
+									</a></li>
+								</ul>
+							</div>
+						</div>
+
+					</div>
+				</nav>
+
+			</li>
+			<li class=""main-nav__community main-nav__item"">
+				<a href=""/lodestone/community/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_community-top');""><span>Community</span></a>
+				<nav class=""sub-nav"">
+					<div class=""sub-nav__area"">
+
+						
+						<div class=""sub-nav__list sub-nav__community"">
+							<div class=""sub-nav__list__inner"">
+								<div class=""sub-nav__community__top"">
+									<div class=""sub-nav__community__link"">
+										<h2 class=""sub-nav__community__title""><img alt=""Community"" height=""16"" src=""https://img.finalfantasyxiv.com/lds/h/q/GiEpnP3oCXluFjrlPlM-mgIbS8.png"" width=""16""/>Community</h2>
+										<ul class=""sub-nav__community__list"">
+											<li><a href=""/lodestone/community/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_community-top');"">
+												<img alt=""Community Wall"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/i/Sa5YF2-VFf4IJ1cjjFAbPf4GWg.png"" width=""40""/>
+												<span>Community Wall</span>
+											</a></li>
+											<li><a href=""/lodestone/blog/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_blog');"">
+												<img alt=""Blog"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/h/6gPbLbzUQ_omC_mdXFUA3zPy7I.png"" width=""40""/>
+												<span>Blog</span>
+											</a></li>
+											<li><a href=""/lodestone/event/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_event-party');"">
+												<img alt=""Event &amp; Party Recruitment"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/0/k5jD6-BJZHwKA2CtbNcDYZR6oY.png"" width=""40""/>
+												<span>Event &amp; Party Recruitment</span>
+											</a></li>
+										</ul>
+									</div>
+									<div class=""sub-nav__community__search"">
+										<h2 class=""sub-nav__community__title""><img alt=""Search"" height=""16"" src=""https://img.finalfantasyxiv.com/lds/h/X/uQVT3DEl1xlFWHu3UZU4-RBtVk.png"" width=""16""/>Search</h2>
+										<ul class=""sub-nav__community__list"">
+											<li><a href=""/lodestone/character/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_chara-search');"">
+												<img alt=""Character Search"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/5/YcEF3K-5SgqU0BxZtT0D1Zsa2A.png"" width=""40""/>
+												<span>Character Search</span>
+											</a></li>
+											<li><a href=""/lodestone/freecompany/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_fc-search');"">
+												<img alt=""Free Company Search"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"" width=""40""/>
+												<span>Free Company Search</span>
+											</a></li>
+											<li><a href=""/lodestone/linkshell/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_ls-search');"">
+												<img alt=""Linkshell Search"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/b/SPCgcBAk4HvMngGzk6H4MfSINg.png"" width=""40""/>
+												<span>Linkshell Search</span>
+											</a></li>
+											<li><a href=""/lodestone/pvpteam/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_pvp-team-search');"">
+												<img alt=""PvP Team Search"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"" width=""40""/>
+												<span>PvP Team Search</span>
+											</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class=""sub-nav__community__bottom"">
+									<div class=""sub-nav__community__forum"">
+										<ul class=""sub-nav__community__forum__list"">
+											<li><a href=""http://forum.square-enix.com/ffxiv/forum.php"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_forum');"" target=""_blank"">
+												<div>
+													<i><img alt=""Forums"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/r/maZ-sHaqn4PMFANUlbH4GzztFM.png"" width=""40""/>
+													</i><span>Forums</span>
+												</div>
+											</a></li>
+											<li><a href=""http://forum.square-enix.com/ffxiv/search.php?do=getdaily_ll&amp;contenttype=vBForum_Post"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_forum-new-posts');"" target=""_blank"">
+												<div>
+													<i><img alt="""" height=""16"" src=""https://img.finalfantasyxiv.com/lds/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"" width=""16""/>
+													</i><span>New Posts</span>
+												</div>
+											</a></li>
+											<li><a href=""
+													
+														http://forum.square-enix.com/ffxiv/search.php?do=process&amp;search_type=1&amp;contenttypeid=1&amp;devtrack=1&amp;starteronly=0&amp;showposts=1&amp;childforums=1&amp;forumchoice[]=619
+													"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_forum-dev-tracker');"" target=""_blank"">
+												<div>
+													<i><img alt="""" height=""16"" src=""https://img.finalfantasyxiv.com/lds/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"" width=""16""/>
+													</i><span>Dev Tracker</span>
+												</div>
+											</a></li>
+										</ul>
+									</div>
+									<div>
+										<ul class=""sub-nav__community__fankit"">
+											<li><a href=""/lodestone/special/fankit/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_community_fankit');"">
+												<div>
+													<span>Fan Kit</span>
+													<span class=""update"">
+														Updated <span id=""datetime-0.988730962098202"">-</span><script>document.getElementById('datetime-0.988730962098202').innerHTML = ldst_strftime(1548316800, 'YMD');</script>
+													</span>
+												</div>
+											</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</nav>
+
+			</li>
+			<li class=""main-nav__ranking main-nav__item"">
+				<a href=""/lodestone/ranking/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_ranking-top');""><span>Standings</span></a>
+					<nav class=""sub-nav"">
+						<div class=""sub-nav__area"">
+
+							
+							<div class=""sub-nav__list sub-nav__ranking"">
+								<div class=""sub-nav__list__inner"">
+									<ul class=""sub-nav__ranking__list"">
+										<li><a href=""/lodestone/ranking/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_ranking-top');"">
+											<img alt=""Standings Top"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/E/NtymEFiUJfAh25ffTrADsVFkLQ.png"" width=""40""/>
+											<span>Standings Top</span>
+										</a></li>
+										<li><a href=""/lodestone/ranking/thefeast/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_feast');"">
+											<img alt=""The Feast Rankings"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"" width=""40""/>
+											<span>The Feast Rankings</span>
+										</a></li>
+										<li><a href=""/lodestone/ranking/deepdungeon2/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_deepdungeon2');"">
+											<img alt=""Heaven-on-High Rankings"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/_/qP22LgUoAFKDTRayb_TEYu6d7g.png"" width=""40""/>
+											<span>Heaven-on-High Rankings</span>
+										</a></li>
+										<li><a href=""/lodestone/ranking/deepdungeon/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_deepdungeon');"">
+											<img alt=""Palace of the Dead Rankings"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/p/op9iPrlMmYgTK3Q6NQKifyQOGA.png"" width=""40""/>
+											<span>Palace of the Dead Rankings</span>
+										</a></li>
+										<li><a href=""/lodestone/ranking/frontline/weekly/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_frontline');"">
+											<img alt=""Frontline Standings"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/K/vZf_pjL1HRJCDF9mxKFKb8iISc.png"" width=""40""/>
+											<span>Frontline Standings</span>
+										</a></li>
+										<li><a href=""/lodestone/ranking/gc/weekly/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_gc');"">
+											<img alt=""Grand Company Standings"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/o/uRmujlTx4X_5c6wETNxssK1d_4.png"" width=""40""/>
+											<span>Grand Company Standings</span>
+										</a></li>
+										<li><a href=""/lodestone/ranking/fc/weekly/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_ranking_fc');"">
+											<img alt=""Free Company Standings"" height=""40"" src=""https://img.finalfantasyxiv.com/lds/h/q/GJ-lsgAtsCCDwCm9te3a5sCjpU.png"" width=""40""/>
+											<span>Free Company Standings</span>
+										</a></li>
+									</ul>
+								</div>
+							</div>
+
+						</div>
+					</nav>
+
+			</li>
+			<li class=""main-nav__help main-nav__item"">
+				<a href=""/lodestone/help/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_main-menu', 'na_help-support-top');""><span>Help &amp; Support</span></a>
+				<nav class=""sub-nav"">
+					<div class=""sub-nav__area"">
+
+						
+						<div class=""sub-nav__list sub-nav__help"">
+							<div class=""sub-nav__list__inner"">
+								<ul class=""sub-nav__help__list"">
+									<li><a href=""/lodestone/help/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_help-support-top');"">
+										<span>Help &amp; Support</span>
+									</a></li>
+									<li><a href=""/lodestone/help/about_the_lodestone/"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_about-lodestone');"">
+										<span>About the Lodestone</span>
+									</a></li>
+									<li><a href=""
+										
+											https://support.na.square-enix.com/faq.php?id=5382&amp;la=1
+										"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_faq');"">
+										<span>FAQ</span>
+									</a></li>
+									<li><a href=""
+										
+											https://www.square-enix.com/na/account/
+										"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_sqex-account');"">
+										<span>Square Enix Account Information</span>
+									</a></li>
+								</ul>
+								<ul class=""sub-nav__help__other"">
+									<li><a href=""
+										
+											https://support.na.square-enix.com/rule.php?id=5382&amp;la=1
+										"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_rule-policies');"">
+										<div>
+											<i><img alt="""" height=""16"" src=""https://img.finalfantasyxiv.com/lds/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"" width=""16""/>
+											</i><span>Rules &amp; Policies</span>
+										</div>
+									</a></li>
+									<li><a href=""
+										
+											https://support.na.square-enix.com/main.php?id=5382&amp;la=1
+										"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_customer-service');"">
+										<div>
+											<i><img alt="""" height=""16"" src=""https://img.finalfantasyxiv.com/lds/h/p/hIKumMfCocoSfxWeUUUIL78Jhg.png"" width=""16""/>
+											</i><span>Customer Service</span>
+										</div>
+									</a></li>
+									<li><a href=""https://sqex.to/Msp"" onclick=""ldst_ga('send', 'event', 'lodestone_lo', 'pc_sub-menu', 'na_help-support_mogstation');"" target=""_blank"">
+										<div>
+											<i class=""ic_mogst""><img alt="""" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/S/6IKp0hN6xQqTYPgnPIsd2fjzSI.png"" width=""32""/>
+											</i><span>Mog Station</span>
+										</div>
+									</a></li>
+								</ul>
+							</div>
+						</div>
+
+					</div>
+				</nav>
+
+			</li>
+		</ul>
+	</nav>
+</div>
+
+	
+
+
+<div class=""ldst__bg"">
+	
+		<div id=""breadcrumb"">
+			<ul class=""clearfix"" itemscope="""" itemtype=""”http://data-vocabulary.org/Breadcrumb”"">
+				<li class=""breadcrumb__home""><a href=""/lodestone/"" itemprop=""”url”""></a></li>
+				
+					
+						<li><a class=""breadcrumb__link"" href=""/lodestone/community/"" itemprop=""”url”"">Community</a></li>
+					
+				
+					
+						<li><a class=""breadcrumb__link"" href=""/lodestone/freecompany/"" itemprop=""”url”"">Free Company</a></li>
+					
+				
+					
+						<li><a class=""breadcrumb__link"" href=""/lodestone/freecompany/9228579323923932444/"" itemprop=""”url”"">Dream</a></li>
+					
+				
+					
+						<li>Members</li>
+					
+				
+			</ul>
+		</div>
+	
+
+	<h1 class=""heading__title"">Free Company</h1>
+
+	
+		<nav class=""btn__corner_block"">
+	
+		<ul class=""btn__corner_block--3"">
+			<li>
+				<a class=""btn__menu"" href=""/lodestone/freecompany/9228579323923932444/"">Profile</a>
+			</li>
+			<li>
+				<a class=""btn__menu btn__menu--active"" href=""/lodestone/freecompany/9228579323923932444/member/"">Members</a>
+			</li>
+			<li>
+				<a class=""btn__menu"" href=""/lodestone/freecompany/9228579323923932444/forum/"">Forums</a>
+			</li>
+		</ul>
+	
+</nav>
+
+	
+
+	<div class=""ldst__contents clearfix"">
+	
+		<div class=""ldst__main"">
+
+<div class=""ldst__window"">
+	<h2 class=""heading--lg"">Members</h2>
+	<div class=""entry"">
+	<a class=""entry__freecompany"" href=""/lodestone/freecompany/9228579323923932444/"">
+		<div class=""entry__freecompany__crest"">
+			<div class=""entry__freecompany__crest--position"">
+				<img alt="""" class=""entry__freecompany__crest__base"" height=""68"" src=""https://img.finalfantasyxiv.com/lds/h/V/strFm2JQDmMpQN9NHfCA2X3vGI.png"" width=""68""/>
+				<div class=""entry__freecompany__crest__image"">
+					
+
+		
+		<img height=""64"" src=""https://img2.finalfantasyxiv.com/c/F00_f4d64b4d75ce7d3be3ba37e24ccc7830_00_64x64.png"" width=""64""/>
+		<img height=""64"" src=""https://img2.finalfantasyxiv.com/c/S08_88e3394cb1e7f68eb66587c07f7a6200_07_64x64.png"" width=""64""/>
+
+
+				</div>
+			</div>
+		</div>
+		<div class=""entry__freecompany__box"">
+			<p class=""entry__freecompany__gc"">Maelstrom &lt;Allied&gt;</p>
+			<p class=""entry__freecompany__name"">Dream</p>
+			<p class=""entry__freecompany__gc"">
+				<i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)
+			</p>
+		</div>
+	</a>
+</div>
+
+
+	<div class=""js__slide_wrapper"">
+		<div class=""select-pulldown__box"">
+			<div class=""select-pulldown en-us"">
+				
+					<form action=""?"" method="""" name=""img_index"">
+						
+							<input name=""gcid"" type=""hidden"" value=""""/>
+						
+							<input name=""gcid"" type=""hidden"" value=""""/>
+						
+							<input name=""gcid"" type=""hidden"" value=""""/>
+						
+						<input name=""gcid"" type=""hidden"" value=""""/>
+						<select class=""select-pulldown__open"" name=""order"" onchange=""this.form.submit()"">
+							<option value=""1"">Rank: high to low</option>
+							<option value=""2"">Rank: low to high</option>
+							<option value=""3"">Character name (A to Z)</option>
+							<option value=""4"">Character name (Z to A)</option>
+							<option value=""5"">Grand Company</option>
+						</select>
+					</form>
+				
+			</div>
+			<div class=""parts__total"">507 Total</div>
+			<i class=""select-pulldown__filter icon-btn__filter toggle_trigger js__tooltip"" data-tooltip=""Filter""></i>
+
+
+			<div class=""toggle_trigger--hidden"">
+				<h4 class=""heading--md-slide parts__space--pt16"">Filter by Grand Company</h4>
+				
+					<form action=""?"">
+						<div class=""form__horizontal"">
+							<input name=""order"" type=""hidden"" value=""""/>
+							<ul class=""form__list__icon""><li><input class=""form__icon"" id=""gcid_1"" name=""gcid"" type=""checkbox"" value=""1""/><label class=""form__icon__label"" for=""gcid_1""><div class=""form__icon__img""><img alt="""" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/r/374c2i06tkOZJPcgflQQaH6Oks.png"" width=""32""/></div><p>Maelstrom</p></label></li><li><input class=""form__icon"" id=""gcid_2"" name=""gcid"" type=""checkbox"" value=""2""/><label class=""form__icon__label"" for=""gcid_2""><div class=""form__icon__img""><img alt="""" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/M/hSWzpQdnEMp_K4KLPEqxDSt_dg.png"" width=""32""/></div><p>Order of the Twin Adder</p></label></li><li><input class=""form__icon"" id=""gcid_3"" name=""gcid"" type=""checkbox"" value=""3""/><label class=""form__icon__label"" for=""gcid_3""><div class=""form__icon__img""><img alt="""" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/p/kW61xfeJut0iHD6DgMUQ8WckOg.png"" width=""32""/></div><p>Immortal Flames</p></label></li><li><input class=""form__icon"" id=""gcid_none"" name=""gcid"" type=""checkbox"" value=""0""/><label class=""form__checkbox__label form__checkbox__label--none"" for=""gcid_none"">No Affiliation</label></li></ul>
+							<div class=""form__submit"">
+								<input type=""submit"" value=""Filter""/>
+							</div>
+						</div>
+					</form>
+				
+			</div>
+		</div>
+	</div>
+
+	
+<ul class=""btn__pager"">
+	
+		<li><a class=""icon-list__pager btn__pager__prev--all btn__pager__no"" href=""javascript:void(0);""></a></li>
+		<li><a class=""icon-list__pager btn__pager__prev btn__pager__no"" href=""javascript:void(0);""></a></li>
+	
+
+	<li class=""btn__pager__current"">Page 1 of 11</li>
+
+	
+		<li><a class=""icon-list__pager btn__pager__next js__tooltip"" data-tooltip=""Next"" href=""https://na.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=2""></a></li>
+		<li><a class=""icon-list__pager btn__pager__next--all js__tooltip"" data-tooltip=""Last"" href=""https://na.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=11""></a></li>
+	
+</ul>
+
+
+
+
+	
+		<ul>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/15931614/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/11f3d4245a024436ab3bdf4d991ede94_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563551004""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Joel Cleveland'</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/W5a6yeRyN2eYiaV-AGU7mJKEhs.png"" width=""20""/><span>Guardian</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/HW6tKOg4SOJbL8Z20GnsAWNjjM.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Storm Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/e/9oKHHz0kfyA88mREoJobcRFT7w.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/16236287/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/9cfe394be804f3add7861753370b6be0_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549799""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Apink Moon</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/H/ZgBF9xaOv1cXJ5hpqJk775gPnU.png"" width=""20""/><span>Phantasm</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/N/St9rjDJB3xNKGYg-vwooZ4j6CM.png"" width=""20""/></i><span>1</span></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/9525981/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/5f927c4dd141cfc1500f7bf7e39bce0d_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547557""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Michele Kandiss</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/H/ZgBF9xaOv1cXJ5hpqJk775gPnU.png"" width=""20""/><span>Phantasm</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/E/d0Tx-vhnsMYfYpGe9MvslemEfg.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/4839564/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/606e2b39c1cdd254d457bb18f5593939_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547838""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Rayd Majere</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/H/ZgBF9xaOv1cXJ5hpqJk775gPnU.png"" width=""20""/><span>Phantasm</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/WdFey0jyHn9Nnt1Qnm-J3yTg5s.png"" width=""20""/></i><span>61</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/1370473/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/b7fdd6cda815ba31da6d59b856ca9633_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549791""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Aksunkar Kairouan</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/q/s3MlLUKmRAHy0pH57PnFStHmIw.png"" width=""20""/></i><span>72</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Storm Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/e/9oKHHz0kfyA88mREoJobcRFT7w.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/21748277/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/6cd805e5ef696fa603520ae921c51efc_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550268""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Alaric Stoneheart</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/gX4OgBIHw68UcMU79P7LYCpldA.png"" width=""20""/></i><span>80</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Second Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/qX1nE6fPfSzCOFhJlaSjWDZO6s.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/22389386/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/b1b00cca90d4bf0f42b6962588f9663f_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550147""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Amelia Wise</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/HW6tKOg4SOJbL8Z20GnsAWNjjM.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / First Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/xoUzj9-PpBilPQFcLtcsw0anac.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/7302364/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/66462aaa6265be3a291956db7dbeea5e_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549380""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Charlie Bear</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/WdFey0jyHn9Nnt1Qnm-J3yTg5s.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / First Serpent Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/2IcE8P6NEDhkLF-iGE2T8XGeGs.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/13595538/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/2f9207ea1e61df938f61c73db7f15e38_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550662""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Cid Magus</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/h/4ghjpyyuNelzw1Bl0sM_PBA_FE.png"" width=""20""/></i><span>66</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Flame Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/V/tKlwWMAtNLAumnqjI8iNPnMKHc.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/10482358/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/893d092bdbd2d6d9aad2dfaf8166cb73_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549321""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Crashing Speed</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/i20QvSPcSQTybykLZDbQCgPwMw.png"" width=""20""/></i><span>60</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Serpent Private Third Class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/e/5tZ-HAT8T1OqiGYCsb_vqbrFOM.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/18317283/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/add571f588d35a1b137519c9fec568ae_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549779""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Damu Forebringer</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/gX4OgBIHw68UcMU79P7LYCpldA.png"" width=""20""/></i><span>61</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/13921428/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/117389ca9440a0513c202a23a4dd37e9_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563551004""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Fenrir Duskblade</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/gX4OgBIHw68UcMU79P7LYCpldA.png"" width=""20""/></i><span>72</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/2983779/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/977b676be22d41577d5c546efbd630b8_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549896""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Ikaros Tempest</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/y/A3UhbjZvDeN3tf_6nJ85VP0RY0.png"" width=""20""/></i><span>80</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/4930720/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/3e888ab6088930df533fb7a8a20ad6d6_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549803""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Lyrida Lockheart</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/y/A3UhbjZvDeN3tf_6nJ85VP0RY0.png"" width=""20""/></i><span>48</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/17036169/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/2c5bd3b14e1cb50435a675d47f1fd2e9_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550260""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Nialler Walker</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/8/hg8ofSSOKzqng290No55trV4mI.png"" width=""20""/></i><span>60</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Storm Private Third Class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/4/J8qi5YRZUoBkxfnCN5NPu7dt18.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/21314806/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/f3ac80a7776da3ec40ef834d99c42cd8_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550329""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Onna Que</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/h/4ghjpyyuNelzw1Bl0sM_PBA_FE.png"" width=""20""/></i><span>68</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Second Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/qX1nE6fPfSzCOFhJlaSjWDZO6s.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/18576559/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/0604b47bdf038320150a4c2240b6ae00_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563551044""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Radiant Dawn</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/Fso5hanZVEEAaZ7OGWJsXpf3jw.png"" width=""20""/></i><span>71</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Storm Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/e/9oKHHz0kfyA88mREoJobcRFT7w.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/6783282/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/a0bffcfb86fc0c544515a6d9177649d0_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549187""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Sabin Draconis</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/KndG72XtCFwaq1I1iqwcmO_0zc.png"" width=""20""/></i><span>56</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Serpent Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/O/yMgc1Z4bAOmEzo1JWBP0hs9FQs.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/24205497/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/eb74f0f13b74dbce5c823d37193e8b85_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547662""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Spice Magicrose</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/gX4OgBIHw68UcMU79P7LYCpldA.png"" width=""20""/></i><span>31</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/22167319/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/00537cdb0bd238b00e8f4aea9b26afc2_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563548553""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Uli Nawahineokeao</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/6/p94F1j-5xhM2ySM16VNrA08qjU.png"" width=""20""/><span>Counselor</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/i20QvSPcSQTybykLZDbQCgPwMw.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Second Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/qX1nE6fPfSzCOFhJlaSjWDZO6s.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/5067339/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/41bb1704df06aa529a5771250d8099a1_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547545""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Chandra Dragonbane</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/5/nw6rom1Gt5lCuBPbSsRUeFEAYo.png"" width=""20""/><span>Story Teller</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/y/A3UhbjZvDeN3tf_6nJ85VP0RY0.png"" width=""20""/></i><span>73</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Storm Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/e/9oKHHz0kfyA88mREoJobcRFT7w.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/25235820/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/03649b1127d211602a37a42b839570d9_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550887""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Aeron De'lyndar</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/1/erCgjnMSiab4LiHpWxVc-tXAqk.png"" width=""20""/></i><span>76</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / First Serpent Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/2IcE8P6NEDhkLF-iGE2T8XGeGs.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/6597814/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/79d70a8df99984e4526539bb9a23eb73_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563551014""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">After Shock</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/X/E69jrsOMGFvFpCX87F5wqgT_Vo.png"" width=""20""/></i><span>74</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/11936322/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/18f21fe25c400a47a063744d83840827_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550267""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Ahkahly Darkblade</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/t/HK0jQ1y7YV9qm30cxGOVev6Cck.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/24695678/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/fb9f97d414d9aec75484dd98389e2d83_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549290""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Aliseon Oakes</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/E/d0Tx-vhnsMYfYpGe9MvslemEfg.png"" width=""20""/></i><span>62</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/24502394/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/f7dbd1538db8ea3d19e2b6a3726efed3_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550937""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Alluring Assize</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/E/vmtbIlf6Uv8rVp2YFCWA25X0dc.png"" width=""20""/></i><span>60</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Storm Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/e/9oKHHz0kfyA88mREoJobcRFT7w.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/22048199/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/baf1b1b01080113689f8660cfec9988c_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549844""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Ally Vocado</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/y/A3UhbjZvDeN3tf_6nJ85VP0RY0.png"" width=""20""/></i><span>46</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/20849508/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/f6c952b5a88b204e172b416060d2386d_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550914""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Altani Azim</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/KndG72XtCFwaq1I1iqwcmO_0zc.png"" width=""20""/></i><span>61</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/24121888/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/6f9cc9e7ac40a067193648a31b31d6d9_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563551070""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Amelie Lacroix</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/h/4ghjpyyuNelzw1Bl0sM_PBA_FE.png"" width=""20""/></i><span>62</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Second Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/qX1nE6fPfSzCOFhJlaSjWDZO6s.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/14648655/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/d2b85649227027cc5094dd705bb8456d_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550879""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Anam Cara</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/gX4OgBIHw68UcMU79P7LYCpldA.png"" width=""20""/></i><span>62</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / First Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/xoUzj9-PpBilPQFcLtcsw0anac.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/25103836/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/e8996f2549be47c20e3e3ff75a88ea2c_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550482""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Ankhu Shalmohr</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/gX4OgBIHw68UcMU79P7LYCpldA.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Second Serpent Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/7xyFk9EAcDABJVaW-i7UADLfOM.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/20654160/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/254499e8747d02fd9f9167b81f256d96_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563548430""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Apemosyyne Brixton</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/A/aM2Dd6Vo4HW_UGasK7tLuZ6fu4.png"" width=""20""/></i><span>75</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Chief Storm Sergeant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/h/eMsE4JMvh13Lq3p01zBjwRz-Xo.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/4519766/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/2288a015018c385f6673f0ada5679370_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550935""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Arduinna Nordstrom</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/l/5CZEvDOMYMyVn2td9LZigsgw9s.png"" width=""20""/></i><span>67</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Storm Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/e/9oKHHz0kfyA88mREoJobcRFT7w.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/17938028/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/09552eb4063c0370d41e8be1d776cce2_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550178""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Athena Hawkaze</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/q/s3MlLUKmRAHy0pH57PnFStHmIw.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Second Serpent Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/7xyFk9EAcDABJVaW-i7UADLfOM.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/15743946/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/a9fc32c1ad7c6811889cb4c2c18de5b1_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549093""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Avarice Highwind</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/E/vmtbIlf6Uv8rVp2YFCWA25X0dc.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/11173525/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/65684193d7e9b3f133c756f73eb01f37_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550029""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Aya Ohmes</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/E/d0Tx-vhnsMYfYpGe9MvslemEfg.png"" width=""20""/></i><span>72</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/24206708/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/9362017366056c09802f4e1d6d387037_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550290""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Beans Li</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/i20QvSPcSQTybykLZDbQCgPwMw.png"" width=""20""/></i><span>64</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Chief Serpent Sergeant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/x/Gk6Y0_NRz0djgb7_knO0KjoHuI.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/24561053/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/8b7468898056da3779b1240927fe2df9_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550689""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Calad Argentol</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/KndG72XtCFwaq1I1iqwcmO_0zc.png"" width=""20""/></i><span>70</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/1890761/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/d8001d51564f2f58aebcd332c1e24773_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550440""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Daekael Valier</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/8/hg8ofSSOKzqng290No55trV4mI.png"" width=""20""/></i><span>80</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Flame Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/V/tKlwWMAtNLAumnqjI8iNPnMKHc.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/5953613/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/7bbc8938b73c2e165c8b3c651ff4d044_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563548508""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Dalinar Sanders</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/X/E69jrsOMGFvFpCX87F5wqgT_Vo.png"" width=""20""/></i><span>43</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Second Serpent Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/7xyFk9EAcDABJVaW-i7UADLfOM.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/17414241/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/ccda57ae27f2938492d92725466d5cac_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549365""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Deitrich Dracul</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/t/HK0jQ1y7YV9qm30cxGOVev6Cck.png"" width=""20""/></i><span>69</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Second Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/qX1nE6fPfSzCOFhJlaSjWDZO6s.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/12794260/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/8d3d35ce5755165026869c1a6f0faa93_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563549723""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Demersa Lunasa</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/q/s3MlLUKmRAHy0pH57PnFStHmIw.png"" width=""20""/></i><span>72</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Second Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/qX1nE6fPfSzCOFhJlaSjWDZO6s.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/1354213/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/a6d849e3a1fce58f2ca30d55ab0e9b5b_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547856""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Descry Sealgaire</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/Fso5hanZVEEAaZ7OGWJsXpf3jw.png"" width=""20""/></i><span>50</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / First Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/xoUzj9-PpBilPQFcLtcsw0anac.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/23663470/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/3fc01f5cc84a1e9315de08fff59e8580_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547664""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Do Xx</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/m/KndG72XtCFwaq1I1iqwcmO_0zc.png"" width=""20""/></i><span>66</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/6165243/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/d489842d369816b71d23aa51e24417a2_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547916""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Dragonkight Gao</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/E/d0Tx-vhnsMYfYpGe9MvslemEfg.png"" width=""20""/></i><span>72</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Serpent Captain""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/O/yMgc1Z4bAOmEzo1JWBP0hs9FQs.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/25602271/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/0003507aee5343d9d0f0dd4d6956bd46_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563548457""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Dronos Grica</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/C/bBVQ9IFeXqjEdpuIxmKvSkqalE.png"" width=""20""/></i><span>80</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Second Serpent Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/7xyFk9EAcDABJVaW-i7UADLfOM.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/11683961/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/9ef770f44f6d4201f4b08133e1d5d9c2_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547992""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Eirika Kanina</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/F/KWI-9P3RX_Ojjn_mwCS2N0-3TI.png"" width=""20""/></i><span>72</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / First Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/DZDUIPdsNRMTPCVIi1sOXA8gjg.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/7098542/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/634239f47feb989ecf29b282e9d9e849_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563550465""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">El'era Fae</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/i20QvSPcSQTybykLZDbQCgPwMw.png"" width=""20""/></i><span>78</span></li><li class=""js__tooltip"" data-tooltip=""Order of the Twin Adder / Second Serpent Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/Z/7xyFk9EAcDABJVaW-i7UADLfOM.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/16703146/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/c26921b20e80748bbc78bed55f152aa1_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547765""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Ethan Slamberry</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/7/i20QvSPcSQTybykLZDbQCgPwMw.png"" width=""20""/></i><span>60</span></li><li class=""js__tooltip"" data-tooltip=""Maelstrom / Second Storm Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/0/qX1nE6fPfSzCOFhJlaSjWDZO6s.png"" width=""20""/></li></ul></div></div></a></li>
+			
+				<li class=""entry""><a class=""entry__bg"" href=""/lodestone/character/18819250/""><div class=""entry__flex""><div class=""entry__chara__face""><img alt="""" src=""https://img2.finalfantasyxiv.com/f/1306bb1564dcf58eedc0e3061fdb2059_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563547649""/></div><div class=""entry__freecompany__center""><p class=""entry__name"">Evan Kiske</p><p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p><ul class=""entry__freecompany__info""><li><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/b/cliLaxMGlva579Q7-BGQofaHoU.png"" width=""20""/><span>Morpheus</span></li><li><i class=""list__ic__class""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/E/d0Tx-vhnsMYfYpGe9MvslemEfg.png"" width=""20""/></i><span>50</span></li><li class=""js__tooltip"" data-tooltip=""Immortal Flames / Second Flame Lieutenant""><img alt="""" height=""20"" src=""https://img.finalfantasyxiv.com/lds/h/K/RCtWRMlTFAQh67FRG-QGXryviw.png"" width=""20""/></li></ul></div></div></a></li>
+			
+		</ul>
+	
+	
+<ul class=""btn__pager"">
+	
+		<li><a class=""icon-list__pager btn__pager__prev--all btn__pager__no"" href=""javascript:void(0);""></a></li>
+		<li><a class=""icon-list__pager btn__pager__prev btn__pager__no"" href=""javascript:void(0);""></a></li>
+	
+
+	<li class=""btn__pager__current"">Page 1 of 11</li>
+
+	
+		<li><a class=""icon-list__pager btn__pager__next js__tooltip"" data-tooltip=""Next"" href=""https://na.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=2""></a></li>
+		<li><a class=""icon-list__pager btn__pager__next--all js__tooltip"" data-tooltip=""Last"" href=""https://na.finalfantasyxiv.com/lodestone/freecompany/9228579323923932444/member/?page=11""></a></li>
+	
+</ul>
+
+
+
+</div>
+
+
+
+		</div>
+
+		<div class=""ldst__side"">
+			
+				
+	
+		
+			<div class=""l__rside__bnr clearfix"">
+	<a class=""l__rside__bnr--forums"" href=""http://forum.square-enix.com/ffxiv/forum.php?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_forum"" target=""_blank""><img alt=""Forums"" height=""62"" src=""https://img.finalfantasyxiv.com/lds/h/i/i3r6u3moBzQFfijSTu9k3EJirQ.png"" width=""100""/></a><a class=""l__rside__bnr--mog_station"" href=""https://sqex.to/Msp?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_mogstation"" target=""_blank""><img alt=""Mog Station"" height=""62"" src=""https://img.finalfantasyxiv.com/lds/h/3/GjsnqfVxPQrE4Jve8GvKZABF5w.png"" width=""100""/></a><a class=""l__rside__bnr--blog"" href=""/pr/blog/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_officalblog"" target=""_blank""><img alt=""Official Blog"" height=""62"" src=""https://img.finalfantasyxiv.com/lds/h/d/nVeXvIIStLv3npokivV0EzkKwI.png"" width=""100""/></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+		
+			<div class=""mb10""><a href=""/shadowbringers/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_shadowbringers""><img src=""https://img.finalfantasyxiv.com/lds/banner/710/v50_190702_na.jpg""/></a></div>
+		
+	
+		
+			<div class=""mb10""><a href=""/benchmark/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_benchmark""><img src=""https://img.finalfantasyxiv.com/lds/banner/747/50bench_na.jpg""/></a></div>
+		
+	
+		
+			<div class=""mb10""><a href=""/tales_of_adventure/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_tales_of_adventure""><img src=""https://img.finalfantasyxiv.com/lds/banner/493/LDS_Tales_of_Adventure_v50_na.jpg""/></a></div>
+		
+	
+		
+			<div class=""mb10""><a href=""/jobguide/battle/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_jobguide""><img src=""https://img.finalfantasyxiv.com/lds/banner/503/jobguide_v50_na.jpg""/></a></div>
+		
+	
+		
+			<div class=""mb10""><a href=""/uiguide/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_uiguide""><img src=""https://img.finalfantasyxiv.com/lds/banner/670/pc_uiguide_na.jpg""/></a></div>
+		
+	
+		
+			<div class=""conducting_area"">
+	<img alt="""" height=""218"" src=""https://img.finalfantasyxiv.com/lds/h/X/EDqhodSsBvSKr0S3Tjwaif4vfA.png"" width=""300""/>
+	<div class=""inr"">
+		<a class=""bt_conducting"" href=""http://freetrial.finalfantasyxiv.com/na/?utm_source=lodestone&amp;utm_campaign=freetrial-banner&amp;utm_medium=organic&amp;utm_content=side"">
+				<img alt=""Start Your Free Trial"" height=""80"" src=""https://img.finalfantasyxiv.com/lds/h/s/3KRua4vzZJvRXn0IMk8Da103bw.png"" width=""284""/>
+		</a>
+		<a class=""bt_conducting"" href=""http://sqex.to/buyffxiv?utm_source=lodestone&amp;utm_medium=pc_buyarea&amp;utm_campaign=na_buynow"" target=""_blank"">
+				<img alt=""BUY NOW!"" height=""80"" src=""https://img.finalfantasyxiv.com/lds/h/p/to8CzK_gktAHpLuSGzCkNdLfWo.png"" width=""284""/>
+		</a>			<a class=""bt_ft_migration"" href=""http://support.na.square-enix.com/faqarticle.php?id=5382&amp;la=1&amp;kid=70905"" onmousedown=""ga('send', 'event', 'lodestone_na', 'howtoupgrade_link', 'NA-lodestone-UG_20170620', true);"">			<img alt=""Upgrade Your Free Trial&lt;br /&gt;to the Full Version"" height=""80"" src=""https://img.finalfantasyxiv.com/lds/h/0/5rrJdYAcP3if6zX6d62dHV3t34.png"" width=""260""/>
+		</a>
+	</div>
+</div>
+
+
+
+
+
+
+		
+	
+		
+			<div class=""mb10""><a href=""/lodestone/ranking/thefeast/team/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_feastteam""><img src=""https://img.finalfantasyxiv.com/lds/banner/389/TheFEAST_Ranking_na_logout.png""/></a></div>
+		
+	
+		
+			<div class=""mb10""><a href=""/lodestone/special/friend_recruit/?utm_source=lodestone&amp;utm_medium=pc_banner&amp;utm_campaign=na_friendrecruit""><img src=""https://img.finalfantasyxiv.com/lds/banner/202/bn_Recruit_a_Friend_na.png""/></a></div>
+		
+	
+		
+			
+	
+		
+<div class=""ldst__side__box"">
+
+
+
+<div class=""heading--side"">
+	<h3>Community Wall</h3>
+	<a class=""heading--side__icon icon-list__side js__tooltip"" data-tooltip=""See More"" href=""/lodestone/community/""></a>
+</div>
+<div class=""heading__icon parts__space--reset js__toggle_wrapper"">
+	<h4>Recent Activity</h4>
+	<i class=""icon-btn__filter js__toggle_trigger js__tooltip"" data-tooltip=""Filter""></i>
+	<div class=""parts__switch parts__switch--filter js__toggle_item"">
+		<p class=""parts__text"">
+			Filter which items are to be displayed below.<br/>
+			<span class=""parts__text__notes"">
+				* Notifications for standings updates are shared across all Worlds.<br/>
+				* Notifications for PvP team formations are shared for all languages.<br/>
+				* Notifications for free company formations are shared for all languages.
+			</span>
+		</p>
+		
+			
+<div class=""form__horizontal js__communitywall_filter"">
+	<input name=""order"" type=""hidden"" value=""""/><h5 class=""heading--side--lead"">Sort by</h5><ul class=""form__row parts__spce--8""><li><input class=""form__checkbox"" id=""community_type01"" name=""community_type"" type=""checkbox"" value=""blog""/><label class=""form__checkbox__label"" for=""community_type01"">Blog</label></li><li><input class=""form__checkbox"" id=""community_type02"" name=""community_type"" type=""checkbox"" value=""event""/><label class=""form__checkbox__label"" for=""community_type02"">Event &amp; Party Recruitment</label></li><li><input class=""form__checkbox"" id=""community_type03"" name=""community_type"" type=""checkbox"" value=""fc""/><label class=""form__checkbox__label"" for=""community_type03"">Free Company</label></li><li><input class=""form__checkbox"" id=""community_type04"" name=""community_type"" type=""checkbox"" value=""db""/><label class=""form__checkbox__label"" for=""community_type04"">Eorzea Database</label></li><li><input class=""form__checkbox"" id=""community_type05"" name=""community_type"" type=""checkbox"" value=""ranking""/><label class=""form__checkbox__label"" for=""community_type05"">Standings</label></li><li><input class=""form__checkbox"" id=""community_type06"" name=""community_type"" type=""checkbox"" value=""pvpteam""/><label class=""form__checkbox__label"" for=""community_type06"">PvP Team</label></li></ul><h5 class=""heading--side--lead"">Data Center / Home World</h5><div class=""select-pulldown""><label class=""control-label"" for=""world""></label><select class=""select-pulldown__open"" name=""community_worldname""><option value="""">Select All</option><optgroup label=""Data Center""><option value=""_dc_Elemental"">Elemental</option><option value=""_dc_Gaia"">Gaia</option><option value=""_dc_Mana"">Mana</option><option value=""_dc_Aether"">Aether</option><option value=""_dc_Primal"">Primal</option><option value=""_dc_Crystal"">Crystal</option><option value=""_dc_Chaos"">Chaos</option><option value=""_dc_Light"">Light</option></optgroup><optgroup label=""Home World""><option value=""Adamantoise"">Adamantoise</option><option value=""Aegis"">Aegis</option><option value=""Alexander"">Alexander</option><option value=""Anima"">Anima</option><option value=""Asura"">Asura</option><option value=""Atomos"">Atomos</option><option value=""Bahamut"">Bahamut</option><option value=""Balmung"">Balmung</option><option value=""Behemoth"">Behemoth</option><option value=""Belias"">Belias</option><option value=""Brynhildr"">Brynhildr</option><option value=""Cactuar"">Cactuar</option><option value=""Carbuncle"">Carbuncle</option><option value=""Cerberus"">Cerberus</option><option value=""Chocobo"">Chocobo</option><option value=""Coeurl"">Coeurl</option><option value=""Diabolos"">Diabolos</option><option value=""Durandal"">Durandal</option><option value=""Excalibur"">Excalibur</option><option value=""Exodus"">Exodus</option><option value=""Faerie"">Faerie</option><option value=""Famfrit"">Famfrit</option><option value=""Fenrir"">Fenrir</option><option value=""Garuda"">Garuda</option><option value=""Gilgamesh"">Gilgamesh</option><option value=""Goblin"">Goblin</option><option value=""Gungnir"">Gungnir</option><option value=""Hades"">Hades</option><option value=""Hyperion"">Hyperion</option><option value=""Ifrit"">Ifrit</option><option value=""Ixion"">Ixion</option><option value=""Jenova"">Jenova</option><option value=""Kujata"">Kujata</option><option value=""Lamia"">Lamia</option><option value=""Leviathan"">Leviathan</option><option value=""Lich"">Lich</option><option value=""Louisoix"">Louisoix</option><option value=""Malboro"">Malboro</option><option value=""Mandragora"">Mandragora</option><option value=""Masamune"">Masamune</option><option value=""Mateus"">Mateus</option><option value=""Midgardsormr"">Midgardsormr</option><option value=""Moogle"">Moogle</option><option value=""Odin"">Odin</option><option value=""Omega"">Omega</option><option value=""Pandaemonium"">Pandaemonium</option><option value=""Phoenix"">Phoenix</option><option value=""Ragnarok"">Ragnarok</option><option value=""Ramuh"">Ramuh</option><option value=""Ridill"">Ridill</option><option value=""Sargatanas"">Sargatanas</option><option value=""Shinryu"">Shinryu</option><option value=""Shiva"">Shiva</option><option value=""Siren"">Siren</option><option value=""Spriggan"">Spriggan</option><option value=""Tiamat"">Tiamat</option><option value=""Titan"">Titan</option><option value=""Tonberry"">Tonberry</option><option value=""Twintania"">Twintania</option><option value=""Typhon"">Typhon</option><option value=""Ultima"">Ultima</option><option value=""Ultros"">Ultros</option><option value=""Unicorn"">Unicorn</option><option value=""Valefor"">Valefor</option><option value=""Yojimbo"">Yojimbo</option><option value=""Zalera"">Zalera</option><option value=""Zeromus"">Zeromus</option><option value=""Zodiark"">Zodiark</option></optgroup></select></div><h5 class=""heading--side--lead"">Primary language</h5><div class=""select-pulldown""><label class=""control-label"" for=""lang""></label><select class=""select-pulldown__open"" name=""community_lang""><option value="""">Select All</option><option value=""ja"">Japanese</option><option value=""en"">English</option><option value=""de"">German</option><option value=""fr"">French</option></select></div><h5 class=""heading--side--lead"">Displaying</h5><div class=""select-pulldown""><label class=""control-label"" for=""limit""></label><select class=""select-pulldown__open"" name=""community_limit""><option value=""10"">10</option><option value=""20"">20</option><option value=""30"">30</option></select></div><div class=""form__submit form__submit--full""><input class=""js__bt_communitywall_filter"" type=""submit"" value=""Filter""/></div>
+</div>
+
+		
+	</div>
+</div>
+
+
+<ul class=""side__list__box"">
+	
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/10267144/blog/4172984/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563551072"" id=""datetime-0.0691403725601667"">-</span><script>document.getElementById('datetime-0.0691403725601667').innerHTML = ldst_strftime_dynamic_ymdhm(1563551072);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Fiane Nebolo</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Anima (Mana)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Fiane Nebolo (<i class=""xiv-lds xiv-lds-home-world""></i>Anima) posted a new blog entry, ""5.0漆黒　ManaDCレイド攻略固定募集【募集ジョブ：DPS（メレー）】.""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/10267144/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/30e2fe0d39647788711c94337a62423e_2f698530a28d671d20278c8518c804c9fc0_96x96.jpg?1563549929"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/24134632/blog/4172983/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563551066"" id=""datetime-0.890186548783142"">-</span><script>document.getElementById('datetime-0.890186548783142').innerHTML = ldst_strftime_dynamic_ymdhm(1563551066);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Kansuke Laynote</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Atomos (Elemental)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Kansuke Laynote (<i class=""xiv-lds xiv-lds-home-world""></i>Atomos) posted a new blog entry, ""まれによくある….""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/24134632/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/846fac3249e5637450bc9fd81822d496_cf768a751b1f5e355c2fd39a9ed91f3ffc0_96x96.jpg?1563547998"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/freecompany/9232942186063052633/""><div class=""entry__activity__box""><div class=""entry__activity__box__header--common clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563551047"" id=""datetime-0.772746646170038"">-</span><script>document.getElementById('datetime-0.772746646170038').innerHTML = ldst_strftime_dynamic_ymdhm(1563551047);</script></time></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__fc js__tooltip"" data-tooltip=""Free Company""></span></div><div class=""entry__activity__txt--message""><p>Caucasian Invasion (<i class=""xiv-lds xiv-lds-home-world""></i>Atomos) has been formed.</p></div></div></div></a><div class=""entry__activity__link""><img alt="""" height=""50"" src=""https://img.finalfantasyxiv.com/lds/h/9/_Huf58epDlt9vXiO8IIfPXxtXI.png"" width=""50""/></div></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/26518519/blog/4172981/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563550904"" id=""datetime-0.361506135785149"">-</span><script>document.getElementById('datetime-0.361506135785149').innerHTML = ldst_strftime_dynamic_ymdhm(1563550904);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Shara Huin</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Valefor (Gaia)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Shara Huin (<i class=""xiv-lds xiv-lds-home-world""></i>Valefor) posted a new blog entry, ""あぁ、復帰勢はまだv5.0には入れず。.""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/26518519/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/e658c4d2fba1a17fffc170ea56072dbb_485f4777c38002871591fb54f27edc65fc0_96x96.jpg?1563549575"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/3582482/blog/4172980/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563550844"" id=""datetime-0.228481983045068"">-</span><script>document.getElementById('datetime-0.228481983045068').innerHTML = ldst_strftime_dynamic_ymdhm(1563550844);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Sunny Westland</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Atomos (Elemental)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Sunny Westland (<i class=""xiv-lds xiv-lds-home-world""></i>Atomos) posted a new blog entry, ""(祝)ふっき！.""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/3582482/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/9e0980c9ccb4b78ed874b6caec4cecca_cf768a751b1f5e355c2fd39a9ed91f3ffc0_96x96.jpg?1563550896"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/25467001/blog/4172979/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563550756"" id=""datetime-0.247011414232013"">-</span><script>document.getElementById('datetime-0.247011414232013').innerHTML = ldst_strftime_dynamic_ymdhm(1563550756);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Melon September</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Gungnir (Elemental)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Melon September (<i class=""xiv-lds xiv-lds-home-world""></i>Gungnir) posted a new blog entry, ""運命の出会いは、そう簡単にはこない・・・。.""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/25467001/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/bccaab40c033a8323d9de35a9d396dd7_8f82f937943b6baf4c565020d5eba0ccfc0_96x96.jpg?1563550185"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/1686901/blog/4172978/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563550744"" id=""datetime-0.262488658193153"">-</span><script>document.getElementById('datetime-0.262488658193153').innerHTML = ldst_strftime_dynamic_ymdhm(1563550744);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Fum Greenwood</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Ramuh (Elemental)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Fum Greenwood (<i class=""xiv-lds xiv-lds-home-world""></i>Ramuh) posted a new blog entry, ""エデン零式固定メンバー募集です！.""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/1686901/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/3666bc752b29ec6dfe4a79a23fb05fd7_410ddb5a66a2fcacf538bec5ea5d0291fc0_96x96.jpg?1563548764"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/26148135/blog/4172976/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563550715"" id=""datetime-0.642600204951492"">-</span><script>document.getElementById('datetime-0.642600204951492').innerHTML = ldst_strftime_dynamic_ymdhm(1563550715);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Lenna Tycoon</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Alexander (Gaia)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Lenna Tycoon (<i class=""xiv-lds xiv-lds-home-world""></i>Alexander) posted a new blog entry, ""固定探してます.""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/26148135/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/e59088f7020dced34e775890ac8331aa_b7a71d8799cf6dd75b711a7f52de6675fc0_96x96.jpg?1563548473"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_""><a class=""entry__activity"" href=""/lodestone/character/25563445/blog/4172975/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563550693"" id=""datetime-0.896379938446739"">-</span><script>document.getElementById('datetime-0.896379938446739').innerHTML = ldst_strftime_dynamic_ymdhm(1563550693);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Nutama Rot</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Belias (Mana)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Nutama Rot (<i class=""xiv-lds xiv-lds-home-world""></i>Belias) posted a new blog entry, ""冒険日記その31.""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/25563445/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/66460d7e2694395ce7d61dc0125d5e6c_894c4bd0beab2e2beb44b74f4c4bd206fc0_96x96.jpg?1563551078"" width=""40""/></div></a></div>
+
+
+	<div class=""entry more_"" data-min_id=""2700672298""><a class=""entry__activity"" href=""/lodestone/character/2579432/blog/4172974/""><div class=""entry__activity__box""><div class=""entry__activity__box__header clearfix""><time class=""entry__activity__time""><span class=""datetime_dynamic_ymdhm"" data-epoch=""1563550679"" id=""datetime-0.0608874611247145"">-</span><script>document.getElementById('datetime-0.0608874611247145').innerHTML = ldst_strftime_dynamic_ymdhm(1563550679);</script></time><div class=""entry__activity__data""><p class=""entry__activity__data--name"">Asuteria Yuibarba</p><p class=""entry__activity__data--world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Durandal (Gaia)</p></div></div><div class=""entry__activity__txt""><div class=""entry__activity__txt--icon""><span class=""icon-activity__blog js__tooltip"" data-tooltip=""Blog""></span></div><div class=""entry__activity__txt--message""><p>Asuteria Yuibarba (<i class=""xiv-lds xiv-lds-home-world""></i>Durandal) posted a new blog entry, ""やっと武器get((o(￣ー￣)o)).""</p></div></div></div></a><a class=""entry__activity__link"" href=""/lodestone/character/2579432/""><div class=""entry__chara__face""><img alt="""" height=""40"" src=""https://img2.finalfantasyxiv.com/f/b3e3f3419cf20840217f78ff5939aaaa_806ea5b45071d5cd6bf393e38462ee71fc0_96x96.jpg?1563550462"" width=""40""/></div></a></div>
+
+
+
+
+</ul>
+
+
+</div>
+
+
+
+<div class=""ldst__side__box"">
+
+
+
+
+<div class=""heading--side"">
+	<h3>Standings</h3>
+	<a class=""heading--side__icon icon-list__side js__tooltip"" data-tooltip=""See More"" href=""/lodestone/ranking/""></a>
+</div>
+
+
+<h4 class=""heading--side--sm"">The Feast Rankings</h4>
+
+	<a class=""entry__ranking__thefeast"" href=""/lodestone/ranking/thefeast/result/"">
+		Pre-season is under way!<br/>
+		View results of the previous season
+	</a>
+
+
+
+
+<h4 class=""heading--side--sm"">Grand Company Standings</h4>
+
+	<ul>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/gc/weekly/"">
+					<p class=""entry__ranking__rank"">
+						1
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Soda Panic</p>
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Hyperion (Primal)</p>
+					</div>
+				</a>
+				
+					<a class=""entry__ranking__face"" href=""/lodestone/character/20610918/"">
+						<img alt="""" height=""50"" src=""https://img2.finalfantasyxiv.com/f/0473939a42f18fd519cb89341101c85e_57ae9ee5592123dd79c8912bf768cf99fc0_96x96.jpg?1563550299"" width=""50""/>
+					</a>
+				
+			</li>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/gc/weekly/"">
+					<p class=""entry__ranking__rank"">
+						2
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Volthelion Evenstar</p>
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Malboro (Crystal)</p>
+					</div>
+				</a>
+				
+					<a class=""entry__ranking__face"" href=""/lodestone/character/1673596/"">
+						<img alt="""" height=""50"" src=""https://img2.finalfantasyxiv.com/f/44e91f0e60b9964ebe65ac6208ff2828_2e97c13fdd593d15d543093f8a37b6f0fc0_96x96.jpg?1563549415"" width=""50""/>
+					</a>
+				
+			</li>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/gc/weekly/"">
+					<p class=""entry__ranking__rank"">
+						3
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Saitama Tatsuya</p>
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Famfrit (Primal)</p>
+					</div>
+				</a>
+				
+					<a class=""entry__ranking__face"" href=""/lodestone/character/21852819/"">
+						<img alt="""" height=""50"" src=""https://img2.finalfantasyxiv.com/f/ae4d6a54e2aa3385be7cb70fce3a05a3_fce4949e615393e574f2d57134b31fc1fc0_96x96.jpg?1563547566"" width=""50""/>
+					</a>
+				
+			</li>
+		
+	</ul>
+
+
+
+<h4 class=""heading--side--sm"">Free Company Standings</h4>
+
+	<ul>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/fc/weekly/"">
+					<p class=""entry__ranking__rank"">
+						1
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">NGC_edofumi</p>
+
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Tonberry (Elemental)</p>
+					</div>
+				</a>
+				<a class=""entry__ranking__crest"" href=""/lodestone/freecompany/9233505136016395453/"">
+					
+
+		
+			<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/B11_3d4f8262c77a2a1f627a4bf74a7be68d_08_40x40.png"" width=""40""/>
+		
+		<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/F21_fe6199c218b9e02c4a091037526cdbc2_00_40x40.png"" width=""40""/>
+		<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/S6b_a7de57d63cce6769b15887d45ec4705a_00_40x40.png"" width=""40""/>
+
+
+				</a>
+			</li>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/fc/weekly/"">
+					<p class=""entry__ranking__rank"">
+						2
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Please Be Careful</p>
+
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Excalibur (Primal)</p>
+					</div>
+				</a>
+				<a class=""entry__ranking__crest"" href=""/lodestone/freecompany/9236460623271821325/"">
+					
+
+		
+			<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/B25_6f627318de87fe5883eb1631fd8b38a6_b4_40x40.png"" width=""40""/>
+		
+		<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/F3f_fdeb76450beedbae580f24b8275fbeb0_00_40x40.png"" width=""40""/>
+		<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/S6f_917dd198e022c016c641f1040d39632c_05_40x40.png"" width=""40""/>
+
+
+				</a>
+			</li>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/fc/weekly/"">
+					<p class=""entry__ranking__rank"">
+						3
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Crowne of Thorne</p>
+
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Jenova (Aether)</p>
+					</div>
+				</a>
+				<a class=""entry__ranking__crest"" href=""/lodestone/freecompany/9229001536389012456/"">
+					
+
+		
+			<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/B25_6f627318de87fe5883eb1631fd8b38a6_39_40x40.png"" width=""40""/>
+		
+		<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/F1e_ed8a164ee0086dc3e36d078e76126110_00_40x40.png"" width=""40""/>
+		<img height=""40"" src=""https://img2.finalfantasyxiv.com/c/S49_c5770b59fe5589d951155240813613f5_02_40x40.png"" width=""40""/>
+
+
+				</a>
+			</li>
+		
+	</ul>
+
+
+
+<h4 class=""heading--side--sm"">Frontline Standings</h4>
+
+	<ul>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/frontline/weekly/"">
+					<p class=""entry__ranking__rank"">
+						1
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Lux Pugio</p>
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Jenova (Aether)</p>
+					</div>
+				</a>
+				
+					<a class=""entry__ranking__face"" href=""/lodestone/character/23084685/"">
+						<img alt="""" height=""50"" src=""https://img2.finalfantasyxiv.com/f/23bd83090acbb9bb877016b8e825d932_ce736afe35e2ded4e46c4fd0659aef7efc0_96x96.jpg?1563549629"" width=""50""/>
+					</a>
+				
+			</li>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/frontline/weekly/"">
+					<p class=""entry__ranking__rank"">
+						2
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Cmon Breh</p>
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Mateus (Crystal)</p>
+					</div>
+				</a>
+				
+					<a class=""entry__ranking__face"" href=""/lodestone/character/25871792/"">
+						<img alt="""" height=""50"" src=""https://img2.finalfantasyxiv.com/f/b6a158c4cd711ae222da741b3510c7a5_f0c52cc66e124fc2e641d7c21ab2ce79fc0_96x96.jpg?1563548820"" width=""50""/>
+					</a>
+				
+			</li>
+		
+			<li class=""entry__ranking"">
+				<a class=""entry__ranking__link"" href=""/lodestone/ranking/frontline/weekly/"">
+					<p class=""entry__ranking__rank"">
+						3
+					</p>
+					<div class=""entry__ranking__data"">
+						<p class=""entry__name"">Kyn Shi</p>
+						<p class=""entry__world""><i class=""xiv-lds xiv-lds-home-world js__tooltip"" data-tooltip=""Home World""></i>Jenova (Aether)</p>
+					</div>
+				</a>
+				
+					<a class=""entry__ranking__face"" href=""/lodestone/character/11261989/"">
+						<img alt="""" height=""50"" src=""https://img2.finalfantasyxiv.com/f/6b9cb4fcfd4f1dd423d7116f149e9eaf_ce736afe35e2ded4e46c4fd0659aef7efc0_96x96.jpg?1563550799"" width=""50""/>
+					</a>
+				
+			</li>
+		
+	</ul>
+
+
+</div>
+
+
+	
+
+
+		
+	
+
+
+			
+		</div>
+	
+	</div>
+	
+</div>
+
+
+
+	<div class=""link_sp-site"" id=""link_spsite""><a href=""javascript:void(0)"">Mobile Version</a></div><footer class=""l__footer""><div class=""page-top""><span class=""page-top__btn""></span></div><div class=""l__footer__inner""><div class=""l__footer__logo""><img alt="""" height=""32"" src=""https://img.finalfantasyxiv.com/lds/h/L/EbtcXqPUGzsVYdi23FpUR25oH4.png"" width=""320""/></div><p class=""l__footer__officiel"">Official Information</p><ul class=""l__footer__sns""><li><a class=""l__footer__sns--link"" href=""https://www.facebook.com/finalfantasyxiv"" target=""_blank""><i class=""xiv-lds xiv-lds-facebook xiv-lds-3x""></i><span>Facebook</span></a></li><li class=""l__footer__sns--twitter""><a href=""https://twitter.com/ff_xiv_en"" target=""_blank""><i class=""xiv-lds xiv-lds-twitter xiv-lds-3x""></i>Twitter</a> / <a href=""https://twitter.com/FFXIV_NEWS_EN"" target=""_blank"">Twitter News</a></li><li><a class=""l__footer__sns--link"" href=""http://www.youtube.com/finalfantasyxiv"" target=""_blank""><i class=""xiv-lds xiv-lds-youtube xiv-lds-3x""></i><span>Official Channel</span></a></li><li><a class=""l__footer__sns--link"" href=""https://www.instagram.com/ffxiv/"" target=""_blank""><i class=""xiv-lds xiv-lds-instagram xiv-lds-3x""></i><span>Instagram</span></a></li><li><a class=""l__footer__sns--link"" href=""https://www.twitch.tv/finalfantasyxiv"" target=""_blank""><i class=""xiv-lds xiv-lds-twitch xiv-lds-3x""></i><span>Twitch</span></a></li></ul><ul class=""l__footer__link-list""><li class=""link_license"" id=""link_license""><a href=""/lodestone/help/license/"" onclick=""window.open('/lodestone/help/license/','License','width=684,height=700,scrollbars=yes,resizable=no') ; return false ;"">License</a></li><li><a href=""https://support.na.square-enix.com/rule.php?id=5382&amp;la=1"" target=""_blank"">Rules &amp; Policies</a></li><li><a href=""https://square-enix-games.com/en_US/documents/privacy"" target=""_blank"">Privacy Policy</a></li><li><a href=""https://square-enix-games.com/en_US/documents/cookies"" target=""_blank"">Cookie Policy</a></li></ul></div><div class=""l__footer__legal-area""><div class=""l__footer__legal-area__inner clearfix""><div class=""l__footer__legal-area__box""><ul class=""l__footer__legal-area__bnr-list""><li><a href=""http://www.esrb.org/"" target=""_blank""><img alt=""ESRB Ratings"" height=""63"" src=""https://img.finalfantasyxiv.com/lds/h/3/Oj6IGSQo5UBN9vvMlNXru6WL5A.png"" width=""138""/></a></li><li><a href=""https://www.playstation.com/en-us/"" target=""_blank""><img alt=""PlayStation"" height=""39"" src=""https://img.finalfantasyxiv.com/lds/h/u/WbP7-gW3eZL2HyGYGrvLqorznk.svg"" width=""37""/></a></li><li><a href=""https://www.playstation.com/en-us/"" target=""_blank""><img alt=""PlayStation®4"" height=""19"" src=""https://img.finalfantasyxiv.com/lds/h/W/yBAnSiXwKsWFR_e285d93si7Vw.svg"" width=""89""/></a></li><li><img alt=""PC"" height=""39"" src=""https://img.finalfantasyxiv.com/lds/h/Z/iQ6v-BDlG9AZVQGftghhoMjDyQ.png"" width=""42""/></li><li class=""last""><img alt=""Mac"" height=""39"" src=""https://img.finalfantasyxiv.com/lds/h/v/hyXqlwktN4v0EssRTzkbMf_7OQ.png"" width=""30""/></li></ul><ul class=""l__footer__legal-area__bnr-list""><li><img alt=""Steam"" height=""39"" src=""https://img.finalfantasyxiv.com/lds/h/U/15QxPO___EcPlhMI9ydNRRxEY8.png"" width=""90""/></li><li><a href=""http://www.esrb.org/confirm/squareenix-confirmation.aspx"" target=""_blank""><img alt=""ESRB"" height=""87"" src=""https://img.finalfantasyxiv.com/lds/h/s/pDrYlpvfQ7Bj-Gd7nrL_0GtHKc.png"" width=""64""/></a><a class=""l__footer__legal-area__bnr-list--text_link"" href=""https://square-enix-games.com/en_US/documents/privacy"" target=""_blank"">Privacy Policy</a></li></ul><p class=""l__footer__legal-area__text"">""PlayStation"", the ""PS"" family logo, the PlayStation Network logo and ""PS4"" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.<br/>ESRB and the ESRB rating icon are registered trademarks of the Entertainment Software Association. <br/>MAC is a trademark of Apple Inc., registered in the U.S. and other countries.<br/>Windows is either a registered trademark or trademark of Microsoft Corporation in the United States and/or other countries.<br/>All other trademarks are property of their respective owners. <br/>©2019 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.</p></div><div class=""l__footer__legal-area__box""><p class=""l__footer__legal-area__copyright"">© 2010 - 2019 <a href=""http://na.square-enix.com/"" target=""_blank"">SQUARE ENIX</a> CO., LTD. All Rights Reserved.<br/>FINAL FANTASY, FINAL FANTASY XIV, FFXIV, SQUARE ENIX, and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd.<br/>SHADOWBRINGERS, STORMBLOOD, HEAVENSWARD, and A REALM REBORN are registered trademarks or trademarks of Square Enix Co., Ltd.<br/>LOGO ILLUSTRATION: © 2010, 2014, 2016, 2018 YOSHITAKA AMANO</p></div></div></div></footer>
+
+
+<div class=""cookiepolicy sys_cookiepolicy_show hide"" data-key=""cookiepolicy""><div class=""cookiepolicy__box"">
+	<a class=""cookiepolicy__close js__btn_press sys_cookiepolicy_show_trigger"" data-key=""cookiepolicy"" href=""javascript:void(0)""></a>
+	<p class=""cookiepolicy__cp"">Cookie Policy</p>
+	<p class=""cookiepolicy__text"">This website uses cookies. If you do not wish us to set cookies on your device, please do not use the website. Please read the Square Enix <a href=""https://square-enix-games.com/en_US/documents/cookies"" target=""_blank"">cookies policy</a> for more information. Your use of the website is also subject to the terms in the Square Enix website <a href=""https://square-enix-games.com/en_US/documents/tnc"" target=""_blank"">terms of use</a> and <a href=""https://square-enix-games.com/en_US/documents/privacy"" target=""_blank"">privacy policy</a> and by using the website you are accepting those terms. The Square Enix terms of use, privacy policy and cookies policy can also be found through links at the bottom of the page.</p>
+</div></div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-43364669-4', 'auto');
+ga('create', 'UA-43364669-1', 'auto', 'anotherTracker');
+
+ga('require', 'linkid');
+ga('anotherTracker.require', 'linkid');
+
+
+	ga('set', 'dimension1', 'notloginuser');
+	ga('anotherTracker.set', 'dimension1', 'notloginuser');
+
+
+ga('send', 'pageview');
+ga('anotherTracker.send', 'pageview');
+</script>
+
+
+
+
+
+
+
+	<script>
+	// INSTRUCTIONS
+	// The VersaTag code should be placed at the top of the <BODY> section of the HTML page.
+	// To ensure that the full page loads as a prerequisite for the VersaTag
+	// being activated (and the working mode is set to synchronous mode), place the tag at the bottom of the page. Note, however, that this may
+	// skew the data for slow-loading pages, and in general is not recommended.
+	// If the VersaTag code is configured to run in async mode, place the tag at the bottom of the page before the end of the <BODY > section.
+
+	//
+	// NOTE: You can test if the tags are working correctly before the campaign launches
+	// as follows:  Browse to http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=at, which is
+	// a page that lets you set your local machine to 'testing' mode.  In this mode, when
+	// visiting a page that includes a VersaTag, a new window will open, showing you
+	// the tags activated by the VersaTag and the data sent by the VersaTag tag to the Sizmek servers.
+	//
+	// END of instructions (These instruction lines can be deleted from the actual HTML)
+
+	var versaTag = {};
+	versaTag.id = ""3124"";
+	versaTag.sync = 0;
+	versaTag.dispType = ""js"";
+	versaTag.ptcl = ""HTTPS"";
+	versaTag.bsUrl = ""bs.serving-sys.com/BurstingPipe"";
+	//VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: ""ParamName1"":""ParamValue1"", ""ParamName2"":""ParamValue2"". ParamValue can be empty.
+	versaTag.activityParams = {
+	//Predefined parameters:
+	""Session"":""""
+	//Custom parameters:
+	};
+	//Static retargeting tags parameters. Syntax: ""TagID1"":""ParamValue1"", ""TagID2"":""ParamValue2"". ParamValue can be empty.
+	versaTag.retargetParams = {};
+	//Dynamic retargeting tags parameters. Syntax: ""TagID1"":""ParamValue1"", ""TagID2"":""ParamValue2"". ParamValue can be empty.
+	versaTag.dynamicRetargetParams = {};
+	// Third party tags conditional parameters and mapping rule parameters. Syntax: ""CondParam1"":""ParamValue1"", ""CondParam2"":""ParamValue2"". ParamValue can be empty.
+	versaTag.conditionalParams = {};
+	</script>
+	<script id=""ebOneTagUrlId"" src=""https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js""></script>
+	<noscript>
+	<iframe src=""https://bs.serving-sys.com/BurstingPipe?
+	cn=ot&amp;
+	onetagid=3124&amp;
+	ns=1&amp;
+	activityValues=$$Session=[Session]$$&amp;
+	retargetingValues=$$$$&amp;
+	dynamicRetargetingValues=$$$$&amp;
+	acp=$$$$&amp;"" style=""display:none;width:0px;height:0px""></iframe>
+	</noscript>
+
+
+<script src=""https://img.finalfantasyxiv.com/lds/pc/en-us/js/i18n.js?1562812459""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/i/2ur_0e4qXk_NwNv0bGjrUHThCM.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/g/uQNBgvCaabd4gw5kMpaT-psp1Q.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/B/l83dDjSrGOYnP-ZduQ2ecQ29H8.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/Z/wqo4GxX1wALdnxx6xOv38NxFVY.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/9/TTeYt1mN0BF3R1Av3fWlknchv4.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/8/b_tPmOnEw1tyr2dp2InkGxUlMA.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/Y/6WaukM6m3WFE2JXrCEb6tsknik.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/E/ImNUSWkI-O9dQP5ADa41RiGxGY.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/t/kQLYFR8rOESAOiyT9o2PsRnLq0.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/D/OtweREdgORUX0VH8LayNAWNB3U.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/m/MegQy11U6VFa8pLYuEty9_tRFc.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/W/jYESLoKcRR7LDUxyfasvLh85wg.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/W/r-0ziwRwdsVj1lEyFHfmVyFgKw.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/t/03sA_feMPBwlAg4QI6kBawCf_E.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/f/maXVB3s0_ygRCRDAY8163JJzp4.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/S/pvUvfuHz_IiLI4TcxUuuAa5Y5Y.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/U/jhEwPt7MvJy47-ExjjZ3lHW3qI.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/0/f52zA7ACWvjEMB1oWe8kfyGWH0.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/l/-_ePiHXNE_1t8LnRcmRAbhRME8.js""></script>
+<script src=""https://www.youtube.com/iframe_api""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/P/MYGDtxveSuUwuhprm8oj1Hhuq8.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/M/it7tc9wvjlJJstEQUNjiModhdM.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/n/HMQm8_JEoqrSmuv5RmmKgTldGc.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/b/Tbd7ssiGBloF69B3q-E9drzksw.js""></script>
+<script src=""https://img.finalfantasyxiv.com/lds/h/d/UfPsCOe_Nl7ytqem4KWdsftkY0.js""></script>
+
+
+<div id=""dialog_bg"" style=""opacity:0; visibility: hidden;""></div>
+<!-- dialog -->
+<div class=""overlay__area js__overlay"" name=""ldstDialog"" style=""opacity:0; visibility: hidden; top: 0px"">
+	<p class=""overlay__text--icon""></p>
+
+	<div class=""outbound_consent hide"">
+		<input class=""form__checkbox"" id=""outbound_consent"" name=""outbound_consent"" type=""checkbox"" value=""1""/>
+		<label class=""form__checkbox__label form__outbound"" for=""outbound_consent"">
+			Do not show this message again.
+		</label>
+	</div>
+
+	<!-- SIMPLE DIALOG -->
+	<a class=""js__dialog_btn btn__color--radius js__overlay_ok"" href=""javascript:void(0);"">Confirm</a>
+	<!-- //SIMPLE DIALOG -->
+	<!-- CONFIRM DIALOG -->
+	<ul class=""js__dialog_btn overlay__btn js__overlay_btn"">
+		<li><a class=""js__overlay_yes"" href=""javascript:void(0);"">Yes</a></li>
+		<li><a class=""js__overlay_no"" href=""javascript:void(0);"">No</a></li>
+	</ul>
+	<!-- //CONFIRM DIALOG -->
+</div>
+<!-- //dialog -->
+
+
+
+
+
+</body></html>"
