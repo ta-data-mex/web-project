@@ -19,7 +19,6 @@ El código de esta página hará lo siguiente:
 '''
 
 url = pd.read_csv('./data/mother_page.csv')
-url.columns = ['links']
 url_patterns = url['links'].tolist()
 
 buscar_detalles = '.detalhes-sessao'

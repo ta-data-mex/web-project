@@ -18,9 +18,9 @@ url_madre = 'https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idPropos
 PEC6 = requests.get(url_madre).content
 PEC6_soup = BeautifulSoup(PEC6, 'html5lib')
 
-# titulo_reunion = [] #tomar toda la tabla y filtrar por contenido del href
-# resumen_reunion = []
-link_reunion = PEC6_soup.find_all('a', {'href':re.compile('evento-legislativo')})
-link_reunion = [item['href'] for item in link_reunion]
-reuniones_df = pd.DataFrame(link_reunion)
+texto_reunion = [item.text.strip() for item in PEC6_soup.select('tr') if item.find_all('a', {'href':re.compile('evento-legislativo')})]
+link_reunion = [item.find_all('a', {'href':re.compile('evento-legislativo')})[0]['href'] for item in PEC6_soup.find_all('tr') if item.find_all('a', {'href':re.compile('evento-legislativo')})]
+tabla = [[texto_reunion[i], link_reunion[i]] for i in range(len(texto_reunion))]
+reuniones_df = pd.DataFrame(tabla)
+reuniones_df.columns = ['Titulo', 'links']
 reuniones_df.to_csv('./data/mother_page.csv', index=False)

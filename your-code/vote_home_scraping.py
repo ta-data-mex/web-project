@@ -35,9 +35,6 @@ def spider_text_id(lista_url, criterio_txt, criterio_value):
             lst_reuniones.append([el.split('=')[-1] for at in tmp_soup.select(criterio_value)])
         except:
             continue
-
-    print(len(lst_criteriov))
-    print(len(lst_criteriot))
     return [[lst_criteriot[i],lst_criteriov[i],lst_reuniones[i]] for i in range(0,len(lst_criteriov))]
 
 lista_votacoes = spider_text_id(url_patterns, buscar_titulo, buscar_detalles)

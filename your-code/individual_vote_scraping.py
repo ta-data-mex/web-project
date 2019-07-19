@@ -23,11 +23,11 @@ for i in ids:
     tmp = requests.get(pattern % i).content
     tmp_soup = BeautifulSoup(tmp, 'html')
     spans = [[l.text for l in el if l != '\n'] for el in tmp_soup.select('.partidosContainer li')]
-    print(spans)
-    spans = [s for s in spans if s[-1] == 'Sim' or s[-1] == 'Não' or s[-1] =='Obstrução']
+    spans = [s for s in spans if len(s) > 0 and (s[-1] == 'Sim' or s[-1] == 'Não' or s[-1] =='Obstrução')]
     spans_df = pd.DataFrame(spans)
     spans_df['ID Votacao'] = i
     lst_dfs.append(spans_df)
 
-votos = pd.concat(lst_dfs, axis=0)
-print(votos)
+votos = pd.concat(lst_dfs, axis=0, ignore_index=True)
+votos.columns = ['Nome', 'Partido', 'Voto', 'ID Votacao']
+votos.to_csv('./data/votos.csv')
