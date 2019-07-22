@@ -1,0 +1,145 @@
+,name,bikes,code,id
+0,Bécsi út - Óbudai Egyetem,21,0303,1758855
+1,Andrássy út - Nagymező utca,6,0609,250969
+2,Krisztina tér,10,0106,366483
+3,Clark Ádám tér,15,0103,246741
+4,Westend,17,0614,7206890
+5,Vágány utca-Róbert Károly körút,13,1402,13483215
+6,Műegyetem rakpart – R épület,8,1117,13481823
+7,Rumbach Sebestyén utca - BKK,3,0709,267290
+8,Teréz körút - Szondi utca,19,0605,250960
+9,Bakáts tér,15,0908,422300
+10,Műegyetem,20,1102,253398
+11,Széchenyi fürdő,9,1401,253430
+12,Ráday utca - Kinizsi utca,14,0911,13481783
+13,Lövölde tér,14,0606,250963
+14,Népfürdő utca - Dunavirág utca,14,1317,3630187
+15,Déli pályaudvar,9,0105,267292
+16,Rákosrendező vasútállomás,15,1322,13483180
+17,Oktogon,16,0607,250966
+18,Mechwart liget,8,0207,399977
+19,Nordic Light Offices,8,1319,6503977
+20,Kassák Lajos utca,16,1321,13483168
+21,Hajós Alfréd Uszoda,11,1308,3629999
+22,Blaha Lujza tér,10,0809,253202
+23,Keleti pályaudvar,15,0808,253201
+24,Ferdinánd híd - Podmaniczky utca,19,0613,366527
+25,"Műegyetem, Q épület",11,1115,13481833
+26,MÜPA-Nemzeti Színház H,20,0909,3630218
+27,Markusovszky tér,5,0901,253203
+28,Horváth Mihály tér,13,0810,366529
+29,Szalay utca - Falk Miksa utca,10,0502,248389
+30,Császár - Komjádi Uszoda,17,0205,366522
+31,Duna Aréna,17,1311,3630056
+32,Corvinus Egyetem,17,0903,253205
+33,Fény utcai piac,9,0206,366523
+34,Millenáris park - Fény utca,0,0208,366525
+35,Szépvölgyi út H,15,0302,1758834
+36,Batthyány tér,14,0101,246729
+37,Hajdú utca - Szegedi út,9,1323,13484365
+38,Zenélőkút,13,1310,3630041
+39,Bethlen Gábor tér,15,0711,13481648
+40,Corvin sétány,19,0812,366539
+41,BAH csomópont,14,1201,366538
+42,Károly körút (Astoria M) - Zsinagóga,11,0712,13481767
+43,Budafoki út - Schönherz Kollégium,22,1106,253412
+44,Bem József tér,12,0203,335161
+45,Szent István park,19,1302,253418
+46,II. János Pál Pápa tér M,14,0811,366530
+47,Újbuda-központ M,13,1109,366533
+48,Széll Kálmán tér,8,0210,885407
+49,Kosztolányi Dezső tér,4,1111,366535
+50,Móricz Zsigmond körtér,15,1107,253414
+51,Villányi út - Tas vezér utca,11,1110,366534
+52,Városmajor - Nyúl utca,9,1204,1758950
+53,Jászai Mari tér,7,1301,253417
+54,Villányi út - Karolina út,14,1113,366537
+55,Pázmány Péter sétány - ELTE,21,1108,253416
+56,Bertalan Lajos utca - Stoczek utca,13,1112,366536
+57,Horvát utca,9,0202,246738
+58,Infopark - aluljáró,14,1119,13483140
+59,Margit híd - Buda,10,0201,246739
+60,Kárpát utca - Tisza utca,13,1316,3630150
+61,Boráros tér,19,0904,253392
+62,Béke tér,24,1320,13483148
+63,Kodály körönd,16,0604,249724
+64,Szent Gellért tér,14,1101,253393
+65,Szilágyi Dezső tér,6,0102,246733
+66,Döbrentei tér,14,0104,246735
+67,Margitsziget,10,1304,253422
+68,Üllői út - Ferenc Körút,14,0902,253423
+69,Apáczai Csere János utca,9,0509,341948
+70,Bajcsy-Zsilinszky út - Kálmán Imre utca,4,0503,248400
+71,Váci út - Victor Hugo utca,9,1303,253420
+72,Ferenc tér,30,0906,492505
+73,Pázmány Péter sétány - Északi tömb,9,1118,13481891
+74,Csalogány utca - Medve utca,12,0211,1758783
+75,Pannónia utca - Raoul Wallenberg utca,11,1305,253426
+76,Károlyi utca,0,0514,249291
+77,Margit körút - Tölgyfa utca,0,0209,492500
+78,Csörsz utca - MOM Kulturális Központ,4,1203,1758935
+79,MILL Park,14,0912,11362086
+80,Dózsa György út M,32,1307,373011
+81,Váci út-Bulcsú utca,13,1306,373010
+82,Kéthly Anna tér,8,0707,253113
+83,Moholy-Nagy Művészeti Egyetem,8,1114,13481862
+84,Rózsák tere,11,0706,253111
+85,Mikszáth Kálmán tér,6,0807,253199
+86,SOTE - Vendel utca,28,0907,418095
+87,Palatinus Strand,10,1309,3630024
+88,Gyulai Pál utca - Rákóczi út,9,0801,253118
+89,Wesselényi utca - Síp utca,14,0708,253117
+90,Astoria,17,0802,253119
+91,Szent Margit Kórház,13,0305,1758888
+92,Népliget M (buszpályaudvar),10,0910,8430499
+93,MOM Park,13,1202,1758923
+94,Árpád-híd M Észak,9,1313,3630097
+95,Kolosy tér,10,0301,1758809
+96,Gárdonyi tér,4,1103,253401
+97,Szabadság tér,16,0506,248587
+98,Kőfaragó utca - Vas utca,9,0803,253122
+99,Kőrösy József utca,15,1105,253407
+100,Petőfi híd - Buda,4,1104,253406
+101,Párkány utca - Viza utca,11,1315,3630138
+102,Dorottya utca - Wekerle Sándor utca,8,0510,248707
+103,Pap Károly utca,11,1324,13483194
+104,Vitkovics Mihály utca - Városház utca,8,0512,248709
+105,Vigadó tér,13,0511,248708
+106,Alkotás utca - Márvány utca,8,0107,367673
+107,Fővám tér,3,0515,249479
+108,Akadémia,8,0507,248701
+109,Deák tér,4,0518,248705
+110,Erzsébet tér,14,0508,248704
+111,Egry József utca,8,1116,13481846
+112,Ferenciek tere,5,0516,249482
+113,Zsigmond tér,8,0212,1610532
+114,Nyugati pályaudvar,20,0603,249485
+115,Kálvin tér,29,0905,255236
+116,Hősök tere,10,0602,249484
+117,Gozsdu udvar,13,0701,255237
+118,Szent István körút - Vígszínház,20,0501,248398
+119,Jókai utca - Zichy Jenő utca,9,0608,255235
+120,Podmaniczky tér,0,0505,255232
+121,Forgách utca M,14,1312,3630088
+122,Andrássy út - Káldy Gyula utca,13,0610,251957
+123,Szent János Kórház,8,1206,1758992
+124,Városháza Park,15,0517,249480
+125,Lajos utca - Nagyszombat utca,16,0304,1758868
+126,Gogol utca - Pozsonyi utca,9,1318,3630194
+127,Kiscelli utca - Zápor utca,17,0306,1758905
+128,Március 15. tér,19,0513,248710
+129,Rákóczi tér,9,0804,253194
+130,József körút - Baross utca,19,0806,253196
+131,Bródy Sándor utca - Múzeum körút,14,0805,253195
+132,Széna tér,9,0204,246778
+133,Nyugati tér,10,0611,251960
+134,Garay tér,14,0703,253105
+135,Almássy tér,12,0710,13481612
+136,Dózsa György út - Dembinszky utca,11,0702,253104
+137,Vécsey utca,15,0504,248564
+138,Teréz körút - Király utca,17,0601,269366
+139,Szilágyi Erzsébet fasor - Fogaskerekű,7,1205,1758981
+140,Városligeti fasor - Dózsa György út,10,0612,251962
+141,Klauzál tér,10,0704,253107
+142,Árpád-híd M-József Attila Színház,10,1314,3630113
+143,Erzsébet körút - Wesselényi utca,13,0705,253109
