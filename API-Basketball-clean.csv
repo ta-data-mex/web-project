@@ -1,0 +1,1475 @@
+first_name,last_name,position,team_name,name,abbreviation,city,conference,division
+DeVaughn,Akoon-Purcell,G-F,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Ike,Anigbogu,C,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Carmelo,Anthony,F,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Ron,Baker,G,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Jabari,Bird,G,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+MarShon,Brooks,G,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Lorenzo,Brown,G,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Omri,Casspi,F,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Alex,Abrines,G,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Tyler,Davis,C,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Keenan,Evans,G,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Marcin,Gortat,C,LA Clippers,Clippers,LAC,LA,West,Pacific
+Andrew,Bogut,F,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Tim,Hardaway Jr.,G,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Daniel,Hamilton,G-F,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Andrew,Harrison,G,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Demetrius,Jackson,G,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Amir,Johnson,C-F,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+BJ,Johnson,F,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+James,Johnson,F,Miami Heat,Heat,MIA,Miami,East,Southeast
+Stanley,Johnson,F,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Cory,Joseph,G,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Frank,Kaminsky,F-C,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Enes,Kanter,C,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Luke,Kennard,G,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Michael,Kidd-Gilchrist,F,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+George,King,F,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Maxi,Kleber,F,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Brandon,Knight,G,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Kevin,Knox,F,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Furkan,Korkmaz,G-F,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Luke,Kornet,F-C,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Zach,Lofton,G,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Kyle,Korver,G-F,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Kosta,Koufos,C,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ben,McLemore,G,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Victor,Oladipo,G,LA Clippers,Clippers,LAC,LA,West,Pacific
+Kelly,Olynyk,F,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+James,Nunnally,F,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Cameron,Payne,G,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Billy,Preston,F,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Zhou,Qi,F-C,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Zach,Randolph,F,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Malachi,Richardson,G,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+DJ,Stephens,G-F,Miami Heat,Heat,MIA,Miami,East,Southeast
+Milos,Teodosic,G,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Gary,Trent Jr.,G,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Tyler,Ulis,G,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Michael,Smith,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+John,Morton,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Howard,Wright,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Michael,Ansley,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+John,Salley,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Dan,Schayes,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Mark,Eaton,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Kevin,Johnson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Danny,Ainge,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Kenny,Smith,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Randy,Breuer,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Herb,Williams,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Joe,Wolf,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Steve,Johnson,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Glen,Rice,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Greg,Foster,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Larry,Nance,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Duane,Ferrell,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Nick,Anderson,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Joe,Dumars,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jay,Humphries,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Darrell,Griffith,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Dan,Majerle,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Tom,Chambers,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Alaa,Abdelnaby,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Adrian,Caldwell,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Vernon,Maxwell,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Doug,West,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Tony,Campbell,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Roy,Tarpley,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Anthony,Cook,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Todd,Lichti,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Tom,Tolbert,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Billy,Thompson,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Byron,Irvin,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mark,Price,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Dominique,Wilkins,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Dennis,Scott,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Terry,Catledge,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Bill,Laimbeer,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+William,Bedford,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Ricky,Pierce,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Blue,Edwards,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Walter,Palmer,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Mark,West,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Clifford,Robinson,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Hakeem,Olajuwon,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Richard,Coffey,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+James,Donaldson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jerome,Lane,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Sarunas,Marciulionis,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Grant,Long,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Willie,Burton,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Mark,Alarie,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Winston,Bennett,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Doc,Rivers,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Tim,McCormick,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Scott,Skiles,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Dennis,Rodman,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Greg,Anderson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Jeff,Malone,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Cedric,Ceballos,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Tim,Perry,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Buck,Williams,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Dave,Jamerson,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Scott,Brooks,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Rolando,Blackman,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Avery,Johnson,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Rod,Higgins,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jon,Sundvold,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+A.J.,English,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+John,Battle,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Sam,Vincent,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Isiah,Thomas,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Brad,Lohaus,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Mike,Brown,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Kenny,Battle,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Danny,Young,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Larry,Smith,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Pooh,Richardson,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Derek,Harper,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Michael,Adams,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Tim,Hardaway,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Bimbo,Coles,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Darrell,Walker,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Kevin,Willis,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Otis,Smith,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+James,Edwards,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Frank,Brickowski,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Karl,Malone,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Ian,Lockhart,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Kevin,Duckworth,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Otis,Thorpe,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Gerald,Glass,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Alex,English,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+T.R.,Dunn,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Alton,Lister,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Sherman,Douglas,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Charles,Jones,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Moses,Malone,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Mark,Acres,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Lance,Blanks,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jeff,Grayer,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Chris,Munk,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jeff,Hornacek,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Jerome,Kersey,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Dave,Feitl,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Tod,Murphy,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Lafayette,Lever,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Corey,Gaines,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mitch,Richmond,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Kevin,Edwards,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Haywoode,Workman,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Tom,Hammonds,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Rumeal,Robinson,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Greg,Kite,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Vinnie,Johnson,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Jack,Sikma,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Delaney,Rudd,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Ed,Nealy,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Wayne,Cooper,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Sleepy,Floyd,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Felton,Spencer,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Tyrone,Corbin,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Marcus,Liberty,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Walter,Davis,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Tyrone,Hill,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Alec,Kessler,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Terry,Davis,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Larry,Robinson,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Sidney,Moncrief,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Jeff,Turner,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Scott,Hastings,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Alvin,Robertson,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Steve,Henson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Andy,Toolson,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Thurl,Bailey,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Kurt,Rambis,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Clyde,Drexler,,LA Clippers,Clippers,LAC,LA,West,Pacific
+David,Wood,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Sam,Mitchell,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Rodney,McCray,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Blair,Rasmussen,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Kevin,Pritchard,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Milt,Wagner,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Bernard,King,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Roy,Hinson,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Matt,Bullard,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Alan,Ogg,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Kevin,Lynch,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Larry,Krystkowiak,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Pete,Chilcutt,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Randy,Brown,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Elliot,Perry,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jimmy,Oliver,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Terrell,Brandon,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Greg,Sutton,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Tom,Copa,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Donald,Hodge,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Joao,Vianna,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mike,Iuzzolino,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Greg,Anthony,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Albert,King,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Tellis,Frank,,LA Clippers,Clippers,LAC,LA,West,Pacific
+David,Benoit,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Demetrius,Calip,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Dikembe,Mutombo,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Mark,Macon,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Chris,Gatling,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Victor,Alexander,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Mark,Randall,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Mitchell,Wiggins,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Tharon,Mayes,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Charles,Thomas,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Robert,Pack,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+John,Bagley,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Rick,Fox,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Larry,Johnson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Alexander,Volkov,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Stacey,Augmon,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Carl,Thomas,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Steven,Smith,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Stanley,Roberts,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Doug,Lee,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Rafael,Addison,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Sean,Green,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Corey,Crowder,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Eric,Murdock,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Kevin,Brooks,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Carlton,McKinney,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Billy,Owens,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Doug,Smith,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Marty,Conlon,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Rich,King,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Brad,Sellers,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Rodney,Monroe,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Lanard,Copeland,,Miami Heat,Heat,MIA,Miami,East,Southeast
+LeRon,Ellis,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Larry,Stewart,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+John,Turner,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Charles,Shackleford,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Keith,Owens,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Paul,Graham,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Kenny,Anderson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Carl,Herrera,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Myron,Brown,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Dale,Davis,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Labradford,Smith,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Bison,Dele,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Chuck,Nevitt,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Patrick,Eddie,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+David,Rivers,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Luc,Longley,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Bob,McCann,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Donald,Royal,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Anthony,Bowie,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Chris,Corchiani,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Stephen,Thompson,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Jeff,Ruland,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Ronnie,Grandison,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Lamont,Strothers,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Tracy,Moore,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Jaren,Jackson,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Ennis,Whatley,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Brian,Howard,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Steve,Burtt,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Cedric,Hunter,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Stephen,Bardo,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Cliff,T. Robinson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Derek,Strong,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Bobby,Phills,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Anthony,Avent,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Lee,Mayberry,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Todd,Day,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Tony,Bennett,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Brent,Price,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Don,MacLean,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Tom,Gugliotta,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Walt,Williams,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Lloyd,Daniels,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Vinny,Del Negro,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Shaquille,O'Neal,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Adam,Keefe,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Clar.,Weatherspoon,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Robert,Horry,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Chris,Smith,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Christian,Laettner,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Gundars,Vetra,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Corey,Williams,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Elmore,Spencer,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Anthony,Peeler,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Duane,Cooper,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+John,Crotty,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Stephen,Howard,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Byron,Houston,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Keith,Jennings,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Latrell,Sprewell,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Bryant,Stith,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+LaPhonso,Ellis,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Matt,Othick,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Sam,Mack,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Anthony,Pullard,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Malik,Sealy,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Hubert,Davis,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Sean,Rooks,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Walter,Bond,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Harold,Miner,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Oliver,Miller,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Lorenzo,Williams,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Dave,Johnson,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Reggie,Smith,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Tracy,Murray,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Robert,Werdann,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Alex,Stivrins,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Frank,Johnson,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Randy,Woods,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Litterial,Green,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Alonzo,Mourning,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Alex,Blackwell,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Isaiah,Morris,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Doug,Overton,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Eric,Anderson,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Tim,Kempton,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Stan,Kimbrough,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Jay,Guidinger,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Gary,Plummer,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Matt,Geiger,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Marcus,Webb,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jojo,English,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Marlon,Maxey,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Jon,Barry,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Richard,Dumas,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Radisav,Curcic,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Andre,Spencer,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Dexter,Cambridge,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Joe,Courtney,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Duane,Washington,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Melvin,Newbern,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Ricky,Blanton,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jim,Jackson,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Barry,Stevens,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Doug,Christie,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Pat,Durham,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Thomas,Jordan,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Gary,Alexander,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Anfernee,Hardaway,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Keith,Tower,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Chris,Whitney,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Josh,Grant,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Bobby,Hurley,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mike,Peplowski,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Darnell,Mee,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Rodney,Rogers,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Acie,Earl,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Dino,Radja,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Chris,Mills,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Vin,Baker,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Antonio,Harvey,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Nick,Van Exel,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Terry,Dehere,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+James,Robinson,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Corie,Blount,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Toni,Kukoc,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Michael,Curry,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Shawn,Bradley,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Warren,Kidd,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Calbert,Cheaney,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Mitchell,Butler,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Tito,Horford,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Bryon,Russell,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Luther,Wright,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Darren,Morningstar,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Jamal,Mashburn,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Lucious,Harris,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Popeye,Jones,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Eric,Riley,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Sam,Cassell,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+P.J.,Brown,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Rex,Walters,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Antonio,Davis,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Allan,Houston,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Lindsey,Hunter,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Brian,Davis,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Isaiah,Rider,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Matt,Wenstrom,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Scott,Haskin,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Gerald,Madkins,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Greg,Graham,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Ervin,Johnson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+George,Lynch,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Bob,Martin,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Ricky,Grace,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Sedric,Toney,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Chris,Webber,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Gheorghe,Muresan,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Richard,Petruska,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Kevin,Thompson,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Adonis,Jordan,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Scott,Burrell,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Dell,Demps,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Evers,Burns,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Aaron,Williams,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Stanley,Jackson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+David,Wesley,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Chris,King,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Doug,Edwards,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Harold,Ellis,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Malcolm,Mackey,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Ben,Coleman,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Roy,Marble,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Reggie,Jordan,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Chad,Gallagher,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Bo,Outlaw,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Bill,Edwards,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Andrew,Gaze,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Alphonso,Ford,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Andres,Guibert,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Skeeter,Henry,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Chris,Jent,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Geert,Hammink,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Jalen,Rose,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Reggie,Slater,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Askia,Jones,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Donyell,Marshall,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Howard,Eisley,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Grant,Hill,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Anthony,Miller,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Eddie,Jones,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Dickey,Simpkins,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Eric,Piatkowski,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Lamond,Murray,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Matt,Fish,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Aaron,McKie,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Eric,Montross,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Fred,Vinson,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Tom,Hovasse,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jamie,Watson,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Khalid,Reeves,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Brian,Grant,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Henry,Turner,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Antonio,Lang,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Wesley,Person,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+B.J.,Tyler,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Derrick,Alston,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Sharone,Wright,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Eric,Mobley,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Darrin,Hancock,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Bill,Curley,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Anthony,Tucker,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Tim,Breaux,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Zan,Tabak,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Brooks,Thompson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Glenn,Robinson,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Jason,Kidd,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Tony,Dumas,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Monty,Williams,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Carlos,Rogers,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Sergei,Bazarevich,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Julius,Nwosu,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Trevor,Ruffin,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Yinka,Dare,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Greg,Minor,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Clifford,Rozier,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Charlie,Ward,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Dontonio,Wingfield,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Aaron,Swinson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jim,McIlvaine,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Juwan,Howard,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+James,Blackwell,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Ivano,Newbill,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Dwayne,Morton,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Chris,Childs,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Ryan,Lorthridge,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Elmer,Bennett,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Darrick,Martin,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Jerome,Harmon,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Mark,Strickland,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Eldridge,Recasner,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Darrell,Armstrong,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Derrick,Phelps,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Cherokee,Parks,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Loren,Meyer,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Charles,Claxton,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Eric,Williams,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Junior,Burrough,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Brent,Barry,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Chris,Carr,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Michael,Finley,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Greg,Ostertag,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Eric,Snow,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Sherell,Ford,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jerry,Stackhouse,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Jeff,Webster,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Rasheed,Wallace,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Arvydas,Sabonis,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Gary,Trent,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Randolph,Childress,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Bryant,Reeves,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Lawrence,Moten,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Jason,Caffey,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+George,Zidek,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Alvin,Heggs,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Joe,Smith,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Alan,Henderson,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Travis,Best,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Damon,Stoudamire,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Jimmy,King,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Ed,O'Bannon,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Lou,Roe,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Theo,Ratliff,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Antonio,McDyess,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Bob,Sura,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Donny,Marshall,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+John,Amaechi,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Tyus,Edney,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Jerome,Allen,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Kevin,Garnett,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Mark,Davis,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Marques,Bragg,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Shawn,Respert,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Fred,Hoiberg,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Frankie,King,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Don,Reid,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Kurt,Thomas,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Sasha,Danilovic,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Terrence,Rencher,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Cory,Alexander,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Howard,Nathan,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Todd,Mundt,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+David,Vaughn,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Log,Vander Velden,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Ashraf,Amaya,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Stefano,Rusconi,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Larry,Sykes,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Vincenzo,Esposito,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Corliss,Williamson,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Rastko,Cvetkovic,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Corey,Beck,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Voshon,Lenard,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Anthony,Goldwire,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Andrew,DeClercq,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Richard,Manning,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Clint,McDaniel,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Martin,Lewis,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Dwayne,Whitfield,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Mario,Bennett,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Melvin,Booker,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Darryl,Johnson,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+John,Coker,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Donnie,Boyce,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Thomas,Hamilton,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Robert,Churchwell,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Cuonzo,Martin,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Cedric,Lewis,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Antoine,Walker,F,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Brett,Szabo,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Brent,Scott,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Erick,Dampier,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jerome,Williams,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+John,Wallace,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Walter,McCarty,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Marcus,Camby,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Donald,Whiteside,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Shareef,Abdur-Rahim,F,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Roy,Rogers,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Ben,Wallace,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Reggie,Geary,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Vitaly,Potapenko,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Ed,O'Bannon,F,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Kerry,Kittles,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Erick,Strickland,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Darvin,Ham,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Stephon,Marbury,G,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Shane,Heal,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Dean,Garrett,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Priest,Lauderdale,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ike,Austin,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Loy,Vaught,F,LA Clippers,Clippers,LAC,LA,West,Pacific
+Lorenzen,Wright,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Todd,Fuller,C,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Ray,Owes,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Ray,Allen,G,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Allen,Iverson,G,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Mark,Bradtke,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Steve,Nash,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Ben,Davis,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Derek,Fisher,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Travis,Knight,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Kobe,Bryant,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Matt,Maloney,G,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Othella,Harrington,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Randy,Livingston,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Emanual,Davis,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Shandon,Anderson,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Malik,Rose,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Tony,Delk,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Jeff,McInnis,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Dontae',Jones,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Nate,Driggers,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Samaki,Walker,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Amal,McCaskill,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+James,Scott,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Mark,Hendrickson,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Aleksandar,Djordjevic,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Jermaine,O'Neal,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Chris,Robinson,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Kevin,Salvadori,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Evric,Gray,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Moochie,Norris,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Devin,Gray,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Martin,Muursepp,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Gaylon,Nickerson,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Marcus,Brown,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Robert,Werdann,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Ruben,Nembhard,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Jamie,Feick,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jason,Sasser,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Tony,Farmer,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Shawnelle,Scott,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Brian,Evans,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Steve,Hamer,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Dexter,Boney,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Michael,Hawkins,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Joe,Stephens,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Horacio,Llamas,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Jimmy,Carruth,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Bruce,Bowen,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Stevin,Smith,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Matt,Steigenga,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Kevin,Ollie,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Bubba,Wells,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Antonio,Daniels,G,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Tracy,McGrady,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Chris,Garner,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Tim,Duncan,F,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Tony,Battie,F,Miami Heat,Heat,MIA,Miami,East,Southeast
+Bobby,Jackson,G,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Danny,Fortson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Eric,Washington,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Etdrick,Bohannon,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Mark,Pope,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Ron,Mercer,G,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Chauncey,Billups,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+John,Thomas,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Kelvin,Cato,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Alvin,Williams,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Maurice,Taylor,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Keith,Closs,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Adonal,Foyle,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+DeJuan,Wheat,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ed,Gray,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Chris,Crawford,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Zydrunas,Ilgauskas,C,LA Clippers,Clippers,LAC,LA,West,Pacific
+Derek,Anderson,G,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Brevin,Knight,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Cedric,Henderson,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Rodrick,Rhodes,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Jacque,Vaughn,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Troy,Hudson,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jerald,Honeycutt,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jeff,Nordgaard,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Tim,Thomas,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+God,Shammgod,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Scot,Pollard,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Keith,Van Horn,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Michael,Stewart,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Anthony,Johnson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Derek,Grimm,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Lawrence,Funderburke,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Chris,Anstey,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Rick,Brunson,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Travis,Williams,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Tariq,Abdul-Wahad,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Charles,Smith,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Keith,Booth,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ed,Stokes,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Charles,O'Bannon,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Austin,Croshere,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Rusty,LaRue,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Kiwane,Garris,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Marko,Milic,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Johnny,Taylor,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+James,Cotton,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+James,Collins,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Anthony,Parker,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jason,Lawson,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Kebu,Stewart,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Kelly,McCarty,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Drew,Barry,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Michael,McDonald,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Brandon,Williams,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+William,Cunningham,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Shea,Seals,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Reggie,Hanson,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Rashard,Lewis,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Jelani,McCoy,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Vladimir,Stepania,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Larry,Hughes,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Casey,Shaw,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Nazr,Mohammed,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ricky,Davis,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Brad,Miller,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Mikki,Moore,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Michael,Doleac,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Matt,Harpring,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Miles,Simon,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Jason,Williams,G,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Peja,Stojakovic,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jerome,James,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Peter,Aluma,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Gerard,King,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Mark,Baker,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Sean,Marks,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Paul,Pierce,F,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Marlon,Garnett,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Jahidi,White,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Randell,Jackson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Al,Harrington,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Shammond,Williams,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Jeff,Sheppard,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Roshown,McLeod,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Pat,Garrity,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Gerald,Brown,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Toby,Bailey,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Michael,Olowokandi,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Tyrone,Nesby,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Michael,Dickerson,G,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Bryce,Drew,,LA Clippers,Clippers,LAC,LA,West,Pacific
+John,Coker,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Cuttino,Mobley,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Ruben,Patterson,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Sam,Jacobson,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Tyronn,Lue,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Kornel,David,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Cory,Carr,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Corey,Benjamin,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Paul,Grant,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Andrae,Patterson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Raef,LaFrentz,C,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Keon,Clark,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Tyson,Wheeler,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Robert,Traylor,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Earl,Boykins,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Antawn,Jamison,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Mike,Bibby,G,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Felipe,Lopez,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+J.R.,Henderson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Bonzi,Wells,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Damon,Jones,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Charles,R. Jones,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ryan,Stack,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Brian,Skinner,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jonathan,Kerner,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Korleone,Young,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Trevor,Winter,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Bruno,Sundov,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Mirsad,Turkcan,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Alvin,Sims,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Rasho,Nesterovic,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Todd,MacCulloch,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jumaine,Jones,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Lamar,Odom,F,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Obinna,Ekezie,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Milt,Palacio,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Devean,George,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Quincy,Lewis,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Scott,Padgett,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Andre,Miller,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Trajan,Langdon,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Anthony,Carter,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Rodney,Buford,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Shawn,Marion,G,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+James,Posey,F,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Ryan,Bowen,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Adrian,Griffin,F,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Wayne,Turner,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Aleksandar,Radojevic,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Steve,Francis,G,LA Clippers,Clippers,LAC,LA,West,Pacific
+Kenny,Thomas,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Vonteego,Cummings,G,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Corey,Maggette,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Chucky,Atkins,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Baron,Davis,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jason,Miskiri,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Eddie,Robinson,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Derek,Hood,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Jeff,Foster,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Jason,Terry,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Cal,Bowdler,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Dion,Glover,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Richard,Hamilton,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Laron,Profit,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Elton,Brand,F,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Michael,Ruffin,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Metta,World Peace,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Dedric,Willoughby,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Wally,Szczerbiak,F,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+William,Avery,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Rick,Hughes,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Leon,Smith,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Lazaro,Borrell,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Jermaine,Jackson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Chris,Herren,,LA Clippers,Clippers,LAC,LA,West,Pacific
+John,Celestand,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Lari,Ketner,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Tim,Young,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+DeMarco,Johnson,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+A.J.,Bramlett,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Harold,Jamison,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jonathan,Bender,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jamel,Thomas,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Evan,Eschmeyer,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Greg,Buckner,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Tim,James,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Rafer,Alston,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Ira,Bowman,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Derrick,Dial,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Calvin,Booth,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Maceo,Baston,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Jamaal,Magloire,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Hanno,Mottola,F,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+DerMarr,Johnson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Pepe,Sanchez,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Lavor,Postell,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Chris,Mihm,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Stephen,Jackson,F,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Kenyon,Martin,F,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Soumaila,Samake,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Desmond,Mason,G,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Ruben,Wolkowyski,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Stromile,Swift,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Joel,Przybilla,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Michael,Redd,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Eduardo,Najera,F,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Courtney,Alexander,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Hedo,Turkoglu,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Khalid,El-Amin,G,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Marcus,Fizer,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+A.J.,Guyton,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Dragan,Tarlac,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Darius,Miles,G,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Keyon,Dooling,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Quentin,Richardson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+DeShawn,Stevenson,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Mike,Miller,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Mark,Madsen,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Erick,Barkley,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mateen,Cleaves,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Morris,Peterson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Jason,Collier,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Daniel,Santiago,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Paul,McPherson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Ruben,Garces,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Jake,Tsakalidis,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Marc,Jackson,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Chris,Porter,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Jamal,Robinson,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Eddie,House,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jerome,Moiso,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Mark,Blount,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Dan,Langhi,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Garth,Joseph,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Jake,Voskuhl,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Mike,Penberthy,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Lee,Nailon,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Zendon,Hamilton,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Terrance,Roberson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Dalibor,Bagaric,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Ira,Newble,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Donnell,Harvey,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Brian,Cardinal,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Slava,Medvedenko,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Olumide,Oyedeji,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Andy,Panko,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Jabari,Smith,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Mamadou,N'diaye,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Sean,Colson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Art,Long,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Mike,Smith,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+David,Vanterpool,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Steve,Goodrich,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Eddie,Gill,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Wang,Zhi-zhi,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Dan,McClintock,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Raja,Bell,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jason,Hart,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Vladimir,Radmanovic,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Earl,Watson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Gerald,Wallace,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Jamaal,Tinsley,G,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Primoz,Brezec,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Richard,Jefferson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Brandon,Armstrong,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jason,Collins,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Carlos,Arroyo,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Michael,Bradley,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Steven,Hunter,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Andrei,Kirilenko,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Alton,Ford,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Charlie,Bell,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Speedy,Claxton,G,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Damone,Brown,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Loren,Woods,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Eddie,Griffin,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Oscar,Torres,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Tierre,Brown,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Terence,Morris,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Zeljko,Rebraca,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Rodney,White,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Joe,Johnson,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Joseph,Forte,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Kedrick,Brown,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+DeSagana,Diop,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Kwame,Brown,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Bobby,Simmons,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Etan,Thomas,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Ruben,Boumtje-Boumtje,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Jason,Richardson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Troy,Murphy,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Gilbert,Arenas,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Trenton,Hassell,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Eddy,Curry,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Tang,Hamilton,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Shane,Battier,F,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Will,Solomon,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Antonis,Fotsis,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Alvin,Jones,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jeff,Trepagnier,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Joe,Crispin,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Ernest,Brown,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Jarron,Collins,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Jamison,Brewer,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Malik,Allen,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Predrag,Drobnjak,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Chris,Andersen,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Kenny,Satterfield,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Brendan,Haywood,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Kirk,Haston,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Samuel,Dalembert,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Mike,James,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Maurice,Evans,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jeryl,Sasser,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Dean,Oliver,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Norman,Richardson,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Brian,Scalabrine,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Ratko,Varda,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Tremaine,Fowlkes,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mengke,Bateer,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Ike,Fontaine,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Ansu,Sesay,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Omar,Cook,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+John,Salmons,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Efthimios,Rentzias,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Pat,Burke,C,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Ryan,Humphrey,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Carlos,Boozer,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Smush,Parker,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Manu,Ginobili,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jannero,Pargo,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Kareem,Rush,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Frank,Williams,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Tayshaun,Prince,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Mehmet,Okur,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jared,Jeffries,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Juan,Dixon,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Nate,Huffman,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Chris,Jefferies,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Chris,Wilcox,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Marko,Jaric,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Qyntel,Woods,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Jay,Williams,G,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Lonny,Baxter,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+J.R.,Bremer,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Jiri,Welsch,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mike,Dunleavy,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Nikoloz,Tskitishvili,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Junior,Harrington,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Igor,Rakocevic,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Amar'e,Stoudemire,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Casey,Jacobsen,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Reggie,Evans,F,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Dan,Gadzuric,C,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Marcus,Haislip,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Flip,Murray,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Caron,Butler,F,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Rasual,Butler,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Drew,Gooden,F,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Gordan,Giricek,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Mike,Batiste,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Juaquin,Hawkins,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Yao,Ming,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Bostjan,Nachbar,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Fred,Jones,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Dan,Dickau,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Tamar,Slay,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Guy,Rucker,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Devin,Brown,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Robert,Archibald,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Adam,Harrington,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Ken,Johnson,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Cezary,Trybanski,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Dajuan,Wagner,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Predrag,Savovic,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Tito,Maddox,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Melvin,Ely,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Sean,Lampley,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Vincent,Yarbrough,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Mike,Wilks,G,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Paul,Shirley,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Antoine,Rigaudeau,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jamal,Sampson,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Roger,Mason Jr.,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Chris,Owens,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+T.J.,Ford,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Zoran,Planinic,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Josh,Howard,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Marquis,Daniels,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Luke,Walton,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jerome,Beasley,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Willie,Green,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Zarko,Cabarkapa,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Leandro,Barbosa,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Keith,McLeod,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Ndudi,Ebi,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Boris,Diaw,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Travis,Hansen,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+David,West,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Chris,Bosh,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Ben,Handlogten,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Sasha,Pavlovic,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Raul,Lopez,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Mo,Williams,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Jason,Kapono,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Darius,Songaila,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Mickael,Pietrus,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Britton,Johnsen,F,Miami Heat,Heat,MIA,Miami,East,Southeast
+Reece,Gaines,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Michael,Sweetney,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Marcus,Banks,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Francisco,Elson,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Darko,Milicic,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Jarvis,Hayes,F,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Steve,Blake,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Torraye,Braggs,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Chris,Kaman,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Luke,Ridnour,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Richie,Frahm,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Troy,Bell,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Kirk,Penney,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Matt,Carroll,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Kirk,Hinrich,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Linton,Johnson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Keith,Bogans,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Alex,Garcia,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Maciej,Lampe,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Theron,Smith,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Curtis,Borchardt,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Travis,Outlaw,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Kendrick,Perkins,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Dahntay,Jones,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Kaniel,Dickens,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Brian,Cook,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+James,Jones,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Brandon,Hunter,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Slavko,Vranes,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Ronald,Dupree,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Ime,Udoka,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Matt,Barnes,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Maurice,Carter,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Desmond,Penigar,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Hiram,Fuller,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Josh,Davis,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Desmond,Ferguson,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Sasha,Vujacic,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Carlos,Delfino,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Kevin,Martin,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Erik,Daniels,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+DJ,Mbenga,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Jameer,Nelson,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Kirk,Snyder,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Kris,Humphries,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Nick,Collison,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Robert,Swift,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Damien,Wilkins,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Lionel,Chalmers,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Quinton,Ross,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Josh,Smith,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Josh,Childress,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Royal,Ivey,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Jackson,Vroman,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Yuta,Tabuse,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Peter,John Ramos,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Sebastian,Telfair,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Andris,Biedrins,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Rafael,Araujo,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Matt,Bonner,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Beno,Udrih,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Tony,Allen,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Al,Jefferson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+David,Harrison,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+John,Edwards,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Luke,Jackson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Anderson,Varejao,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Nenad,Krstic,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Emeka,Okafor,F,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Bernard,Robinson,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Andres,Nocioni,F,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Ben,Gordon,G,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jared,Reiner,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Chris,Duhon,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Mario,Kasun,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Pape,Sow,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Geno,Carlisle,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Awvee,Storey,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Tim,Pickett,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Matt,Freije,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Andre,Barrett,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Justin,Reed,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Donta,Smith,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Delonte,West,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Horace,Jenkins,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Corsley,Edwards,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Antonio,Burks,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Tony,Bobbitt,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Luis,Flores,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ibrahim,Kutluay,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ha,Ha,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+James,Thomas,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Andre,Emmett,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Brandin,Knight,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Billy,Thomas,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Viktor,Khryapa,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Dorell,Wright,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Maurice,Baker,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Pavel,Podkolzin,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Jackie,Butler,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Mark,Jones,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Fabricio,Oberto,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Deng,Gai,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Josh,Powell,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Dijon,Thompson,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Francisco,Garcia,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Ronnie,Price,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Brandon,Bass,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Arvydas,Macijauskas,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Deron,Williams,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Robert,Whaley,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Earl,Barron,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Wayne,Simien,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Matt,Walsh,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Lawrence,Roberts,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Hakim,Warrick,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Andrew,Bynum,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Linas,Kleiza,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Daniel,Ewing,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+James,Singleton,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Yaroslav,Korolev,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Boniface,Ndong,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Johan,Petro,C,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Sean,May,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Sarunas,Jasikevicius,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Danny,Granger,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Travis,Diener,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jarrett,Jack,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Martell,Webster,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Rashad,McCants,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Nate,Robinson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Ryan,Gomes,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Orien,Greene,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Donell,Taylor,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Joey,Graham,F,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Charlie,Villanueva,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Jason,Maxiell,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Luther,Head,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Salim,Stoudamire,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Esteban,Batista,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Chris,Taft,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Aaron,Miles,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Devin,Green,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Monta,Ellis,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Kevin,Burleson,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Sergei,Monia,G,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Andre,Owens,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Eddie,Basden,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Martynas,Andriuskevicius,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+David,Lee,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Von,Wafer,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Andray,Blatche,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Melvin,Sanders,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Shavlik,Randolph,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Sharrod,Ford,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Alan,Anderson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Julius,Hodge,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Rawle,Marshall,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Alex,Scales,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Gerald,Fitch,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Ike,Diogu,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Antoine,Wright,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Anthony,Roberson,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Stephen,Graham,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+John,Lucas III,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Randy,Holcomb,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Sean,Banks,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Alex,Acker,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Bracey,Wright,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Chuck,Hayes,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Ronny,Turiaf,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Dwayne,Jones,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+James,Lang,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Noel,Felix,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Luke,Schenscher,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Will,Bynum,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Anthony,Grundy,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Derrick,Zimmerman,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Jordan,Farmar,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Tyrus,Thomas,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Chris,Quinn,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Robert,Hite,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Cedric,Simmons,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Hilton,Armstrong,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Leon,Powe,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Randy,Foye,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Craig,Smith,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Patrick,O'Bryant,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Damir,Markota,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+David,Noel,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Paul,Davis,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Renaldo,Balkman,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Mardy,Collins,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Alexander,Johnson,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Steve,Novak,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Vassilis,Spanoulis,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Ronnie,Brewer,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Brandon,Roy,G,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Mouhamed,Sene,C,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Mickael,Gelabale,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Adam,Morrison,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Walter,Herrmann,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Shelden,Williams,F,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Solomon,Jones,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Cedric,Bozeman,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Rodney,Carney,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Ivan,McFarlin,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jorge,Garbajosa,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Andrea,Bargnani,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Marcus,Williams,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Hassan,Adams,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mile,Ilic,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Yakhouba,Diawara,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Maurice,Ager,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Pops,Mensah-Bonsu,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Sergio,Rodriguez,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Shannon,Brown,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Dee,Brown,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Andreas,Glyniadakis,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Bobby,Jones,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Roger,Powell,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Tarence,Kinsey,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Allan,Ray,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Quincy,Douby,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Daniel,Gibson,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Marcus,Vinicius,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Chris,McCray,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Desmon,Farmer,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Steven,Smith,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Lynn,Greer,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Uros,Slokar,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Josh,Boone,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Will,Blalock,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+James,White,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Andre,Brown,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Renaldo,Major,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Shawne,Williams,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+James,Augustine,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Kelenna,Azubuike,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Justin,Williams,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Ryan,Hollins,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Will,Conroy,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Jeremy,Richardson,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Lou,Amundson,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Randolph,Morris,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Mike,Hall,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Kevinn,Pinkney,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Luis,Scola,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Coby,Karl,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Taurean,Green,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Darius,Washington,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Aaron,Gray,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Sean,Williams,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Yi,Jianlian,F,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Nick,Young,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Dominic,McGuire,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Oleksiy,Pecherov,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Courtney,Sims,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Juan,Carlos Navarro,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Nick,Fazekas,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Darryl,Watkins,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Mustafa,Shakur,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Julian,Wright,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+DJ,Strawberry,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Alando,Tucker,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Arron,Afflalo,G,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Daequan,Cook,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Jermareo,Davidson,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Acie,Law,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Mario,West,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Javaris,Crittenton,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Glen,Davis,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Chris,Richard,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Stephane,Lasme,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Al,Thornton,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Brandan,Wright,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Jamario,Moon,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Demetris,Nichols,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Morris,Almond,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Gabe,Pruitt,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Joel,Anthony,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Spencer,Hawes,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Brandon,Wallace,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Aaron,Brooks,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Cheikh,Samb,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Kosta,Perovic,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Thomas,Gardner,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Carl,Landry,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Josh,McRoberts,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Kyrylo,Fesenko,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Rodney,Stuckey,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Marcus,Williams,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Keith,Langford,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Guillermo,Diaz,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+C.J.,Watson,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Adam,Haluska,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+JamesOn,Curry,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Ramon,Sessions,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Mike,Harris,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Lance,Allred,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Blake,Ahearn,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Kasib,Powell,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+JJ,Hickson,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Joe,Alexander,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Greg,Oden,C,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Rudy,Fernandez,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Chris,Douglas-Roberts,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Mario,Chalmers,G,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Kyle,Weaver,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Brandon,Rush,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Roy,Hibbert,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+DeMarcus,Nelson,G,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Anthony,Randolph,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Sean,Singletary,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Jason,Thompson,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Bobby,Brown,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Mike,Taylor,,LA Clippers,Clippers,LAC,LA,West,Pacific
+O.J.,Mayo,G,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Darrell,Arthur,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Hamed,Haddadi,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Joey,Dorsey,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Roko,Ukic,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Alexis,Ajinca,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Sonny,Weems,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Marreese,Speights,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Donte,Greene,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Walter,Sharpe,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Rob,Kurz,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Henry,Walker,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Anthony,Morrow,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Othello,Hunter,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Steven,Hill,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Darnell,Jackson,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Sun,Sun,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Jawad,Williams,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Nathan,Jawai,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Cartier,Martin,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Malik,Hairston,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+J.R.,Giddens,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Trey,Johnson,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Joe,Crawford,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Dontell,Jefferson,,LA Clippers,Clippers,LAC,LA,West,Pacific
+DJ,White,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Chris,Hunter,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Rodrigue,Beaubois,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+David,Andersen,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Chase,Budinger,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jermaine,Taylor,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Lester,Hudson,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+DeJuan,Blair,,Miami Heat,Heat,MIA,Miami,East,Southeast
+AJ,Price,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Gerald,Henderson,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Derrick,Brown,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Jon,Brockman,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Eric,Maynor,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Ty,Lawson,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Toney,Douglas,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Jordan,Hill,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Marcus,Landry,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Austin,Daye,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Hasheem,Thabeet,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Sam,Young,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Trey,Gilder,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Earl,Clark,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Terrence,Williams,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Jonny,Flynn,G,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Brandon,Jennings,G,LA Clippers,Clippers,LAC,LA,West,Pacific
+DaJuan,Summers,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Taylor,Griffin,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Tyler,Hansbrough,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Marcus,Thornton,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Jeff,Ayres,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Byron,Mullens,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Sundiata,Gaines,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Cedric,Jackson,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Antonio,Anderson,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Reggie,Williams,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Othyus,Jeffers,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Alonzo,Gee,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Oliver,Lafayette,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Kenny,Hasbrouck,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Derrick,Caracter,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Devin,Ebanks,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Garret,Siler,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Armon,Johnson,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Luke,Babbitt,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Semih,Erden,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Pooh,Jeter,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Nikola,Pekovic,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Lazar,Hayward,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Damion,James,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Landry,Fields,G,LA Clippers,Clippers,LAC,LA,West,Pacific
+Andy,Rautins,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Sherron,Collins,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Dominique,Jones,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Jeff,Adrien,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Jeremy,Evans,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Gary,Forbes,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Jordan,Crawford,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Xavier,Henry,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Larry,Sanders,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Omer,Asik,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Cole,Aldrich,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+James,Anderson,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Gary,Neal,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Manny,Harris,,Denver Nuggets,Nuggets,DEN,Denver,West,Northwest
+Trevor,Booker,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Hamady,Ndiaye,,Houston Rockets,Rockets,HOU,Houston,West,Southwest
+Samardo,Samuels,,New York Knicks,Knicks,NYK,New York,East,Atlantic
+Luke,Harangody,,Boston Celtics,Celtics,BOS,Boston,East,Atlantic
+Kevin,Seraphin,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Greivis,Vasquez,,Toronto Raptors,Raptors,TOR,Toronto,East,Atlantic
+Tiago,Splitter,,Memphis Grizzlies,Grizzlies,MEM,Memphis,West,Southwest
+Willie,Warren,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Elliot,Williams,,Oklahoma City Thunder,Thunder,OKC,Oklahoma City,West,Northwest
+Solomon,Alabi,,Detroit Pistons,Pistons,DET,Detroit,East,Central
+Craig,Brackins,,LA Clippers,Clippers,LAC,LA,West,Pacific
+Ben,Uzoh,,Golden State Warriors,Warriors,GSW,Golden State,West,Pacific
+Gani,Lawal,,Dallas Mavericks,Mavericks,DAL,Dallas,West,Southwest
+Christian,Eyenga,,Atlanta Hawks,Hawks,ATL,Atlanta,East,Southeast
+Zabian,Dowdell,,Cleveland Cavaliers,Cavaliers,CLE,Cleveland,East,Central
+Larry,Owens,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Chris,Johnson,,Philadelphia 76ers,76ers,PHI,Philadelphia,East,Atlantic
+Pape,Sy,,Sacramento Kings,Kings,SAC,Sacramento,West,Pacific
+Marcus,Cousin,,Miami Heat,Heat,MIA,Miami,East,Southeast
+Jerel,McNeal,,New Orleans Pelicans,Pelicans,NOP,New Orleans,West,Southwest
+Patrick,Ewing,,Indiana Pacers,Pacers,IND,Indiana,East,Central
+Dexter,Pittman,,Charlotte Hornets,Hornets,CHA,Charlotte,East,Southeast
+Marqus,Blakely,,Portland Trail Blazers,Trail Blazers,POR,Portland,West,Northwest
+Justin,Harper,,Detroit Pistons,Pistons,DET,Detroit,East,Central
