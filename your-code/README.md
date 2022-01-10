@@ -1,4 +1,4 @@
-# Web Scrapping Project
+# Web Scraping Project
 
 Para este proyecto, extraje la información de la pagina de bookmarks.review en el apartado de best rewiewed con el fin de obtener la siguiente información:
 - Título del libro
