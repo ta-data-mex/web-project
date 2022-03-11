@@ -1,0 +1,16 @@
+id,d_codigo,d_asenta,d_tipo_asenta,d_mnpio,d_estado,d_ciudad,d_cp,c_estado,c_oficina,c_cp,c_tipo_asenta,c_mnpio,id_asenta_cpcons,d_zona,c_cve_ciudad
+54367,42950,Centro,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,0872,Urbano,09
+54368,42950,La Cruz,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,0921,Urbano,09
+54369,42952,Educación,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,2083,Urbano,09
+54370,42952,Villa Jardín,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,5539,Urbano,09
+54371,42952,Valle San Pedro,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,5540,Urbano,09
+54372,42952,Tlaxcoapan,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,5546,Urbano,09
+54373,42952,Industrial,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,2084,Urbano,09
+54374,42952,La Vega,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,1082,Urbano,09
+54375,42952,Carrizos,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,5545,Urbano,09
+54376,42953,Magisterial,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,5541,Urbano,09
+54377,42953,Tlaxcoapan,Barrio,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,02,074,5542,Urbano,09
+54378,42953,Lomas de Tlaxcoapan,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,1005,Urbano,09
+54379,42954,Ciudadela,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,2086,Urbano,09
+54380,42954,Morelos,Fraccionamiento,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,21,074,5543,Urbano,09
+54381,42954,Morelos,Colonia,Tlaxcoapan,Hidalgo,Tlaxcoapan,42951,13,42951,,09,074,2087,Urbano,09
